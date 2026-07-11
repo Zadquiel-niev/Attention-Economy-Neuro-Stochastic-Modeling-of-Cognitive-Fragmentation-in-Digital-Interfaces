@@ -1,0 +1,2024 @@
+User_ID,Country,Continent,Age,Gender,Daily_Screen_Time_Hours,Social_Media_Usage_Hours,App_Notifications_Received,Screen_Unlocks_Per_Day,Sleep_Hours,Sleep_Quality,Stress_Level,Productivity_Score,IFA,Frecuencia_Desbloqueo
+U00001,Japan,Asia,62,Other,7.0,1.1,462,187,6.8,Good,6,59,36.655093739809644,Siempre
+U00007,Germany,Europe,15,Male,6.7,2.6,88,115,9.3,Average,4,62,31.84905428041264,Frecuentemente
+U00014,Pakistan,Asia,56,Female,4.6,0.5,102,200,7.3,Poor,5,56,24.395202577071746,Siempre
+U00018,China,Asia,16,Other,6.7,1.9,431,128,7.8,Poor,7,56,32.5607431092232,Frecuentemente
+U00027,Pakistan,Asia,34,Male,8.6,2.1,95,131,7.0,Good,6,28,41.99209653424278,Frecuentemente
+U00028,Brazil,South America,40,Male,4.0,3.7,399,108,5.2,Average,7,75,18.765391528916574,Frecuentemente
+U00052,Brazil,South America,17,Male,2.4,1.1,89,36,9.2,Good,6,80,8.666202990346138,Rara vez
+U00055,USA,North America,45,Female,5.5,2.5,224,188,4.7,Poor,4,53,28.829608582828033,Siempre
+U00064,UK,Europe,44,Female,4.8,1.8,404,35,7.2,Good,10,60,17.200890904589325,Rara vez
+U00066,Australia,Oceania,60,Male,7.1,1.5,282,91,8.6,Good,6,47,32.10469889704819,Frecuentemente
+U00069,Australia,Oceania,63,Female,5.0,4.0,318,181,9.1,Poor,9,56,26.020033435383976,Siempre
+U00084,China,Asia,39,Other,8.8,3.3,195,144,8.4,Poor,5,23,43.795256933301054,Siempre
+U00090,Japan,Asia,64,Other,5.1,1.4,295,63,7.5,Poor,4,63,21.210303725134324,Rara vez
+U00105,Australia,Oceania,30,Other,2.0,4.5,457,189,7.6,Average,7,71,10.494048144320972,Siempre
+U00107,Japan,Asia,21,Other,10.6,1.0,264,140,7.6,Average,5,12,52.45685483800858,Frecuentemente
+U00115,Pakistan,Asia,32,Other,8.9,3.3,324,140,6.7,Good,3,39,44.0439630243657,Frecuentemente
+U00117,Brazil,South America,48,Female,8.4,1.2,474,37,6.0,Good,2,38,30.55572374170164,Rara vez
+U00123,Australia,Oceania,51,Other,9.3,1.9,422,94,7.6,Poor,2,30,42.35105509188503,Frecuentemente
+U00128,India,Asia,41,Other,6.6,4.0,388,78,6.8,Good,4,31,28.838355826282342,Frecuentemente
+U00133,Canada,North America,16,Other,6.4,2.3,122,114,6.4,Average,3,49,30.367565621524804,Frecuentemente
+U00135,Brazil,South America,33,Female,5.4,2.7,322,173,4.7,Average,6,56,27.85889861575846,Siempre
+U00138,Germany,Europe,34,Female,5.6,3.4,110,32,8.5,Good,7,81,19.580442344212287,Rara vez
+U00140,Germany,Europe,55,Male,9.2,1.9,435,111,6.5,Average,7,41,43.41018961591486,Frecuentemente
+U00143,India,Asia,25,Female,4.9,1.6,499,59,6.9,Poor,5,62,20.06228835488829,Rara vez
+U00145,Germany,Europe,50,Female,5.8,0.8,242,171,6.7,Poor,5,65,29.855467965518024,Siempre
+U00149,Brazil,South America,58,Other,6.6,4.2,390,104,9.0,Good,1,48,30.71613831103965,Frecuentemente
+U00158,India,Asia,20,Male,8.3,2.0,116,123,7.6,Poor,4,38,40.00833699452181,Frecuentemente
+U00163,Australia,Oceania,57,Male,5.6,3.9,364,105,6.8,Average,4,66,26.115258927027572,Frecuentemente
+U00176,UK,Europe,36,Other,6.9,1.0,169,43,7.0,Poor,6,50,26.110908474036002,Rara vez
+U00180,Australia,Oceania,21,Female,10.0,3.7,312,168,7.0,Good,4,16,51.29898714923073,Siempre
+U00181,Japan,Asia,29,Other,2.8,0.8,270,185,7.7,Good,9,63,14.632090686396964,Siempre
+U00182,UK,Europe,48,Female,4.7,1.5,485,165,7.7,Average,8,60,24.026342605275754,Siempre
+U00188,Canada,North America,58,Female,4.6,1.4,304,197,7.1,Average,2,52,24.32602834119486,Siempre
+U00192,Japan,Asia,57,Female,6.9,4.3,139,84,8.2,Average,5,61,30.654293669783186,Frecuentemente
+U00197,India,Asia,38,Other,5.5,2.2,482,187,5.6,Average,6,66,28.800430795564722,Siempre
+U00218,Canada,North America,22,Female,7.0,3.3,456,77,8.5,Poor,3,52,30.496961786827143,Frecuentemente
+U00221,UK,Europe,35,Female,4.0,3.6,72,179,6.6,Average,4,66,20.77182740356084,Siempre
+U00223,Germany,Europe,60,Other,7.3,2.3,439,40,8.3,Good,3,42,27.109076086941446,Rara vez
+U00224,Pakistan,Asia,60,Other,4.5,1.2,365,53,6.3,Poor,7,80,17.950428209539236,Rara vez
+U00226,Japan,Asia,48,Other,5.9,4.0,257,65,6.3,Average,5,45,24.71896297795591,Rara vez
+U00230,UK,Europe,52,Female,7.1,2.8,146,120,4.3,Average,4,46,34.050112873736865,Frecuentemente
+U00238,Brazil,South America,44,Male,5.9,2.9,337,127,6.4,Poor,3,56,28.626978557125742,Frecuentemente
+U00243,India,Asia,57,Female,7.9,1.6,260,161,6.6,Good,7,25,40.192011048335836,Siempre
+U00246,Brazil,South America,15,Other,6.1,1.2,361,33,6.7,Good,3,51,21.510799200158583,Rara vez
+U00251,Pakistan,Asia,44,Male,4.9,1.1,331,142,7.3,Poor,2,56,24.317938688273546,Siempre
+U00257,Canada,North America,41,Male,2.5,1.6,475,103,9.2,Good,5,84,11.61097724785343,Frecuentemente
+U00261,Japan,Asia,62,Female,3.8,3.2,237,63,6.5,Average,3,82,15.803755716766752,Rara vez
+U00269,USA,North America,17,Male,7.8,1.5,452,151,8.1,Poor,3,51,39.18626806260095,Siempre
+U00272,India,Asia,17,Female,9.5,0.6,175,30,7.0,Average,2,28,32.62287844260889,Rara vez
+U00273,India,Asia,43,Other,8.2,2.7,99,120,10.5,Poor,5,25,39.325482473893274,Frecuentemente
+U00275,USA,North America,26,Other,4.1,2.1,361,63,9.4,Good,4,83,17.05142064177465,Rara vez
+U00277,USA,North America,45,Other,5.8,2.1,421,76,5.2,Average,7,71,25.194071446751366,Frecuentemente
+U00281,India,Asia,47,Other,4.9,2.0,107,64,6.8,Average,6,62,20.45449762248862,Rara vez
+U00284,Pakistan,Asia,31,Female,8.2,0.7,485,174,6.4,Good,5,22,42.351244986172816,Siempre
+U00293,Australia,Oceania,57,Male,6.4,3.5,203,97,8.4,Good,4,61,29.343791863491663,Frecuentemente
+U00295,UK,Europe,18,Male,8.5,4.0,400,108,8.7,Poor,3,42,39.87645699894772,Frecuentemente
+U00299,Germany,Europe,26,Other,6.5,3.9,287,87,7.3,Good,6,43,29.102689294108345,Frecuentemente
+U00304,China,Asia,37,Male,3.1,2.3,475,186,5.0,Good,5,53,16.21643671224922,Siempre
+U00308,UK,Europe,16,Female,4.6,3.9,395,74,4.0,Poor,5,83,19.860445322267026,Frecuentemente
+U00318,China,Asia,37,Male,6.6,2.6,86,93,9.5,Good,5,57,29.985745562982025,Frecuentemente
+U00320,Pakistan,Asia,65,Other,4.4,3.7,322,114,4.1,Poor,4,74,20.877701364798302,Frecuentemente
+U00324,Australia,Oceania,58,Other,6.8,3.9,214,161,8.8,Good,3,21,34.595655079580204,Siempre
+U00328,USA,North America,56,Other,2.6,4.2,450,143,6.3,Poor,1,86,12.921514578897602,Siempre
+U00333,Japan,Asia,52,Female,6.9,2.8,297,110,7.3,Average,2,46,32.495758389055105,Frecuentemente
+U00335,China,Asia,21,Female,7.3,0.6,288,144,6.0,Average,8,22,36.33015631967019,Siempre
+U00346,India,Asia,24,Male,9.7,2.6,235,155,6.3,Poor,5,4,48.98360327032051,Siempre
+U00349,USA,North America,24,Female,6.5,0.9,187,52,8.6,Poor,3,62,25.806897438088793,Rara vez
+U00352,Pakistan,Asia,27,Male,9.0,0.6,261,63,7.9,Average,6,23,37.42994775023704,Rara vez
+U00355,Brazil,South America,19,Male,8.4,3.7,189,143,5.4,Poor,3,43,41.74643171643841,Siempre
+U00366,India,Asia,48,Other,3.7,0.6,229,128,5.0,Good,1,77,17.98130589613819,Frecuentemente
+U00371,China,Asia,20,Other,5.2,1.3,169,93,7.5,Poor,5,49,23.62513286780402,Frecuentemente
+U00373,USA,North America,16,Other,6.4,3.0,390,65,6.5,Good,4,56,26.81379034896912,Rara vez
+U00390,Australia,Oceania,42,Male,4.3,3.9,53,138,7.1,Average,7,63,21.218237912461973,Frecuentemente
+U00398,China,Asia,49,Other,1.6,2.5,488,193,6.2,Average,3,91,8.428573054501326,Siempre
+U00401,UK,Europe,63,Female,8.0,1.5,436,97,9.1,Average,3,40,36.67973982936458,Frecuentemente
+U00421,Australia,Oceania,56,Female,6.9,2.5,164,162,8.3,Poor,5,49,35.146876385566664,Siempre
+U00426,Pakistan,Asia,62,Other,2.3,3.5,126,199,6.4,Average,7,78,12.186129943060482,Siempre
+U00429,Germany,Europe,65,Male,6.6,4.1,137,196,10.1,Poor,2,59,34.86914460967072,Siempre
+U00430,China,Asia,32,Other,7.6,1.5,418,85,7.6,Average,3,33,33.853039451526655,Frecuentemente
+U00435,Brazil,South America,65,Male,5.5,1.8,328,84,8.9,Poor,3,57,24.434581910696743,Frecuentemente
+U00437,Brazil,South America,33,Female,4.5,3.7,346,66,6.3,Average,3,55,18.921116787259347,Rara vez
+U00439,USA,North America,25,Male,4.9,2.4,386,96,8.3,Average,1,51,22.416083794666577,Frecuentemente
+U00440,Germany,Europe,22,Male,8.7,1.8,472,73,6.5,Poor,4,46,37.44536631087628,Frecuentemente
+U00441,Australia,Oceania,25,Other,11.1,1.3,387,168,3.6,Average,6,5,56.941875735646114,Siempre
+U00442,Australia,Oceania,55,Male,3.3,1.4,428,56,3.7,Good,3,75,13.342069183854015,Rara vez
+U00444,Canada,North America,30,Female,4.5,1.8,495,88,8.3,Average,3,70,20.19886366379463,Frecuentemente
+U00451,Germany,Europe,60,Other,5.0,1.1,388,40,8.3,Good,2,34,18.56786033352154,Rara vez
+U00453,USA,North America,22,Other,8.2,1.9,460,69,7.0,Average,4,33,34.83766098480474,Rara vez
+U00454,Germany,Europe,39,Male,3.5,2.3,211,167,8.4,Good,8,88,17.933873927911407,Siempre
+U00458,Japan,Asia,28,Male,4.5,3.8,321,97,7.6,Average,7,46,20.632353654017574,Frecuentemente
+U00462,Brazil,South America,38,Other,0.3,3.4,426,90,9.0,Poor,6,80,1.3532578519550549,Frecuentemente
+U00468,Australia,Oceania,28,Male,4.5,2.4,60,196,6.1,Average,4,51,23.774416779320948,Siempre
+U00483,Canada,North America,43,Female,7.3,1.0,147,92,5.4,Good,7,43,33.08797630001877,Frecuentemente
+U00486,Brazil,South America,15,Other,7.1,3.1,159,76,8.3,Good,4,49,30.841018495161155,Frecuentemente
+U00495,Japan,Asia,33,Male,6.4,1.7,169,167,6.6,Good,3,59,32.793369468180856,Siempre
+U00498,Japan,Asia,53,Male,6.5,2.9,94,48,5.9,Average,3,50,25.296831937719073,Rara vez
+U00501,Pakistan,Asia,30,Other,6.1,4.0,108,43,8.4,Good,4,50,23.083556766901392,Rara vez
+U00502,USA,North America,15,Female,9.8,0.7,115,147,5.7,Poor,3,12,48.97268028288833,Siempre
+U00512,Germany,Europe,19,Other,5.3,2.9,169,110,8.1,Good,4,46,24.96051006695537,Frecuentemente
+U00522,India,Asia,48,Other,4.2,1.7,289,167,8.2,Poor,5,53,21.52064871349369,Siempre
+U00524,India,Asia,41,Female,7.0,2.6,125,162,6.7,Poor,2,35,35.65625140564734,Siempre
+U00527,UK,Europe,42,Female,3.6,1.3,171,127,8.5,Average,3,72,17.46730895011062,Frecuentemente
+U00533,Pakistan,Asia,18,Female,9.1,3.3,69,138,8.9,Average,3,35,44.90371279148929,Frecuentemente
+U00537,Brazil,South America,52,Female,9.2,3.0,474,77,7.2,Average,7,23,40.08172120554424,Frecuentemente
+U00547,UK,Europe,47,Female,1.6,2.6,291,132,4.9,Poor,4,75,7.824558605154806,Frecuentemente
+U00558,Canada,North America,55,Female,9.7,4.4,348,37,5.7,Good,9,26,35.284585749345936,Rara vez
+U00570,USA,North America,42,Male,3.5,0.6,474,73,6.2,Average,2,92,15.064227826214596,Frecuentemente
+U00579,Pakistan,Asia,48,Male,5.6,1.6,202,104,6.8,Good,5,52,26.062177960882128,Frecuentemente
+U00589,India,Asia,49,Male,4.7,1.6,91,60,8.9,Good,4,65,19.321107161614563,Rara vez
+U00591,Germany,Europe,20,Male,5.8,4.2,57,140,8.0,Average,3,78,28.702807364193376,Frecuentemente
+U00593,Australia,Oceania,25,Male,5.8,0.6,359,137,8.2,Average,3,67,28.57807137391179,Frecuentemente
+U00599,Germany,Europe,52,Other,5.0,1.3,305,105,8.8,Poor,7,68,23.317195470560335,Frecuentemente
+U00601,Australia,Oceania,33,Other,7.1,0.9,182,102,7.6,Average,6,47,32.90657581643041,Frecuentemente
+U00607,UK,Europe,18,Female,4.8,4.4,397,112,5.0,Poor,3,61,22.691461529819236,Frecuentemente
+U00614,India,Asia,17,Other,7.6,0.9,294,57,9.0,Average,7,43,30.859366880152784,Rara vez
+U00622,India,Asia,24,Female,1.9,1.8,301,104,7.1,Good,4,84,8.842524665299294,Frecuentemente
+U00627,USA,North America,15,Female,9.2,1.5,403,136,6.9,Average,3,17,45.263824517618744,Frecuentemente
+U00632,Australia,Oceania,56,Other,11.2,2.1,473,93,4.4,Good,6,22,50.88490156142404,Frecuentemente
+U00634,China,Asia,26,Male,6.2,3.9,412,126,5.8,Average,3,45,30.033959936043267,Frecuentemente
+U00636,Germany,Europe,26,Female,6.2,3.4,251,61,7.2,Good,3,41,25.58823318727957,Rara vez
+U00643,India,Asia,34,Male,8.7,2.0,59,167,6.8,Poor,2,25,44.57848662080835,Siempre
+U00645,Canada,North America,18,Male,8.6,4.1,282,101,8.8,Poor,2,44,39.77476619424473,Frecuentemente
+U00646,Brazil,South America,37,Male,5.7,2.6,180,100,9.0,Poor,4,62,26.30618694599518,Frecuentemente
+U00659,Canada,North America,20,Male,2.0,4.4,471,94,6.6,Average,5,78,9.107753783201082,Frecuentemente
+U00663,Germany,Europe,60,Other,5.6,4.4,380,192,7.4,Good,4,61,29.471065057867357,Siempre
+U00681,UK,Europe,49,Female,6.2,2.6,304,142,7.0,Good,10,37,30.769636707611426,Siempre
+U00708,Pakistan,Asia,53,Other,5.9,4.2,304,46,8.8,Good,4,61,22.715870850089345,Rara vez
+U00710,Pakistan,Asia,21,Other,10.7,3.8,223,121,4.9,Poor,4,2,51.40302517864584,Frecuentemente
+U00713,UK,Europe,45,Female,6.8,1.7,175,67,6.7,Poor,4,44,28.692652395197527,Rara vez
+U00728,USA,North America,24,Male,2.6,0.7,410,132,8.2,Good,8,83,12.71490773337656,Frecuentemente
+U00736,UK,Europe,63,Other,6.4,4.3,359,193,9.4,Poor,2,57,33.714292218005305,Siempre
+U00739,Australia,Oceania,24,Female,3.0,1.0,153,198,8.7,Poor,4,76,15.879914474173477,Siempre
+U00743,Japan,Asia,47,Male,9.1,4.4,485,142,7.6,Poor,8,32,45.16188613536515,Siempre
+U00751,UK,Europe,50,Male,3.1,3.6,67,49,5.6,Good,7,80,12.127271316827253,Rara vez
+U00753,China,Asia,32,Female,7.1,2.4,118,84,4.5,Poor,3,31,31.542823921081247,Frecuentemente
+U00755,USA,North America,30,Female,2.1,1.0,293,111,9.2,Average,6,75,9.908847629719698,Frecuentemente
+U00758,Pakistan,Asia,17,Other,4.5,3.9,201,180,5.9,Average,5,53,23.393236640696216,Siempre
+U00766,Australia,Oceania,38,Other,4.9,0.5,215,176,8.0,Good,6,56,25.363133689611765,Siempre
+U00768,Brazil,South America,53,Other,6.2,3.2,362,170,6.6,Good,5,53,31.878314050316494,Siempre
+U00769,Japan,Asia,50,Other,7.7,2.0,178,30,5.8,Good,4,32,26.441701474535627,Rara vez
+U00773,Japan,Asia,41,Female,6.5,1.5,404,128,9.4,Poor,5,58,31.588780628350868,Frecuentemente
+U00776,Brazil,South America,53,Male,6.4,0.7,56,132,5.0,Average,8,60,31.298234420619224,Frecuentemente
+U00777,Australia,Oceania,44,Other,3.6,3.5,140,175,7.7,Poor,5,69,18.613742382137346,Siempre
+U00778,China,Asia,31,Male,3.4,1.6,452,60,6.5,Average,5,67,13.976971138189258,Rara vez
+U00786,Australia,Oceania,59,Other,5.8,2.7,261,58,9.2,Poor,3,51,23.649717174653173,Rara vez
+U00790,Germany,Europe,26,Female,6.0,2.5,494,119,7.4,Good,5,48,28.724950456692277,Frecuentemente
+U00797,India,Asia,17,Other,5.1,2.6,375,145,8.6,Poor,2,62,25.416393770712514,Siempre
+U00799,Brazil,South America,36,Female,6.3,1.2,388,116,8.5,Average,1,47,30.001695789225863,Frecuentemente
+U00802,UK,Europe,44,Other,5.1,1.4,308,32,6.6,Average,5,61,17.832188563479047,Rara vez
+U00803,Canada,North America,61,Female,4.3,3.6,373,200,6.4,Poor,6,86,22.804211104654026,Siempre
+U00804,Brazil,South America,19,Male,6.8,3.7,103,36,6.5,Average,5,33,24.554241805980723,Rara vez
+U00806,China,Asia,36,Other,5.7,2.9,363,163,5.8,Good,4,51,29.069238638597934,Siempre
+U00813,Pakistan,Asia,63,Female,5.1,2.1,255,107,6.2,Good,6,61,23.87886925833352,Frecuentemente
+U00815,Germany,Europe,32,Female,8.4,3.5,263,169,5.8,Good,7,24,43.1407068712222,Siempre
+U00816,Australia,Oceania,38,Female,4.6,2.6,298,82,9.7,Poor,8,69,20.32666679586435,Frecuentemente
+U00818,Japan,Asia,63,Male,5.5,4.1,100,120,7.2,Poor,3,57,26.376848000782076,Frecuentemente
+U00824,Germany,Europe,34,Male,4.5,1.6,466,82,5.3,Poor,10,59,19.88478273508469,Frecuentemente
+U00830,China,Asia,59,Male,4.3,4.0,72,154,6.6,Good,7,65,21.68672800275276,Siempre
+U00834,Brazil,South America,58,Female,3.0,4.4,334,158,8.3,Poor,8,69,15.206712606660695,Siempre
+U00837,Australia,Oceania,41,Male,5.7,2.8,488,133,7.8,Poor,4,50,27.917686859720195,Frecuentemente
+U00838,Australia,Oceania,48,Other,8.1,2.7,336,176,7.3,Average,5,38,41.92681283384801,Siempre
+U00839,Brazil,South America,42,Other,6.2,3.0,172,110,6.6,Average,1,66,29.199087248136472,Frecuentemente
+U00842,UK,Europe,16,Female,4.5,1.4,211,179,6.2,Poor,8,62,23.368305829005948,Siempre
+U00844,Brazil,South America,36,Other,7.4,4.3,363,123,10.9,Average,5,20,35.67008358547728,Frecuentemente
+U00848,Australia,Oceania,58,Other,7.4,1.7,375,127,5.7,Good,4,55,35.90502395300517,Frecuentemente
+U00849,Brazil,South America,16,Male,6.2,4.5,228,96,5.9,Average,7,52,28.363208066720976,Frecuentemente
+U00858,Germany,Europe,20,Female,6.5,2.5,385,109,6.9,Good,3,38,30.55312237765071,Frecuentemente
+U00883,Pakistan,Asia,41,Female,5.3,2.7,464,115,7.4,Average,3,51,25.194028012863733,Frecuentemente
+U00885,China,Asia,15,Female,4.3,1.5,186,182,8.0,Average,4,61,22.40079045721811,Siempre
+U00891,USA,North America,44,Other,4.5,3.3,389,102,6.2,Poor,2,61,20.856280447033363,Frecuentemente
+U00903,Pakistan,Asia,52,Male,2.4,4.1,86,182,8.5,Poor,7,77,12.502766766819411,Siempre
+U00908,Australia,Oceania,23,Male,2.8,1.2,56,127,7.6,Good,5,89,13.585684738974926,Frecuentemente
+U00911,USA,North America,24,Male,7.8,3.5,258,190,7.5,Good,2,34,40.967732738763715,Siempre
+U00914,Australia,Oceania,39,Male,8.7,3.4,181,62,6.9,Good,5,24,36.04527211960633,Rara vez
+U00916,Pakistan,Asia,38,Other,5.5,1.3,233,198,7.0,Average,5,50,29.113176535984707,Siempre
+U00917,Australia,Oceania,53,Female,5.6,0.7,190,157,8.7,Poor,4,57,28.350532184951014,Siempre
+U00924,USA,North America,60,Other,5.9,3.5,109,109,5.8,Poor,5,59,27.732834158175258,Frecuentemente
+U00937,India,Asia,58,Other,3.4,1.1,143,87,5.2,Poor,5,76,15.222945169225904,Frecuentemente
+U00945,UK,Europe,28,Female,7.1,1.0,141,131,8.6,Average,3,33,34.66789365036323,Frecuentemente
+U00948,Germany,Europe,61,Male,6.4,1.0,415,198,8.4,Average,4,62,33.877150878236755,Siempre
+U00950,Pakistan,Asia,62,Other,9.0,1.6,425,190,2.5,Good,6,35,47.27046085241967,Siempre
+U00952,Canada,North America,56,Female,7.7,2.5,57,38,6.2,Good,4,21,28.209424675198278,Rara vez
+U00953,UK,Europe,54,Other,4.0,3.0,275,178,6.6,Poor,8,68,20.74954322336302,Siempre
+U00954,Canada,North America,16,Other,5.0,1.4,220,194,5.5,Poor,3,47,26.364997792818734,Siempre
+U00956,Australia,Oceania,58,Other,5.6,2.0,75,58,5.5,Average,4,42,22.83420968587203,Rara vez
+U00957,Germany,Europe,28,Female,3.9,2.2,309,158,10.7,Good,6,66,19.7687263886589,Siempre
+U00960,UK,Europe,55,Female,5.9,1.0,390,136,8.1,Good,4,42,29.02788746238594,Frecuentemente
+U00966,Australia,Oceania,56,Female,9.8,1.6,79,140,7.2,Poor,6,11,48.49784692570606,Frecuentemente
+U00970,UK,Europe,61,Female,5.8,3.2,89,89,6.5,Poor,4,46,26.098896087915538,Frecuentemente
+U00971,China,Asia,52,Male,7.3,2.9,374,60,5.1,Good,1,31,30.009379208465173,Rara vez
+U00972,China,Asia,32,Male,5.7,3.6,228,188,5.9,Good,2,56,29.877957985839963,Siempre
+U00973,Japan,Asia,35,Male,5.0,1.3,362,64,7.1,Good,9,63,20.871936349478183,Rara vez
+U00976,Brazil,South America,19,Other,4.3,1.8,157,131,8.6,Average,5,65,20.99604826712139,Frecuentemente
+U00979,Pakistan,Asia,34,Male,5.2,4.2,67,103,5.6,Good,5,46,24.15083267553514,Frecuentemente
+U00981,Canada,North America,50,Male,4.8,3.2,68,115,7.8,Average,6,73,22.817232917310548,Frecuentemente
+U00983,Germany,Europe,19,Female,7.3,3.3,450,185,7.5,Poor,7,36,38.14795071810637,Siempre
+U00984,Brazil,South America,25,Female,4.8,2.9,241,102,5.0,Poor,3,63,22.24669914350225,Frecuentemente
+U00991,India,Asia,51,Male,8.1,2.4,412,62,8.2,Good,4,24,33.55939128377141,Rara vez
+U00998,UK,Europe,43,Female,10.6,2.6,264,165,5.9,Good,7,11,54.187070556579364,Siempre
+U00999,Germany,Europe,60,Male,7.9,2.2,461,32,5.1,Good,9,45,27.622409735585194,Rara vez
+U01005,Brazil,South America,29,Male,5.3,3.8,246,33,6.9,Poor,3,59,18.689710780465656,Rara vez
+U01018,Australia,Oceania,59,Female,7.4,0.7,369,192,7.2,Good,2,26,38.943907397896155,Siempre
+U01025,China,Asia,15,Other,3.9,1.5,293,147,7.4,Poor,5,52,19.489127867680047,Siempre
+U01032,Brazil,South America,37,Male,6.3,3.9,235,160,9.4,Average,7,56,32.01284749940211,Siempre
+U01044,Germany,Europe,25,Other,9.2,1.9,332,101,5.5,Poor,4,27,42.54974988221529,Frecuentemente
+U01046,Japan,Asia,64,Other,6.3,1.7,162,119,4.8,Good,5,38,30.16119797952689,Frecuentemente
+U01054,Pakistan,Asia,22,Other,8.7,4.0,81,157,7.6,Good,2,8,44.044576787334606,Siempre
+U01058,Germany,Europe,43,Female,7.6,1.4,265,108,5.3,Poor,6,30,35.65424390494149,Frecuentemente
+U01068,USA,North America,31,Female,2.3,0.7,347,177,8.2,Good,3,71,11.918102165671794,Siempre
+U01072,Australia,Oceania,39,Male,3.5,0.6,428,140,9.8,Poor,1,83,17.32065961632359,Frecuentemente
+U01073,Pakistan,Asia,58,Male,4.8,3.6,464,154,11.6,Average,3,73,24.208440561212385,Siempre
+U01079,Pakistan,Asia,29,Male,2.5,0.8,120,175,5.8,Poor,2,59,12.926209987595378,Siempre
+U01103,Australia,Oceania,54,Female,6.9,2.0,116,101,8.4,Poor,3,52,31.912312411661468,Frecuentemente
+U01104,UK,Europe,34,Male,3.8,2.9,64,50,8.6,Average,9,77,14.940937404352438,Rara vez
+U01108,India,Asia,19,Female,6.1,4.4,394,171,6.3,Average,5,58,31.39971630856206,Siempre
+U01109,Pakistan,Asia,31,Other,7.4,3.6,120,50,8.7,Poor,4,27,29.09550968216001,Rara vez
+U01111,Australia,Oceania,26,Female,4.5,2.6,369,79,4.3,Average,7,63,19.719119856032464,Frecuentemente
+U01113,Brazil,South America,54,Female,6.3,2.2,191,51,7.3,Good,7,55,24.89283542706299,Rara vez
+U01117,Canada,North America,37,Male,4.1,2.8,405,99,5.9,Average,6,78,18.881197762551174,Frecuentemente
+U01123,UK,Europe,42,Female,4.2,4.3,98,50,7.1,Average,5,46,16.51366765744217,Rara vez
+U01129,USA,North America,29,Female,9.0,2.3,385,197,7.2,Average,5,28,47.594403276250816,Siempre
+U01138,China,Asia,27,Male,9.6,3.0,378,139,9.7,Average,3,25,47.43976725704932,Frecuentemente
+U01146,USA,North America,22,Female,10.3,4.4,493,37,5.5,Poor,7,10,37.46713744518178,Rara vez
+U01151,Germany,Europe,51,Other,4.4,1.7,396,177,5.7,Poor,1,61,22.799847621285178,Siempre
+U01169,UK,Europe,34,Male,7.0,1.8,259,128,7.4,Average,2,41,34.018686830531706,Frecuentemente
+U01180,Canada,North America,15,Other,4.3,3.6,201,85,7.7,Poor,6,55,19.153693373890082,Frecuentemente
+U01181,USA,North America,17,Other,4.1,3.6,190,30,4.1,Average,5,66,14.079347538389099,Rara vez
+U01186,Australia,Oceania,48,Female,7.0,3.3,135,47,7.0,Average,6,39,27.098407076355237,Rara vez
+U01189,Brazil,South America,43,Male,4.0,2.8,378,163,7.5,Good,7,63,20.399465711296795,Siempre
+U01192,Germany,Europe,25,Male,9.7,2.7,128,175,10.3,Poor,4,14,50.15369475187006,Siempre
+U01194,Pakistan,Asia,35,Other,6.2,3.6,289,169,9.8,Good,7,41,31.841950309711624,Siempre
+U01195,Japan,Asia,39,Other,6.4,3.6,101,69,5.6,Average,5,50,27.1903695491159,Rara vez
+U01201,USA,North America,23,Male,5.9,1.1,200,174,8.9,Good,5,36,30.472237246148737,Siempre
+U01206,Pakistan,Asia,41,Other,6.5,3.9,99,142,6.8,Poor,5,32,32.25849009668939,Siempre
+U01207,Japan,Asia,65,Female,1.9,0.7,218,185,7.1,Good,6,78,9.928918680055082,Siempre
+U01212,UK,Europe,60,Other,8.0,4.0,454,34,9.3,Poor,6,41,28.442784491915308,Rara vez
+U01216,UK,Europe,60,Other,8.1,1.0,468,127,5.1,Good,6,53,39.30144513774889,Frecuentemente
+U01218,China,Asia,57,Male,5.4,3.5,328,67,7.2,Average,3,44,22.78534160795098,Rara vez
+U01231,India,Asia,24,Other,5.8,2.0,66,182,8.1,Average,6,40,30.215019686480243,Siempre
+U01234,USA,North America,53,Female,5.5,2.6,393,78,4.7,Poor,4,44,24.031963188568618,Frecuentemente
+U01247,Canada,North America,44,Male,3.4,1.0,487,194,3.7,Average,5,75,17.92819849911674,Siempre
+U01248,Pakistan,Asia,65,Other,9.4,1.1,262,117,7.8,Average,3,33,44.844435469977256,Frecuentemente
+U01251,Canada,North America,25,Other,6.1,2.0,484,182,8.2,Poor,3,43,31.77786553233267,Siempre
+U01254,Canada,North America,55,Male,4.9,4.1,460,54,8.4,Good,2,55,19.63593260763911,Rara vez
+U01255,India,Asia,50,Other,2.6,3.9,493,169,7.5,Average,7,90,13.353075936330681,Siempre
+U01264,UK,Europe,45,Male,5.7,2.6,210,164,4.2,Average,2,62,29.103889201233308,Siempre
+U01265,UK,Europe,36,Female,3.9,4.0,264,168,6.9,Good,5,66,20.006604988199985,Siempre
+U01266,Brazil,South America,52,Female,7.4,2.3,301,95,7.3,Average,5,31,33.77617661686199,Frecuentemente
+U01267,Canada,North America,64,Other,8.7,3.2,492,78,8.6,Good,6,15,38.014196316463085,Frecuentemente
+U01273,USA,North America,38,Male,4.5,1.0,221,155,6.8,Good,5,72,22.724352032622917,Siempre
+U01276,Pakistan,Asia,21,Female,6.9,2.5,295,131,7.1,Poor,3,39,33.691333265845955,Frecuentemente
+U01277,India,Asia,56,Other,3.2,1.6,357,104,6.1,Good,5,67,14.892673120504075,Frecuentemente
+U01278,UK,Europe,52,Male,7.4,3.3,487,81,3.8,Poor,7,56,32.60972242975548,Frecuentemente
+U01283,China,Asia,52,Female,8.7,2.4,114,87,3.4,Poor,3,25,38.952830285960395,Frecuentemente
+U01289,Pakistan,Asia,26,Male,4.5,4.1,373,131,9.2,Average,2,68,21.972608651638666,Frecuentemente
+U01296,Brazil,South America,36,Female,4.6,2.5,95,74,8.6,Poor,4,67,19.860445322267026,Frecuentemente
+U01317,Pakistan,Asia,16,Other,3.8,1.3,334,131,6.9,Average,3,66,18.554647305828208,Frecuentemente
+U01325,Germany,Europe,64,Female,10.0,4.4,82,171,6.8,Good,4,0,51.47494476813453,Siempre
+U01336,Germany,Europe,29,Other,4.5,1.9,166,169,6.7,Average,8,62,23.11109296672618,Siempre
+U01338,UK,Europe,29,Other,2.9,4.2,269,111,8.5,Poor,6,83,13.683646726755773,Frecuentemente
+U01339,Pakistan,Asia,20,Other,6.5,2.3,88,125,8.1,Good,7,47,31.435832395184608,Frecuentemente
+U01351,Canada,North America,55,Other,1.5,3.7,198,136,4.8,Average,4,100,7.379971388742188,Frecuentemente
+U01356,Germany,Europe,65,Other,7.5,4.2,494,188,5.2,Average,4,33,39.31310261294732,Siempre
+U01360,Australia,Oceania,63,Other,4.2,1.2,362,171,7.8,Good,5,69,21.619476802616504,Siempre
+U01366,USA,North America,18,Other,6.9,0.9,483,35,8.3,Good,2,43,24.72628067534716,Rara vez
+U01369,Canada,North America,39,Other,3.3,3.1,152,56,7.0,Good,7,91,13.342069183854015,Rara vez
+U01371,China,Asia,37,Male,2.1,3.8,309,127,4.8,Good,7,83,10.189263554231196,Frecuentemente
+U01378,Australia,Oceania,20,Male,5.6,3.4,146,46,7.8,Average,4,61,21.560826569576324,Rara vez
+U01384,USA,North America,30,Male,5.0,3.2,477,104,8.1,Poor,5,66,23.269801750787614,Frecuentemente
+U01399,Germany,Europe,49,Other,5.4,3.5,282,132,6.3,Good,5,50,26.40788529239747,Frecuentemente
+U01407,Japan,Asia,50,Other,3.3,2.4,411,31,6.8,Average,8,81,11.436928479239096,Rara vez
+U01414,UK,Europe,22,Female,5.3,1.7,194,41,5.1,Average,8,72,19.80964897690185,Rara vez
+U01417,Brazil,South America,31,Other,4.9,3.7,281,118,6.6,Poor,10,79,23.4177051162465,Frecuentemente
+U01419,Japan,Asia,39,Other,7.7,1.6,213,33,6.9,Good,2,42,27.152976039544445,Rara vez
+U01422,India,Asia,62,Other,9.4,0.6,398,185,9.1,Good,3,36,49.122018732904095,Siempre
+U01426,Canada,North America,49,Other,9.8,2.5,109,133,6.8,Good,3,18,47.998830039518936,Frecuentemente
+U01431,Japan,Asia,21,Other,4.9,4.2,66,54,7.7,Average,3,69,19.63593260763911,Rara vez
+U01433,Japan,Asia,21,Female,6.1,4.2,453,117,8.0,Good,6,52,29.101176209240556,Frecuentemente
+U01434,Germany,Europe,15,Other,6.7,3.9,227,60,7.5,Average,6,54,27.542854889961188,Rara vez
+U01435,Japan,Asia,28,Other,6.9,2.5,226,105,6.4,Average,6,38,32.17772974937326,Frecuentemente
+U01437,Japan,Asia,25,Male,5.2,4.4,50,158,7.6,Poor,7,53,26.358301851545203,Siempre
+U01457,UK,Europe,26,Female,5.9,3.4,232,43,5.9,Average,7,53,22.326718840117742,Rara vez
+U01461,Brazil,South America,39,Male,6.5,0.9,202,122,4.8,Poor,3,39,31.279198309920712,Frecuentemente
+U01462,Germany,Europe,21,Other,4.5,2.4,345,99,6.4,Good,2,62,20.723265836946414,Frecuentemente
+U01464,Australia,Oceania,52,Male,6.1,2.3,277,111,8.0,Poor,1,66,28.78284311490007,Frecuentemente
+U01465,Germany,Europe,25,Female,4.6,1.7,114,36,6.5,Poor,3,59,16.61022239816343,Rara vez
+U01472,Germany,Europe,42,Male,4.6,3.6,202,95,7.3,Poor,6,73,20.996001680752045,Frecuentemente
+U01477,India,Asia,55,Female,6.9,2.7,366,31,8.7,Poor,4,32,23.913577729318114,Rara vez
+U01485,Australia,Oceania,49,Female,3.8,3.4,120,53,4.3,Good,5,82,15.158139376944243,Rara vez
+U01490,India,Asia,21,Other,5.7,3.7,108,43,7.6,Good,6,63,21.56988091333409,Rara vez
+U01504,Canada,North America,61,Male,6.2,3.9,144,37,6.8,Average,3,52,22.553034190303592,Rara vez
+U01507,Brazil,South America,32,Female,4.6,3.7,145,94,6.8,Average,7,59,20.947833701362487,Frecuentemente
+U01509,USA,North America,34,Female,4.2,1.5,279,120,8.8,Good,6,72,20.142320291506316,Frecuentemente
+U01513,Brazil,South America,30,Female,6.1,2.8,73,85,5.0,Good,2,56,27.171518507146395,Frecuentemente
+U01520,Brazil,South America,45,Male,8.7,2.0,305,107,6.7,Average,6,37,40.73454167598071,Frecuentemente
+U01522,Canada,North America,51,Female,2.4,2.6,481,92,6.7,Poor,9,69,10.878238783567815,Frecuentemente
+U01523,China,Asia,44,Male,2.9,3.3,379,58,7.1,Average,8,76,11.824858587326586,Rara vez
+U01529,Brazil,South America,51,Female,5.3,4.5,62,92,6.8,Poor,3,48,24.022777313712258,Frecuentemente
+U01532,Australia,Oceania,45,Other,7.6,2.8,402,142,4.5,Average,7,30,37.71761918997529,Siempre
+U01541,UK,Europe,52,Female,2.2,3.7,349,33,9.3,Average,3,72,7.757993154155556,Rara vez
+U01545,Australia,Oceania,55,Other,7.3,0.7,80,133,5.1,Poor,4,61,35.754230539641654,Frecuentemente
+U01559,India,Asia,65,Male,6.2,3.4,277,174,5.8,Good,7,51,32.021673038325794,Siempre
+U01564,India,Asia,44,Male,6.3,2.1,375,97,5.9,Poor,3,51,28.885295115624604,Frecuentemente
+U01567,Brazil,South America,62,Other,5.4,3.3,330,99,5.3,Poor,5,58,24.867919004335697,Frecuentemente
+U01569,Canada,North America,31,Other,5.1,2.9,407,147,7.6,Poor,3,67,25.485782596196984,Siempre
+U01571,Canada,North America,38,Male,10.2,3.1,433,189,3.6,Good,6,25,53.519645536036954,Siempre
+U01577,Australia,Oceania,65,Female,7.1,1.4,444,155,6.0,Good,7,53,35.85397765147171,Siempre
+U01588,Australia,Oceania,54,Other,7.2,2.5,424,112,7.1,Average,1,24,34.037192294728854,Frecuentemente
+U01589,Canada,North America,41,Female,9.9,1.9,144,86,6.8,Good,6,29,44.21249037468038,Frecuentemente
+U01595,Brazil,South America,46,Other,7.4,1.9,164,71,7.6,Good,6,31,31.64732928071881,Frecuentemente
+U01596,USA,North America,57,Female,6.9,3.2,331,38,10.0,Average,7,61,25.27857535829456,Rara vez
+U01598,Brazil,South America,51,Female,2.7,0.7,200,45,7.4,Average,6,75,10.337331770520557,Rara vez
+U01601,USA,North America,21,Male,3.7,0.9,173,65,5.8,Average,9,68,15.501722545497774,Rara vez
+U01602,Brazil,South America,31,Other,5.5,4.4,500,144,6.2,Good,4,50,27.372035583313156,Siempre
+U01607,Pakistan,Asia,31,Male,1.2,0.9,457,96,6.7,Average,8,97,5.489653174204059,Frecuentemente
+U01613,UK,Europe,31,Male,2.4,2.6,467,100,6.7,Average,4,84,11.076289240419023,Frecuentemente
+U01627,Australia,Oceania,58,Female,8.8,1.9,120,93,5.1,Good,6,29,39.980994083976036,Frecuentemente
+U01638,Canada,North America,64,Other,7.1,2.1,117,57,8.3,Poor,6,54,28.829145374879573,Rara vez
+U01640,Pakistan,Asia,63,Male,5.5,1.4,339,129,6.8,Good,5,50,26.7714394775057,Frecuentemente
+U01643,Canada,North America,61,Female,6.6,2.0,122,34,5.7,Good,5,34,23.46529720583013,Rara vez
+U01648,Canada,North America,45,Male,5.8,2.9,477,82,6.9,Average,5,44,25.62927552522027,Frecuentemente
+U01652,Pakistan,Asia,54,Other,6.0,3.8,449,108,7.3,Average,3,48,28.14808729337486,Frecuentemente
+U01657,Pakistan,Asia,64,Other,10.6,1.5,287,179,6.9,Poor,6,0,55.04534261943623,Siempre
+U01658,Pakistan,Asia,56,Female,8.2,4.2,257,187,10.1,Average,5,43,42.93882409520558,Siempre
+U01666,Canada,North America,59,Other,7.0,1.4,495,100,6.2,Average,6,44,32.30584361788882,Frecuentemente
+U01670,Australia,Oceania,58,Other,6.4,1.0,173,138,7.0,Average,3,35,31.58063317203643,Frecuentemente
+U01672,UK,Europe,51,Male,6.9,0.7,319,137,8.0,Average,1,35,33.998050427584715,Frecuentemente
+U01674,Brazil,South America,22,Female,8.4,4.3,243,105,6.6,Good,4,25,39.17288839054137,Frecuentemente
+U01678,Brazil,South America,45,Male,5.6,3.1,112,34,6.1,Good,9,49,19.909949144340715,Rara vez
+U01684,USA,North America,28,Male,5.1,4.4,281,141,6.6,Good,5,39,25.27471799376643,Siempre
+U01689,USA,North America,18,Male,3.2,3.6,246,106,5.2,Good,8,74,14.9530522702781,Frecuentemente
+U01703,USA,North America,40,Male,6.2,4.1,220,89,9.0,Average,8,58,27.898819956047642,Frecuentemente
+U01706,Canada,North America,15,Female,2.9,2.3,380,133,8.0,Poor,4,81,14.203735419857642,Frecuentemente
+U01707,Pakistan,Asia,15,Male,9.0,3.8,403,180,5.9,Good,5,1,46.78647328139243,Siempre
+U01714,Pakistan,Asia,17,Male,7.8,0.8,495,166,4.8,Good,10,49,39.92035173685069,Siempre
+U01715,Japan,Asia,65,Male,6.8,3.0,62,41,8.0,Good,3,41,25.416153404326906,Rara vez
+U01722,UK,Europe,33,Other,9.3,2.3,404,87,6.7,Average,8,25,41.63923237464733,Frecuentemente
+U01746,UK,Europe,15,Male,10.4,4.3,75,182,7.1,Average,5,32,54.17865598955078,Siempre
+U01753,Australia,Oceania,25,Other,6.6,2.6,104,94,6.5,Poor,2,59,30.055587484563567,Frecuentemente
+U01754,Germany,Europe,23,Male,5.8,4.3,202,138,6.0,Good,3,37,28.61994881215801,Frecuentemente
+U01757,Brazil,South America,21,Male,5.0,0.7,345,189,9.0,Good,5,73,26.23512036080243,Siempre
+U01759,Germany,Europe,53,Other,8.0,4.0,307,142,6.0,Poor,2,35,39.702757042079256,Siempre
+U01761,UK,Europe,42,Other,6.7,1.2,345,162,4.4,Average,7,55,34.128126345405306,Siempre
+U01764,Pakistan,Asia,51,Female,6.1,2.5,218,168,8.3,Average,2,53,31.292382161030748,Siempre
+U01771,Canada,North America,22,Other,8.6,1.9,482,90,7.2,Poor,1,18,38.793391756044905,Frecuentemente
+U01773,Germany,Europe,39,Male,4.6,2.4,207,184,3.6,Good,6,72,24.01363679536029,Siempre
+U01778,Japan,Asia,48,Other,8.6,2.8,187,58,9.0,Average,4,27,35.06682201758919,Rara vez
+U01805,India,Asia,59,Other,5.4,1.9,463,189,3.7,Poor,3,45,28.333929989666625,Siempre
+U01811,USA,North America,42,Male,6.7,1.6,434,182,7.2,Average,1,59,34.90355722403753,Siempre
+U01823,Australia,Oceania,45,Male,5.2,1.8,73,55,5.6,Poor,6,63,20.931828791822777,Rara vez
+U01824,China,Asia,34,Female,2.5,3.2,115,180,8.9,Average,4,95,12.996242578164566,Siempre
+U01828,Germany,Europe,45,Other,7.1,3.3,62,131,6.9,Good,2,48,34.66789365036323,Frecuentemente
+U01845,Japan,Asia,61,Female,5.2,3.9,84,125,8.6,Poor,4,74,25.148665916147685,Frecuentemente
+U01847,Canada,North America,41,Female,6.0,4.3,183,98,7.5,Good,3,52,27.570719100807537,Frecuentemente
+U01861,India,Asia,47,Male,5.7,3.1,316,144,7.3,Average,8,50,28.367382331797273,Siempre
+U01863,Pakistan,Asia,26,Other,4.1,2.3,462,119,5.6,Good,5,61,19.628716145406386,Frecuentemente
+U01867,Germany,Europe,44,Female,7.6,1.3,170,128,7.3,Average,3,38,36.934574273148705,Frecuentemente
+U01868,Canada,North America,17,Male,8.1,1.0,472,166,8.9,Good,6,29,41.455749880575716,Siempre
+U01869,Australia,Oceania,18,Other,5.5,3.0,199,199,6.9,Poor,4,48,29.1407455160142,Siempre
+U01872,Canada,North America,17,Male,7.5,2.8,483,87,7.6,Good,3,45,33.58002610858655,Frecuentemente
+U01877,Pakistan,Asia,24,Female,4.2,3.8,308,67,5.9,Average,5,75,17.72193236173965,Rara vez
+U01881,Australia,Oceania,31,Female,8.1,1.2,173,182,5.4,Poor,7,41,42.19683783801551,Siempre
+U01890,Japan,Asia,59,Female,7.3,2.9,172,55,6.6,Average,5,35,29.385067342366593,Rara vez
+U01894,Germany,Europe,59,Female,6.2,1.6,327,126,6.7,Poor,8,67,30.033959936043267,Frecuentemente
+U01899,Pakistan,Asia,21,Female,5.3,2.6,495,184,5.0,Good,3,44,27.667885872915118,Siempre
+U01900,Canada,North America,25,Other,9.1,3.9,56,117,7.7,Poor,1,28,43.413230082637554,Frecuentemente
+U01904,UK,Europe,17,Male,6.0,1.1,413,158,5.9,Good,3,54,30.41342521332139,Siempre
+U01906,India,Asia,58,Female,8.9,1.6,343,66,8.4,Poor,2,16,37.4217643125796,Rara vez
+U01911,Canada,North America,39,Female,6.7,4.2,50,72,7.3,Good,8,47,28.74607825569422,Frecuentemente
+U01912,Japan,Asia,20,Male,9.8,2.4,420,157,5.2,Good,7,18,49.61343132366428,Siempre
+U01914,China,Asia,40,Other,8.3,3.2,270,117,9.0,Average,4,24,39.59668238306502,Frecuentemente
+U01915,Australia,Oceania,34,Male,4.9,3.6,158,45,7.9,Poor,5,68,18.760342842796568,Rara vez
+U01917,Australia,Oceania,64,Male,3.0,1.0,192,133,7.3,Good,5,76,14.693519399852732,Frecuentemente
+U01918,Brazil,South America,23,Male,5.7,4.1,447,40,9.4,Good,5,55,21.167360780214555,Rara vez
+U01924,Germany,Europe,31,Male,5.1,3.7,337,129,5.9,Poor,4,46,24.824425697323466,Frecuentemente
+U01926,Germany,Europe,61,Female,7.7,3.6,219,108,9.7,Poor,2,51,36.123378693164405,Frecuentemente
+U01933,Japan,Asia,58,Other,3.5,2.2,462,30,8.5,Good,4,78,12.018955215698012,Rara vez
+U01935,Canada,North America,63,Other,8.7,3.3,263,170,7.5,Good,3,31,44.73247294157314,Siempre
+U01937,Germany,Europe,31,Male,7.6,4.2,342,75,8.6,Good,6,27,32.91357338617611,Frecuentemente
+U01946,Canada,North America,29,Male,6.1,3.2,120,48,9.0,Poor,3,51,23.74010381847482,Rara vez
+U01955,China,Asia,29,Male,5.5,2.4,409,36,8.7,Average,5,67,19.860048519543234,Rara vez
+U01963,Japan,Asia,36,Male,5.6,1.6,305,112,6.3,Good,7,70,26.47337178478911,Frecuentemente
+U01988,China,Asia,47,Female,5.3,4.1,141,83,8.7,Poor,6,59,23.48332903386956,Frecuentemente
+U01993,Japan,Asia,31,Other,4.5,3.2,378,181,8.3,Good,2,62,23.41803009184558,Siempre
+U01994,Germany,Europe,55,Other,4.8,2.2,172,132,6.5,Poor,4,51,23.473675815464418,Frecuentemente
+U02000,UK,Europe,45,Male,3.3,3.4,332,178,7.3,Good,5,73,17.11837315927449,Siempre
+U02001,USA,North America,32,Male,2.1,3.0,289,47,4.6,Average,6,76,8.129522122906572,Rara vez
+U02004,Canada,North America,52,Male,7.0,2.1,261,57,6.9,Good,7,51,28.423101073824935,Rara vez
+U02026,Australia,Oceania,19,Female,9.3,1.2,119,85,8.4,Good,7,25,41.425429855157624,Frecuentemente
+U02027,China,Asia,39,Female,3.9,4.5,205,112,7.4,Good,1,70,18.436812492978127,Frecuentemente
+U02028,China,Asia,61,Male,2.7,4.4,189,108,6.7,Poor,4,77,12.666639282018687,Frecuentemente
+U02030,India,Asia,64,Male,4.2,1.3,205,140,6.3,Average,6,45,20.78479153958831,Frecuentemente
+U02031,Germany,Europe,21,Other,7.6,4.0,484,131,3.9,Poor,6,35,37.109294611656416,Frecuentemente
+U02039,Australia,Oceania,26,Female,5.1,1.1,321,91,7.0,Good,5,57,23.061121742950103,Frecuentemente
+U02043,Japan,Asia,25,Other,6.6,0.9,265,153,7.5,Poor,4,51,33.243887175929956,Siempre
+U02046,USA,North America,59,Male,4.2,2.7,251,179,8.5,Poor,2,71,21.810418773738885,Siempre
+U02053,USA,North America,63,Other,5.6,1.2,266,92,6.3,Good,4,32,25.382557161658234,Frecuentemente
+U02056,India,Asia,64,Female,6.5,4.4,342,132,6.4,Poor,4,33,31.7872693334414,Frecuentemente
+U02060,India,Asia,35,Other,7.7,2.2,437,188,9.6,Good,2,50,40.36145201595925,Siempre
+U02066,USA,North America,60,Other,5.3,4.2,369,119,8.9,Poor,5,59,25.37370623674484,Frecuentemente
+U02071,Germany,Europe,50,Female,7.7,0.7,170,162,5.8,Poor,7,33,39.22187654621207,Siempre
+U02088,Pakistan,Asia,59,Male,5.0,3.0,60,113,8.2,Good,7,77,23.68099224197248,Frecuentemente
+U02093,Japan,Asia,57,Other,6.4,2.1,495,170,6.6,Good,1,51,32.906646761617026,Siempre
+U02110,Canada,North America,39,Male,6.2,2.4,297,112,8.2,Good,5,49,29.309804476016513,Frecuentemente
+U02113,UK,Europe,48,Male,6.6,1.5,259,188,9.0,Average,3,69,34.59553029939364,Siempre
+U02116,Brazil,South America,16,Female,7.1,1.1,450,117,5.4,Good,4,35,33.87186083370622,Frecuentemente
+U02120,UK,Europe,42,Male,7.7,2.6,447,37,7.8,Average,7,40,28.00941342989317,Rara vez
+U02124,UK,Europe,40,Other,3.9,4.2,173,182,8.0,Poor,1,69,20.31699599608154,Siempre
+U02126,Japan,Asia,20,Female,5.5,1.0,129,149,9.4,Good,6,53,27.558494117529406,Siempre
+U02129,Pakistan,Asia,64,Other,3.8,1.2,252,54,6.3,Average,1,64,15.22786610388339,Rara vez
+U02131,Australia,Oceania,44,Female,5.1,2.7,369,168,5.7,Good,5,60,26.16248344610767,Siempre
+U02144,Australia,Oceania,58,Female,7.2,4.2,61,88,6.5,Average,9,48,32.318181862071405,Frecuentemente
+U02148,USA,North America,56,Male,6.4,3.0,295,62,6.4,Good,2,50,26.51606224890581,Rara vez
+U02149,Canada,North America,62,Female,5.0,3.9,438,41,6.3,Average,1,65,18.68834809141684,Rara vez
+U02152,Pakistan,Asia,61,Other,9.1,3.2,352,94,7.7,Average,5,32,41.44027971356492,Frecuentemente
+U02154,Brazil,South America,50,Male,5.6,1.6,64,119,8.5,Average,2,56,26.809953759579454,Frecuentemente
+U02157,Germany,Europe,16,Male,4.8,1.0,163,130,6.6,Poor,8,49,23.400947151365525,Frecuentemente
+U02158,Germany,Europe,63,Other,9.8,1.8,127,130,8.8,Poor,7,24,47.77693376737128,Frecuentemente
+U02162,UK,Europe,25,Female,3.3,2.0,220,113,7.1,Average,5,63,15.629454879701834,Frecuentemente
+U02164,Canada,North America,55,Male,2.6,0.5,268,148,7.1,Good,3,70,13.010260395458195,Siempre
+U02166,China,Asia,54,Male,4.6,2.2,55,82,8.1,Average,2,60,20.32666679586435,Frecuentemente
+U02170,Germany,Europe,41,Male,4.8,3.6,201,99,5.6,Good,10,60,22.10481689274284,Frecuentemente
+U02175,Pakistan,Asia,45,Male,6.0,0.6,361,116,5.3,Average,5,44,28.573043608786538,Frecuentemente
+U02179,China,Asia,41,Female,6.5,1.3,291,195,7.1,Average,6,46,34.30774528499836,Siempre
+U02182,UK,Europe,19,Other,7.1,0.7,145,109,8.1,Good,4,44,33.37341059712615,Frecuentemente
+U02183,Brazil,South America,45,Male,5.7,4.0,215,105,7.8,Good,5,45,26.581602836438783,Frecuentemente
+U02195,Australia,Oceania,36,Other,11.1,0.8,454,56,6.4,Poor,5,15,44.877869072963506,Rara vez
+U02197,China,Asia,31,Other,3.5,2.3,266,105,9.6,Poor,1,62,16.322036829392236,Frecuentemente
+U02207,Germany,Europe,40,Female,7.0,3.1,470,181,9.2,Poor,4,50,36.42804680953756,Siempre
+U02212,Brazil,South America,41,Male,7.0,0.9,348,133,7.5,Average,1,36,34.28487859965638,Frecuentemente
+U02215,Japan,Asia,39,Female,5.6,2.1,424,48,6.4,Average,3,39,21.794193669419506,Rara vez
+U02217,Pakistan,Asia,65,Other,8.7,2.4,96,70,7.0,Average,5,21,37.08531493025944,Rara vez
+U02220,India,Asia,35,Other,8.1,4.0,360,186,5.2,Average,4,29,42.371979796522155,Siempre
+U02223,UK,Europe,55,Other,5.4,1.2,351,116,8.2,Average,7,70,25.715739247907887,Frecuentemente
+U02229,Australia,Oceania,60,Male,1.0,3.3,53,124,5.2,Poor,4,71,4.8283137373023015,Frecuentemente
+U02234,Canada,North America,19,Female,5.2,3.7,308,93,7.6,Average,5,49,23.62513286780402,Frecuentemente
+U02245,Brazil,South America,30,Other,3.2,1.7,301,150,5.0,Average,3,75,16.055295477807757,Siempre
+U02248,Australia,Oceania,42,Female,4.8,3.0,402,157,10.4,Poor,7,72,24.30045615852944,Siempre
+U02249,USA,North America,37,Female,8.3,3.0,255,159,6.2,Poor,4,17,42.12394266644076,Siempre
+U02260,India,Asia,23,Female,4.8,3.4,184,61,7.2,Good,4,78,19.81024504821644,Rara vez
+U02274,China,Asia,24,Female,3.6,3.4,428,34,5.7,Poor,3,83,12.799253021361888,Rara vez
+U02276,China,Asia,59,Male,5.6,3.3,441,119,4.5,Average,2,59,26.809953759579454,Frecuentemente
+U02282,Australia,Oceania,58,Other,6.2,3.4,401,121,7.2,Average,2,56,29.784930477346194,Frecuentemente
+U02283,Australia,Oceania,60,Female,4.3,1.9,477,162,6.3,Poor,7,83,21.90312586346908,Siempre
+U02285,India,Asia,22,Female,8.9,0.9,455,45,7.8,Average,6,24,34.07490842875295,Rara vez
+U02288,China,Asia,53,Female,7.1,4.1,73,61,9.2,Poor,1,39,29.30265413382015,Rara vez
+U02290,India,Asia,62,Female,5.5,1.5,71,107,7.0,Poor,7,60,25.75172174918321,Frecuentemente
+U02292,Japan,Asia,63,Female,5.5,0.9,224,97,9.3,Average,3,70,25.21732113268815,Frecuentemente
+U02293,Canada,North America,37,Male,6.5,2.0,296,103,6.1,Poor,5,49,30.18854084441892,Frecuentemente
+U02294,Brazil,South America,56,Other,3.8,2.5,475,139,5.8,Average,6,71,18.778241205915354,Frecuentemente
+U02296,Brazil,South America,21,Other,9.0,2.1,255,91,4.8,Good,4,24,40.69609719344136,Frecuentemente
+U02299,Germany,Europe,29,Female,8.1,3.0,210,36,9.9,Poor,4,34,29.248435092418216,Rara vez
+U02300,UK,Europe,60,Female,4.0,1.0,417,120,5.6,Good,6,76,19.183162182386965,Frecuentemente
+U02306,Brazil,South America,22,Male,3.9,3.9,182,138,7.4,Average,5,60,19.244448339209697,Frecuentemente
+U02307,Brazil,South America,35,Other,7.9,2.0,294,106,7.8,Good,6,33,36.91534779224906,Frecuentemente
+U02308,Japan,Asia,48,Other,7.6,4.2,179,34,9.5,Average,4,44,27.02064526731954,Rara vez
+U02316,India,Asia,21,Male,4.0,3.4,190,155,6.5,Good,4,57,20.19942402899815,Siempre
+U02318,USA,North America,49,Other,3.6,4.2,295,161,5.9,Good,6,57,18.315346806836583,Siempre
+U02324,Pakistan,Asia,48,Other,7.4,0.5,130,151,8.4,Average,4,38,37.17671585426245,Siempre
+U02326,India,Asia,48,Female,7.8,3.2,311,188,9.9,Good,5,34,40.885626717465215,Siempre
+U02330,USA,North America,59,Other,7.2,3.4,191,121,4.9,Average,5,51,34.58895152207945,Frecuentemente
+U02336,Germany,Europe,30,Other,10.1,1.5,188,180,9.7,Good,6,23,52.504820015784844,Siempre
+U02337,Australia,Oceania,18,Female,7.8,1.9,412,85,9.6,Poor,3,39,34.74390891077736,Frecuentemente
+U02346,China,Asia,40,Male,7.5,2.7,286,30,7.5,Average,7,37,25.754904033638596,Rara vez
+U02348,Australia,Oceania,21,Other,0.9,1.2,409,139,7.6,Average,3,100,4.447478180348374,Frecuentemente
+U02351,Japan,Asia,35,Male,4.6,1.8,311,48,7.2,Average,3,57,17.90237337130888,Rara vez
+U02352,India,Asia,28,Male,5.4,1.5,58,190,6.7,Good,4,61,28.362276511451803,Siempre
+U02356,Australia,Oceania,22,Female,3.9,1.5,378,149,4.9,Good,6,67,19.541477646975395,Siempre
+U02364,India,Asia,56,Male,3.4,3.5,304,186,6.8,Poor,3,60,17.785769297305595,Siempre
+U02368,Australia,Oceania,17,Other,5.5,3.2,152,167,6.4,Poor,2,47,28.181801886717924,Siempre
+U02372,China,Asia,24,Other,6.2,4.1,454,90,7.7,Average,5,54,27.96732894040447,Frecuentemente
+U02374,Japan,Asia,40,Female,6.2,0.6,110,150,5.5,Good,6,40,31.107134988252533,Siempre
+U02384,USA,North America,40,Female,8.6,2.0,261,168,4.5,Average,3,39,44.11712894833843,Siempre
+U02386,Australia,Oceania,45,Female,6.7,4.5,402,184,8.8,Average,4,56,34.976384028024775,Siempre
+U02388,Japan,Asia,56,Other,3.2,1.9,66,31,7.9,Average,5,65,11.090354888959126,Rara vez
+U02391,Canada,North America,61,Male,6.4,3.6,317,90,8.5,Poor,2,33,28.86950084170784,Frecuentemente
+U02393,Brazil,South America,31,Other,7.9,0.7,434,148,9.4,Good,4,47,39.53117581696913,Siempre
+U02394,Germany,Europe,48,Male,2.5,1.9,56,98,5.3,Average,3,76,11.487799625336475,Frecuentemente
+U02395,India,Asia,59,Female,8.0,4.3,454,80,8.2,Good,3,39,35.15559323737951,Frecuentemente
+U02397,China,Asia,38,Other,7.0,3.1,327,143,6.1,Average,2,33,34.788693097032,Siempre
+U02401,Germany,Europe,16,Female,7.8,1.8,345,84,8.5,Good,5,45,34.65267980062447,Frecuentemente
+U02403,Canada,North America,33,Male,5.5,0.5,362,143,6.5,Poor,3,64,27.333973147668004,Siempre
+U02406,Germany,Europe,43,Female,8.2,2.1,476,161,9.7,Poor,5,33,41.71828994890554,Siempre
+U02413,India,Asia,35,Male,6.2,1.6,192,35,7.6,Poor,5,43,22.21781741842788,Rara vez
+U02416,India,Asia,40,Other,5.7,1.7,219,189,6.9,Average,8,63,29.90803721131477,Siempre
+U02431,UK,Europe,38,Other,2.9,3.9,131,200,3.5,Average,4,73,15.37958423337132,Siempre
+U02432,Japan,Asia,39,Other,7.4,3.5,86,92,6.7,Average,2,22,33.5412362493341,Frecuentemente
+U02439,Pakistan,Asia,62,Female,2.8,1.4,396,88,6.7,Poor,6,71,12.568181835249991,Frecuentemente
+U02445,Pakistan,Asia,36,Female,7.9,2.1,395,63,9.1,Poor,1,13,32.85517635854141,Rara vez
+U02447,China,Asia,65,Male,8.9,3.8,449,189,6.2,Good,1,26,46.69851424222833,Siempre
+U02453,China,Asia,50,Other,8.2,2.3,109,175,7.2,Good,9,44,42.39796875931284,Siempre
+U02460,UK,Europe,30,Male,3.1,3.2,365,105,9.0,Average,5,86,14.456661191747408,Frecuentemente
+U02464,Japan,Asia,48,Female,0.7,3.6,208,151,6.9,Average,4,88,3.5167163645923933,Siempre
+U02465,Australia,Oceania,51,Female,4.0,1.5,108,39,6.3,Good,5,61,14.755517816455745,Rara vez
+U02467,Brazil,South America,45,Female,6.0,3.8,261,100,6.4,Poor,7,46,27.69072310104756,Frecuentemente
+U02474,Japan,Asia,16,Female,4.1,3.6,308,135,9.8,Average,7,75,20.141885031517813,Frecuentemente
+U02476,India,Asia,60,Other,7.2,2.7,500,175,7.2,Poor,5,38,37.22748476427469,Siempre
+U02491,Germany,Europe,37,Female,6.2,2.4,171,91,6.5,Average,2,65,28.03508917770405,Frecuentemente
+U02492,Japan,Asia,44,Male,4.3,2.3,80,43,6.3,Poor,4,72,16.272015425848522,Rara vez
+U02494,Pakistan,Asia,24,Female,5.6,2.6,93,107,7.7,Poor,3,42,26.21993487189563,Frecuentemente
+U02500,USA,North America,38,Other,4.8,3.0,402,194,4.0,Poor,4,41,25.310397881105985,Siempre
+U02507,Germany,Europe,43,Other,6.7,2.9,489,136,8.1,Average,6,42,32.96387220304844,Frecuentemente
+U02509,Germany,Europe,37,Male,5.6,3.5,121,195,7.7,Poor,6,46,29.55744209169089,Siempre
+U02510,India,Asia,59,Female,8.5,0.9,453,48,3.5,Poor,3,22,33.08047253394032,Rara vez
+U02521,Brazil,South America,62,Male,6.1,3.5,329,32,9.7,Good,10,46,21.328696124945527,Rara vez
+U02530,Australia,Oceania,41,Male,3.9,0.6,365,60,4.4,Good,5,59,16.032408070275913,Rara vez
+U02533,Brazil,South America,21,Other,3.6,4.1,412,105,5.8,Good,7,53,16.78838073880344,Frecuentemente
+U02535,Brazil,South America,33,Female,6.6,1.4,177,136,4.7,Poor,2,56,32.47187411046562,Frecuentemente
+U02540,China,Asia,23,Female,6.7,1.0,449,73,5.1,Good,9,30,28.837236124467942,Frecuentemente
+U02551,Pakistan,Asia,26,Male,10.6,4.2,285,121,5.5,Poor,1,28,50.92262307417252,Frecuentemente
+U02562,China,Asia,52,Male,4.7,1.3,328,95,9.2,Average,5,69,21.45243649989883,Frecuentemente
+U02563,Pakistan,Asia,19,Male,3.6,4.3,366,79,8.1,Poor,1,71,15.775295884825972,Frecuentemente
+U02569,Canada,North America,36,Female,1.9,3.6,236,144,6.0,Average,4,97,9.45579411059909,Siempre
+U02572,UK,Europe,28,Female,4.8,4.4,101,48,6.7,Poor,7,56,18.680737430931007,Rara vez
+U02584,Brazil,South America,19,Male,7.7,3.9,476,62,6.8,Poor,1,35,31.9021373932148,Rara vez
+U02589,USA,North America,48,Female,4.6,1.5,470,182,6.7,Good,5,63,23.963636303070537,Siempre
+U02596,Australia,Oceania,61,Female,5.5,2.6,57,140,2.4,Average,1,50,27.218179397079926,Frecuentemente
+U02609,Japan,Asia,62,Other,7.9,1.7,408,100,6.3,Average,3,36,36.45945208304595,Frecuentemente
+U02614,Germany,Europe,34,Other,6.4,3.8,73,129,7.4,Average,4,41,31.152220482915727,Frecuentemente
+U02626,Japan,Asia,21,Female,8.1,1.7,395,50,4.2,Average,2,33,31.84778762506704,Rara vez
+U02635,USA,North America,21,Male,3.2,4.1,463,63,6.8,Good,7,75,13.30842586675095,Rara vez
+U02637,UK,Europe,25,Male,9.7,3.1,311,31,7.6,Poor,6,33,33.617638257157346,Rara vez
+U02638,Germany,Europe,64,Other,7.1,4.4,344,147,7.2,Poor,3,50,35.48020714372521,Siempre
+U02639,Australia,Oceania,39,Male,7.6,2.8,169,190,5.8,Poor,4,51,39.917278053154384,Siempre
+U02644,China,Asia,65,Male,0.1,2.0,431,170,7.4,Average,7,100,0.514166355650266,Siempre
+U02649,India,Asia,15,Male,8.1,4.4,59,197,7.9,Average,1,40,42.83496294862573,Siempre
+U02662,Pakistan,Asia,64,Male,6.7,2.5,261,86,5.8,Poor,5,32,29.92158439498571,Frecuentemente
+U02663,Japan,Asia,59,Other,4.4,3.6,389,144,4.9,Poor,5,61,21.897628466650527,Siempre
+U02664,Brazil,South America,19,Other,6.9,3.8,286,126,8.0,Poor,2,54,33.42489089656428,Frecuentemente
+U02667,Canada,North America,16,Female,5.1,1.6,477,170,2.4,Poor,2,66,26.222484138163566,Siempre
+U02670,UK,Europe,36,Male,4.8,1.9,267,196,7.1,Poor,4,69,25.359377897942345,Siempre
+U02672,USA,North America,21,Female,5.9,4.2,449,166,6.7,Average,3,35,30.196163493258858,Siempre
+U02678,USA,North America,16,Female,6.4,2.5,234,105,6.7,Good,7,34,29.84601020231723,Frecuentemente
+U02681,India,Asia,56,Male,7.3,1.1,496,68,7.2,Average,5,28,30.908977483559994,Rara vez
+U02683,Canada,North America,57,Female,5.5,4.3,118,45,7.3,Poor,3,44,21.057527680690022,Rara vez
+U02684,UK,Europe,65,Other,9.1,2.2,168,149,6.0,Good,4,36,45.596781176275925,Siempre
+U02687,Australia,Oceania,59,Male,4.2,1.4,259,73,4.3,Average,4,72,18.077073391457514,Frecuentemente
+U02688,Pakistan,Asia,38,Female,2.3,3.5,215,98,8.8,Poor,5,84,10.568775655309556,Frecuentemente
+U02690,Canada,North America,16,Female,4.6,1.6,51,59,8.9,Good,3,65,18.83398498622166,Rara vez
+U02695,Pakistan,Asia,60,Female,6.2,2.9,392,121,6.7,Average,6,29,29.784930477346194,Frecuentemente
+U02696,Brazil,South America,29,Female,8.0,4.0,210,46,9.7,Poor,5,21,30.801180813680467,Rara vez
+U02703,Pakistan,Asia,55,Female,4.5,1.2,397,173,5.8,Average,3,61,23.21574884646538,Siempre
+U02704,USA,North America,31,Male,9.6,3.4,133,71,7.7,Average,4,18,41.05599474255413,Frecuentemente
+U02709,Pakistan,Asia,37,Male,4.5,2.7,196,30,4.2,Average,5,62,15.452942420183158,Rara vez
+U02711,China,Asia,23,Male,8.0,0.9,486,141,7.9,Average,2,40,39.64661646081009,Siempre
+U02712,Australia,Oceania,53,Other,8.9,4.3,222,186,6.8,Poor,4,29,46.556866690005826,Siempre
+U02713,Australia,Oceania,31,Male,3.7,3.3,322,106,8.7,Average,1,76,17.28946668750905,Frecuentemente
+U02721,China,Asia,29,Female,7.7,1.7,143,41,7.8,Poor,6,51,28.780056060781938,Rara vez
+U02724,UK,Europe,52,Female,5.8,2.5,320,103,5.9,Good,4,34,26.93746721501996,Frecuentemente
+U02727,India,Asia,45,Female,5.3,2.4,490,36,10.5,Good,7,64,19.13786493701439,Rara vez
+U02729,UK,Europe,24,Male,5.8,2.8,283,108,7.9,Average,6,62,27.20981771692903,Frecuentemente
+U02730,China,Asia,54,Male,5.6,3.7,226,47,5.8,Good,4,73,21.67872566108419,Rara vez
+U02737,Canada,North America,57,Male,4.9,1.9,259,186,8.1,Good,1,74,25.63243222258748,Siempre
+U02740,Pakistan,Asia,16,Other,6.9,3.4,180,94,6.7,Poor,7,28,31.421750552043733,Frecuentemente
+U02741,Australia,Oceania,23,Male,9.3,1.0,102,58,8.9,Poor,8,32,37.921098228323196,Rara vez
+U02744,India,Asia,60,Other,3.9,0.7,276,60,8.1,Average,7,68,16.032408070275913,Rara vez
+U02746,Brazil,South America,52,Other,5.5,0.8,293,46,8.0,Good,4,47,21.17581180940532,Rara vez
+U02747,Japan,Asia,43,Male,1.8,0.8,427,136,5.3,Poor,2,78,8.855965666490626,Frecuentemente
+U02751,Brazil,South America,55,Other,5.0,3.2,99,87,6.9,Poor,2,32,22.386684072391034,Frecuentemente
+U02756,Japan,Asia,34,Other,5.2,3.4,462,72,4.9,Poor,4,56,22.310389093971633,Frecuentemente
+U02763,UK,Europe,24,Other,9.1,2.8,443,39,10.2,Average,4,23,33.56880303243682,Rara vez
+U02768,China,Asia,22,Male,7.9,3.3,112,187,7.5,Average,3,30,41.3678915063566,Siempre
+U02770,India,Asia,55,Other,6.1,3.0,488,57,7.1,Poor,3,48,24.768702364333155,Rara vez
+U02771,India,Asia,46,Male,7.4,1.6,104,33,6.7,Good,8,40,26.095067882159597,Rara vez
+U02775,Pakistan,Asia,54,Other,5.4,2.4,401,123,5.1,Poor,2,54,26.029520454267203,Frecuentemente
+U02779,Japan,Asia,54,Male,3.1,4.2,250,96,6.2,Average,6,67,14.181604033360488,Frecuentemente
+U02780,Brazil,South America,45,Other,7.6,1.9,264,158,6.3,Good,6,34,38.52367193687376,Siempre
+U02793,USA,North America,31,Other,7.6,4.3,147,118,8.0,Average,4,29,36.32133854764762,Frecuentemente
+U02807,Brazil,South America,46,Male,4.3,4.3,170,189,5.9,Good,7,55,22.56220351029009,Siempre
+U02808,Germany,Europe,64,Male,4.7,4.3,384,170,10.8,Poor,4,53,24.165818715562505,Siempre
+U02810,Japan,Asia,50,Female,7.5,4.0,159,38,8.0,Good,5,30,27.47671234597235,Rara vez
+U02814,USA,North America,34,Female,5.1,1.3,367,95,4.1,Poor,2,61,23.278175776485963,Frecuentemente
+U02815,Germany,Europe,29,Other,11.0,2.7,260,128,8.5,Poor,4,17,53.45793644797839,Frecuentemente
+U02818,Japan,Asia,56,Male,4.0,2.4,496,49,6.9,Average,1,57,15.648092021712584,Rara vez
+U02827,Germany,Europe,56,Other,6.0,2.9,365,134,8.3,Average,3,51,29.43164867063058,Frecuentemente
+U02834,India,Asia,34,Male,4.8,4.0,290,47,8.1,Good,4,61,18.58176485235788,Rara vez
+U02842,UK,Europe,60,Other,8.5,1.1,202,188,9.8,Good,3,33,44.55484962800696,Siempre
+U02843,USA,North America,57,Other,5.9,3.9,364,105,5.3,Poor,5,55,27.514290655261195,Frecuentemente
+U02852,Australia,Oceania,46,Other,4.0,1.7,273,150,7.8,Good,5,52,20.069119347259697,Siempre
+U02857,Pakistan,Asia,38,Male,2.6,2.9,244,164,5.1,Average,6,94,13.27545823214151,Siempre
+U02858,India,Asia,21,Male,4.4,0.8,196,144,7.1,Average,4,61,21.897628466650527,Siempre
+U02864,India,Asia,50,Other,5.9,1.6,252,65,7.6,Good,5,44,24.71896297795591,Rara vez
+U02866,Pakistan,Asia,51,Other,8.2,0.7,258,172,7.9,Poor,4,32,42.25699107488179,Siempre
+U02868,India,Asia,63,Male,6.6,3.3,342,39,7.0,Poor,6,32,24.346604397151978,Rara vez
+U02886,India,Asia,45,Male,5.0,4.2,108,44,7.7,Average,5,51,19.033312448851596,Rara vez
+U02894,Canada,North America,27,Male,7.9,1.6,402,104,9.9,Good,5,49,36.766286766244434,Frecuentemente
+U02901,Brazil,South America,17,Female,2.6,1.9,158,94,4.4,Good,5,87,11.840079918161406,Frecuentemente
+U02907,Germany,Europe,32,Female,4.2,1.4,456,139,10.4,Good,3,63,20.754898174959077,Frecuentemente
+U02908,Pakistan,Asia,23,Other,3.4,4.1,280,51,7.2,Poor,1,79,13.434228643176853,Rara vez
+U02915,Germany,Europe,62,Female,7.7,0.6,72,88,8.9,Average,2,56,34.56250004693747,Frecuentemente
+U02922,UK,Europe,26,Other,6.0,3.3,436,116,7.0,Poor,5,53,28.573043608786538,Frecuentemente
+U02929,UK,Europe,26,Female,8.0,3.1,306,183,5.6,Good,7,54,41.71948606087189,Siempre
+U02933,Brazil,South America,28,Female,7.2,2.7,295,115,8.5,Good,6,53,34.22584937596582,Frecuentemente
+U02940,UK,Europe,55,Male,8.5,1.3,364,179,3.7,Average,4,13,44.14013323256679,Siempre
+U02947,Canada,North America,39,Other,6.0,0.9,197,167,6.3,Poor,1,64,30.743783876419553,Siempre
+U02958,Canada,North America,63,Female,9.1,2.9,186,145,7.9,Average,1,41,45.35082025754586,Siempre
+U02963,Japan,Asia,27,Other,8.4,1.3,262,90,5.7,Good,6,37,37.89121985474154,Frecuentemente
+U02966,Australia,Oceania,38,Other,4.8,3.5,223,190,9.9,Good,1,73,25.210912454623823,Siempre
+U02968,Australia,Oceania,33,Other,6.0,0.7,454,79,9.1,Average,3,40,26.292159808043287,Frecuentemente
+U02970,Germany,Europe,56,Male,7.7,1.1,377,66,6.1,Poor,6,41,32.376133169310435,Rara vez
+U02971,Brazil,South America,63,Male,9.6,4.2,81,62,9.1,Average,3,12,39.77409337335871,Rara vez
+U02976,Pakistan,Asia,65,Male,10.9,2.2,289,124,3.8,Poor,2,1,52.62861973659509,Frecuentemente
+U02978,Pakistan,Asia,60,Female,6.2,0.7,219,161,11.2,Poor,6,62,31.54309727844078,Siempre
+U02994,China,Asia,45,Female,6.6,3.8,332,119,8.1,Average,4,24,31.597445502361502,Frecuentemente
+U02995,Germany,Europe,47,Female,8.9,3.8,286,101,8.2,Poor,6,37,41.16225803823001,Frecuentemente
+U02996,Brazil,South America,61,Male,3.7,0.6,470,162,8.5,Poor,4,66,18.84687574298502,Siempre
+U03000,Japan,Asia,24,Female,4.6,0.8,404,193,5.2,Average,4,58,24.232147531691307,Siempre
+U03009,UK,Europe,26,Other,5.5,3.2,400,91,5.7,Good,7,50,24.869837173769724,Frecuentemente
+U03010,UK,Europe,50,Other,9.6,3.9,314,30,5.4,Good,5,30,32.966277163057406,Rara vez
+U03011,Australia,Oceania,20,Other,4.2,3.6,228,72,8.2,Good,2,56,18.019929652823244,Frecuentemente
+U03012,Germany,Europe,37,Male,9.6,3.7,287,46,6.8,Average,1,19,36.96141697641656,Rara vez
+U03018,Germany,Europe,59,Other,9.0,3.6,307,120,6.9,Poor,6,19,43.162114910370676,Frecuentemente
+U03020,Australia,Oceania,22,Other,7.4,1.9,304,51,6.3,Good,4,31,29.239203517502567,Rara vez
+U03025,Canada,North America,38,Female,6.3,3.9,493,142,6.6,Poor,7,34,31.265921170637412,Siempre
+U03027,Brazil,South America,19,Other,6.9,2.0,231,104,6.0,Average,7,49,32.11232641608691,Frecuentemente
+U03030,Pakistan,Asia,63,Other,7.8,2.1,343,55,7.9,Good,7,54,31.397743187734168,Rara vez
+U03036,Canada,North America,43,Female,4.1,4.4,423,88,6.7,Good,4,78,18.40340911590177,Frecuentemente
+U03039,Germany,Europe,35,Female,3.8,4.3,233,198,7.4,Average,4,60,20.11455833395307,Siempre
+U03046,Canada,North America,33,Female,6.1,1.6,320,38,6.5,Average,5,35,22.347726041390843,Rara vez
+U03048,Germany,Europe,39,Female,6.5,3.2,467,160,7.4,Average,5,42,33.02912837239901,Siempre
+U03051,Germany,Europe,32,Other,6.4,1.8,103,144,6.8,Poor,4,42,31.851095951491676,Siempre
+U03053,Pakistan,Asia,60,Male,8.2,1.4,367,76,8.0,Good,6,40,35.619204459200205,Frecuentemente
+U03059,China,Asia,26,Male,7.1,4.1,205,174,5.5,Average,4,36,36.66998041485695,Siempre
+U03067,Germany,Europe,30,Other,3.7,0.6,285,32,7.7,Poor,4,74,12.937077977425977,Rara vez
+U03068,Brazil,South America,51,Male,6.7,3.3,398,134,6.7,Average,5,51,32.86534101553748,Frecuentemente
+U03071,China,Asia,18,Male,2.3,3.4,73,198,9.6,Poor,6,74,12.174601096866331,Siempre
+U03072,USA,North America,22,Other,6.2,1.8,114,33,3.8,Average,6,57,21.863435252620203,Rara vez
+U03084,Japan,Asia,24,Male,4.9,3.8,354,124,7.0,Average,7,67,23.65873731278128,Frecuentemente
+U03102,Brazil,South America,23,Male,2.6,3.7,117,156,5.2,Good,4,69,13.146239093905601,Siempre
+U03105,UK,Europe,28,Other,6.6,2.7,214,32,7.0,Poor,4,54,23.076949905678767,Rara vez
+U03112,China,Asia,55,Male,7.6,1.8,187,75,6.9,Average,2,34,32.91357338617611,Frecuentemente
+U03128,Japan,Asia,24,Female,10.7,4.5,79,35,7.0,Average,7,0,38.343652641480375,Rara vez
+U03136,Germany,Europe,16,Male,4.2,1.9,389,183,5.1,Good,1,70,21.902730181957743,Siempre
+U03146,Japan,Asia,63,Female,7.5,4.5,265,149,9.1,Good,8,36,37.579764705721914,Siempre
+U03153,USA,North America,57,Female,4.6,2.9,292,157,7.7,Good,3,81,23.287937151924044,Siempre
+U03155,India,Asia,64,Female,4.7,2.7,478,73,4.9,Average,5,49,20.2291059380596,Frecuentemente
+U03160,Canada,North America,51,Female,8.1,1.9,85,191,5.6,Average,5,38,42.58571251342503,Siempre
+U03169,Brazil,South America,26,Other,5.7,3.3,427,132,7.8,Poor,8,57,27.874990030863998,Frecuentemente
+U03176,Canada,North America,24,Female,8.3,1.9,426,48,6.1,Good,6,51,32.3021084743182,Rara vez
+U03179,UK,Europe,31,Other,7.0,1.7,456,169,4.4,Average,2,48,35.950589059351834,Siempre
+U03181,Canada,North America,32,Male,7.5,3.0,218,180,9.2,Average,5,53,38.98872773449369,Siempre
+U03186,India,Asia,50,Female,6.2,3.5,418,112,5.0,Good,2,57,29.309804476016513,Frecuentemente
+U03187,China,Asia,65,Other,5.9,0.6,198,94,7.1,Average,4,55,26.86787366044319,Frecuentemente
+U03198,China,Asia,27,Male,5.6,3.4,287,189,5.5,Good,7,64,29.38333480409872,Siempre
+U03199,Canada,North America,48,Other,6.2,1.2,61,198,6.6,Poor,6,48,32.818489913291856,Siempre
+U03201,India,Asia,51,Other,6.0,0.9,192,81,7.2,Poor,3,40,26.440315483585522,Frecuentemente
+U03204,Brazil,South America,23,Other,4.7,2.6,111,107,7.5,Good,4,52,22.006016767483835,Frecuentemente
+U03221,Australia,Oceania,38,Female,7.9,3.3,290,34,5.0,Average,4,34,28.087249685766366,Rara vez
+U03230,Pakistan,Asia,56,Male,5.9,4.2,316,170,4.7,Poor,5,52,30.335814983365697,Siempre
+U03231,USA,North America,44,Male,9.2,0.5,342,126,7.2,Good,5,6,44.566521195419035,Frecuentemente
+U03234,Germany,Europe,35,Other,7.7,0.9,346,147,9.0,Poor,8,31,38.47853450798368,Siempre
+U03240,USA,North America,31,Female,3.2,1.8,399,125,8.1,Good,4,86,15.476102102244731,Frecuentemente
+U03241,Germany,Europe,57,Female,7.8,1.6,179,82,6.3,Good,3,22,34.466956740813465,Frecuentemente
+U03259,Australia,Oceania,19,Male,5.2,1.3,238,50,5.7,Good,4,58,20.445493290166496,Rara vez
+U03260,Brazil,South America,31,Other,7.8,1.2,89,156,9.1,Average,6,39,39.4387172817168,Siempre
+U03263,Brazil,South America,62,Other,7.9,0.6,334,152,8.9,Average,5,44,39.74045957900024,Siempre
+U03264,USA,North America,51,Female,4.2,3.7,315,47,6.1,Poor,3,61,16.259044245813143,Rara vez
+U03265,UK,Europe,55,Other,9.3,2.8,462,167,6.6,Poor,10,33,47.65286500845031,Siempre
+U03273,Japan,Asia,16,Male,6.3,1.0,487,80,7.4,Average,5,49,27.685029674436365,Frecuentemente
+U03275,China,Asia,15,Other,3.7,3.6,391,140,8.5,Good,6,51,18.310411594399223,Frecuentemente
+U03276,Canada,North America,54,Female,8.0,3.1,201,48,6.8,Good,3,28,31.13456238488501,Rara vez
+U03293,China,Asia,20,Female,4.1,4.0,249,136,7.8,Good,3,64,20.17192179589531,Frecuentemente
+U03294,Brazil,South America,42,Female,6.4,3.0,105,101,3.7,Good,6,35,29.599826005019334,Frecuentemente
+U03296,Canada,North America,27,Other,5.4,4.5,86,41,5.9,Good,1,64,20.183415938730192,Rara vez
+U03297,Canada,North America,38,Other,7.6,3.2,350,77,8.1,Average,3,39,33.11098708284089,Frecuentemente
+U03298,Brazil,South America,41,Male,7.1,3.7,82,100,6.5,Poor,5,46,32.76735566957294,Frecuentemente
+U03299,UK,Europe,60,Male,5.3,1.8,413,57,4.9,Average,8,68,21.52034795589602,Rara vez
+U03301,Brazil,South America,40,Male,5.2,2.2,440,115,7.8,Poor,4,67,24.718668993753095,Frecuentemente
+U03305,Australia,Oceania,46,Female,6.7,2.5,357,168,7.5,Good,3,56,34.370321389984596,Siempre
+U03310,Canada,North America,16,Male,3.1,2.0,418,40,8.6,Poor,4,75,11.512073406783355,Rara vez
+U03318,Germany,Europe,43,Male,10.3,1.4,132,46,7.9,Average,2,30,39.6565202976136,Rara vez
+U03327,China,Asia,50,Other,5.9,2.2,102,129,7.1,Average,4,43,28.718453257687937,Frecuentemente
+U03336,Germany,Europe,31,Other,6.2,0.5,266,130,8.0,Poor,8,30,30.22622340384714,Frecuentemente
+U03338,UK,Europe,41,Other,4.5,1.0,313,140,5.3,Average,7,47,22.26941950670176,Frecuentemente
+U03342,Australia,Oceania,45,Other,9.0,3.6,472,194,5.5,Average,5,23,47.45699602707372,Siempre
+U03343,Japan,Asia,49,Female,6.6,0.8,280,87,8.5,Good,5,57,29.550422975556163,Frecuentemente
+U03349,UK,Europe,45,Male,6.7,1.1,446,103,7.7,Good,8,39,31.117419024247198,Frecuentemente
+U03350,Canada,North America,40,Male,2.2,3.3,120,104,4.7,Good,2,71,10.238712770346552,Frecuentemente
+U03362,UK,Europe,34,Male,4.2,4.4,50,98,8.8,Average,3,71,19.29950337056528,Frecuentemente
+U03369,India,Asia,38,Female,8.5,1.3,281,125,7.8,Poor,6,40,41.108396209087566,Frecuentemente
+U03375,USA,North America,43,Male,6.7,4.0,120,180,6.7,Good,2,57,34.82993010948103,Siempre
+U03378,Canada,North America,18,Male,4.8,2.5,482,135,6.1,Good,4,45,23.58074345153305,Frecuentemente
+U03379,Australia,Oceania,51,Male,7.6,3.7,204,145,8.1,Average,7,39,37.875410324983356,Siempre
+U03381,China,Asia,19,Male,5.3,1.0,166,46,9.6,Poor,4,54,20.40578228906331,Rara vez
+U03382,Pakistan,Asia,44,Female,2.8,2.7,74,134,8.7,Good,7,64,13.734769379627602,Frecuentemente
+U03385,UK,Europe,34,Male,7.9,1.6,144,54,6.9,Good,7,31,31.657932163336525,Rara vez
+U03388,Pakistan,Asia,58,Male,7.7,2.5,216,108,8.2,Average,8,45,36.123378693164405,Frecuentemente
+U03389,China,Asia,59,Male,3.7,4.0,414,154,6.3,Good,7,77,18.660672932601216,Siempre
+U03390,Canada,North America,59,Other,4.8,4.5,212,183,4.8,Average,2,66,25.03169163652313,Siempre
+U03391,UK,Europe,33,Male,4.3,3.4,226,180,7.8,Poor,3,61,22.353537234443053,Siempre
+U03395,UK,Europe,60,Female,5.2,4.2,333,169,5.0,Average,3,62,26.706151872661362,Siempre
+U03399,Brazil,South America,25,Male,9.8,1.2,87,60,8.5,Good,6,18,40.286563868898455,Rara vez
+U03413,UK,Europe,40,Other,5.5,2.3,450,31,6.1,Good,1,54,19.061547465398498,Rara vez
+U03414,Pakistan,Asia,65,Female,2.0,1.2,348,144,7.7,Poor,3,85,9.953467484841148,Siempre
+U03415,India,Asia,34,Male,5.5,2.3,82,74,7.8,Average,4,59,23.746184624449704,Frecuentemente
+U03421,USA,North America,17,Female,9.6,1.3,450,198,9.1,Poor,6,7,50.81572631735512,Siempre
+U03427,UK,Europe,20,Male,5.1,4.4,451,63,8.3,Good,4,59,21.210303725134324,Rara vez
+U03428,Germany,Europe,54,Female,5.8,3.2,199,157,7.9,Poor,7,39,29.36305119155641,Siempre
+U03430,India,Asia,28,Male,7.4,4.2,286,194,6.7,Poor,2,44,39.020196733371726,Siempre
+U03438,Brazil,South America,40,Other,4.2,1.7,434,80,4.7,Average,6,64,18.456686449624247,Frecuentemente
+U03440,Japan,Asia,45,Other,6.1,3.0,365,34,7.3,Poor,1,64,21.68762317508542,Rara vez
+U03443,Pakistan,Asia,18,Female,5.2,1.9,231,186,4.8,Good,7,50,27.20176480764385,Siempre
+U03444,Brazil,South America,55,Female,10.1,2.5,52,196,10.3,Good,3,10,53.36035766025368,Siempre
+U03448,Pakistan,Asia,49,Female,5.9,1.5,76,146,8.7,Good,5,62,29.443552261994544,Siempre
+U03455,Brazil,South America,53,Other,3.8,1.5,300,103,5.4,Average,6,59,17.648685416737216,Frecuentemente
+U03457,Australia,Oceania,43,Female,4.4,3.6,450,40,7.2,Good,5,55,16.339717093498955,Rara vez
+U03461,UK,Europe,35,Male,6.0,1.9,90,117,6.7,Poor,6,51,28.62410774679399,Frecuentemente
+U03464,Germany,Europe,38,Male,9.6,3.7,250,59,7.9,Average,9,24,39.30570779733216,Rara vez
+U03472,Germany,Europe,65,Female,6.2,2.9,291,154,4.4,Poor,8,61,31.269235724899332,Siempre
+U03476,USA,North America,41,Male,10.7,0.7,440,133,6.9,Average,4,20,52.40688585947475,Frecuentemente
+U03483,Canada,North America,58,Female,6.5,2.4,210,132,6.7,Average,4,55,31.7872693334414,Frecuentemente
+U03496,Canada,North America,17,Female,8.2,0.8,412,139,4.4,Poor,5,42,40.52146786539629,Frecuentemente
+U03497,India,Asia,43,Other,6.9,1.7,475,195,7.6,Good,6,53,36.418991148690566,Siempre
+U03498,Australia,Oceania,27,Female,9.0,3.2,333,154,9.0,Average,4,24,45.39082605227322,Siempre
+U03502,Australia,Oceania,16,Male,8.2,1.8,168,51,5.8,Poor,3,36,32.4001984923677,Rara vez
+U03507,Japan,Asia,47,Other,4.0,2.6,207,146,6.9,Poor,10,86,19.961730347114944,Siempre
+U03510,Japan,Asia,56,Other,3.4,2.2,462,74,7.7,Average,7,66,14.679459586023453,Frecuentemente
+U03512,Canada,North America,33,Other,4.5,1.7,397,62,8.0,Good,2,78,18.644106268761895,Rara vez
+U03513,Pakistan,Asia,29,Other,7.6,4.5,173,171,6.9,Poor,6,25,39.12095802378224,Siempre
+U03514,Germany,Europe,54,Other,5.8,1.1,189,82,8.7,Average,4,53,25.62927552522027,Frecuentemente
+U03517,UK,Europe,56,Female,4.7,3.7,290,47,7.0,Average,3,63,18.194644751267088,Rara vez
+U03518,Pakistan,Asia,31,Female,6.1,4.1,438,133,6.5,Good,6,57,29.876822779700557,Frecuentemente
+U03526,USA,North America,60,Male,4.2,2.4,186,97,8.3,Poor,5,76,19.256863410416404,Frecuentemente
+U03530,Pakistan,Asia,54,Female,4.2,4.5,239,104,8.7,Good,9,49,19.546633470661597,Frecuentemente
+U03541,Canada,North America,44,Other,4.6,1.0,317,103,7.7,Poor,3,59,21.364198136050312,Frecuentemente
+U03545,India,Asia,50,Male,6.1,1.1,221,80,7.0,Poor,6,55,26.806139843501878,Frecuentemente
+U03549,Brazil,South America,58,Other,6.0,1.3,415,115,8.9,Poor,4,65,28.521541146638185,Frecuentemente
+U03553,Germany,Europe,53,Male,4.2,2.9,148,139,8.2,Average,1,50,20.754898174959077,Frecuentemente
+U03558,China,Asia,50,Female,5.0,0.8,133,143,11.8,Good,7,62,24.849066497880003,Siempre
+U03559,USA,North America,64,Male,4.2,3.1,106,182,4.7,Good,1,58,21.87984184193397,Siempre
+U03565,Canada,North America,64,Male,6.7,1.7,190,37,7.3,Poor,4,32,24.371827270166783,Rara vez
+U03566,Germany,Europe,26,Male,6.0,0.8,105,107,5.2,Good,3,53,28.09278736274532,Frecuentemente
+U03568,India,Asia,33,Other,7.2,0.9,212,118,9.5,Average,3,27,34.40968915040301,Frecuentemente
+U03570,Brazil,South America,51,Female,6.2,3.9,208,97,5.4,Average,3,57,28.42679836775755,Frecuentemente
+U03576,Canada,North America,24,Male,9.7,2.5,129,54,8.2,Good,2,28,38.87113189675497,Rara vez
+U03594,USA,North America,33,Female,2.5,4.2,317,170,7.9,Poor,7,78,12.85415889125665,Siempre
+U03612,Australia,Oceania,16,Other,5.7,3.4,192,48,6.4,Poor,1,62,22.18337569923057,Rara vez
+U03618,China,Asia,16,Female,6.6,2.2,290,169,7.1,Poor,3,61,33.89626968453173,Siempre
+U03630,China,Asia,62,Other,4.3,1.5,439,168,7.5,Average,6,80,22.058564474169216,Siempre
+U03635,USA,North America,36,Female,6.1,4.2,219,61,4.9,Good,6,42,25.17551974877506,Rara vez
+U03655,Japan,Asia,53,Female,6.7,2.4,72,117,8.3,Average,4,33,31.963586983919956,Frecuentemente
+U03662,Pakistan,Asia,39,Male,8.1,1.0,112,92,7.0,Good,3,29,36.714055894541374,Frecuentemente
+U03674,USA,North America,21,Other,7.2,1.5,384,120,7.4,Average,3,38,34.529691928296536,Frecuentemente
+U03676,Japan,Asia,63,Male,5.3,1.0,447,128,8.8,Poor,5,52,25.75700574311686,Frecuentemente
+U03682,USA,North America,62,Other,6.0,3.4,109,79,4.9,Average,5,57,26.292159808043287,Frecuentemente
+U03685,Pakistan,Asia,27,Other,5.0,3.0,499,196,8.5,Poor,7,65,26.41601864368994,Siempre
+U03696,UK,Europe,51,Female,2.9,2.5,413,37,5.4,Average,6,76,10.548999863206518,Rara vez
+U03698,UK,Europe,27,Male,9.3,3.0,183,187,7.8,Good,6,26,48.698910254318534,Siempre
+U03705,Germany,Europe,31,Other,7.8,0.6,423,126,8.2,Poor,4,35,37.78465927437701,Frecuentemente
+U03710,Pakistan,Asia,25,Female,6.5,2.1,338,92,5.3,Average,4,51,29.461896705496166,Frecuentemente
+U03722,Germany,Europe,16,Other,10.1,3.0,140,32,8.5,Poor,7,4,35.31472637081145,Rara vez
+U03724,Australia,Oceania,33,Male,7.1,1.4,318,168,8.5,Average,8,53,36.42228087595382,Siempre
+U03727,Japan,Asia,17,Other,3.5,1.5,348,122,9.8,Average,2,68,16.84264524380346,Frecuentemente
+U03734,Pakistan,Asia,56,Male,4.4,4.2,93,82,6.5,Poor,2,66,19.442898674305034,Frecuentemente
+U03738,Canada,North America,46,Other,4.9,3.4,330,163,8.9,Good,4,50,24.989345496338576,Siempre
+U03740,Brazil,South America,56,Female,7.0,3.1,482,175,5.3,Average,1,34,36.19338796526706,Siempre
+U03751,India,Asia,25,Other,3.8,1.4,250,49,8.1,Poor,1,74,14.865687420626953,Rara vez
+U03755,Germany,Europe,25,Female,4.2,3.0,157,61,6.8,Poor,4,56,17.333964417189385,Rara vez
+U03757,Pakistan,Asia,41,Other,3.5,4.2,311,93,6.9,Good,3,72,15.901531737945014,Frecuentemente
+U03761,Germany,Europe,23,Female,8.1,2.0,103,160,6.2,Good,7,40,41.15937535637415,Siempre
+U03772,China,Asia,16,Other,7.8,3.1,175,192,8.7,Good,1,42,41.04898347345811,Siempre
+U03783,Germany,Europe,33,Other,4.9,0.9,67,198,6.6,Poor,5,75,25.937193641150014,Siempre
+U03786,Germany,Europe,45,Male,2.7,2.9,237,97,7.7,Poor,7,71,12.379412192410546,Frecuentemente
+U03796,Australia,Oceania,53,Male,3.7,2.0,348,193,6.1,Good,6,63,19.491075188534314,Siempre
+U03804,Australia,Oceania,23,Female,7.7,1.9,267,143,7.8,Good,7,33,38.26756240673521,Siempre
+U03808,Germany,Europe,63,Female,5.2,1.1,272,173,4.9,Average,8,58,26.82708755591555,Siempre
+U03810,UK,Europe,52,Male,7.0,3.3,488,169,6.0,Poor,6,50,35.950589059351834,Siempre
+U03815,Canada,North America,64,Other,6.7,4.0,449,116,5.0,Good,1,34,31.906565363144967,Frecuentemente
+U03823,China,Asia,61,Female,4.1,2.6,207,176,7.7,Poor,4,78,21.222213903552696,Siempre
+U03825,Brazil,South America,58,Other,6.2,2.4,275,89,6.5,Average,6,58,27.898819956047642,Frecuentemente
+U03826,Australia,Oceania,59,Other,9.4,1.5,364,181,5.7,Poor,5,5,48.91766285852188,Siempre
+U03830,India,Asia,41,Female,7.0,1.0,212,165,7.4,Poor,8,41,35.783914518495806,Siempre
+U03831,China,Asia,64,Male,6.2,2.1,92,36,6.7,Good,6,51,22.387691058394193,Rara vez
+U03856,USA,North America,49,Other,7.0,2.4,334,84,8.0,Good,5,46,31.09855879543222,Frecuentemente
+U03860,Australia,Oceania,29,Female,7.2,2.3,72,120,9.0,Poor,2,64,34.529691928296536,Frecuentemente
+U03862,China,Asia,61,Male,6.4,3.9,495,101,5.5,Good,3,47,29.599826005019334,Frecuentemente
+U03866,UK,Europe,26,Female,7.7,2.5,84,192,4.6,Good,1,29,40.52271445456762,Siempre
+U03872,Japan,Asia,56,Female,3.6,3.8,178,62,8.7,Good,8,73,14.915285015009518,Rara vez
+U03875,Brazil,South America,35,Male,10.2,3.8,87,36,6.3,Good,6,7,36.831362708971085,Rara vez
+U03879,Germany,Europe,55,Female,5.7,3.5,276,92,9.1,Poor,2,53,25.83581711097356,Frecuentemente
+U03884,USA,North America,40,Other,9.0,4.1,409,30,7.5,Average,7,28,30.905884840366316,Rara vez
+U03885,UK,Europe,38,Male,8.5,1.5,279,81,8.3,Average,1,24,37.45711360174615,Frecuentemente
+U03886,Canada,North America,24,Male,3.6,1.4,220,62,6.2,Poor,4,55,14.915285015009518,Rara vez
+U03892,India,Asia,30,Other,5.0,2.4,381,104,6.7,Good,3,47,23.269801750787614,Frecuentemente
+U03893,Canada,North America,48,Female,6.5,4.0,144,58,6.7,Poor,7,48,26.50399338538718,Rara vez
+U03896,China,Asia,50,Female,5.8,1.3,309,128,7.0,Good,6,51,28.186911945297698,Frecuentemente
+U03898,Germany,Europe,21,Other,8.5,1.8,412,113,8.9,Average,4,36,40.25768681135321,Frecuentemente
+U03907,Australia,Oceania,28,Male,8.0,1.2,305,199,5.9,Poor,2,33,42.38653893238429,Siempre
+U03920,Germany,Europe,51,Female,4.0,1.8,399,86,9.5,Good,4,70,17.863632474618335,Frecuentemente
+U03924,Germany,Europe,55,Female,9.3,2.8,282,125,7.7,Average,5,22,44.97742173464875,Frecuentemente
+U03929,Japan,Asia,63,Other,6.2,4.4,229,153,5.8,Average,6,50,31.229106134964503,Siempre
+U03930,Australia,Oceania,29,Other,7.6,4.4,108,167,8.7,Poor,5,18,38.94212624346476,Siempre
+U03931,Canada,North America,17,Other,6.6,1.3,140,69,7.8,Poor,5,56,28.04006859752577,Rara vez
+U03936,Brazil,South America,59,Female,5.7,2.4,348,188,6.4,Good,7,44,29.877957985839963,Siempre
+U03937,India,Asia,39,Male,3.6,1.2,169,171,5.6,Poor,4,59,18.53098011652843,Siempre
+U03938,Germany,Europe,50,Male,5.6,1.9,181,145,6.0,Poor,6,55,27.908197081566684,Siempre
+U03946,Germany,Europe,47,Female,6.8,4.4,65,150,7.9,Good,4,34,34.117502890341484,Siempre
+U03951,Pakistan,Asia,52,Female,5.9,3.4,340,36,8.8,Average,7,63,21.304415684600926,Rara vez
+U03954,Japan,Asia,25,Female,6.7,2.5,188,105,6.9,Good,4,40,31.245041930550848,Frecuentemente
+U03963,Japan,Asia,31,Male,4.7,1.5,363,179,4.5,Average,1,62,24.40689719918399,Siempre
+U03971,India,Asia,45,Female,6.2,0.7,149,137,9.8,Poor,3,50,30.54897284797467,Frecuentemente
+U03975,Pakistan,Asia,17,Other,6.9,2.0,377,56,7.7,Good,2,41,27.897053748058397,Rara vez
+U03977,Australia,Oceania,58,Other,6.4,0.9,459,97,4.7,Good,4,26,29.343791863491663,Frecuentemente
+U03983,India,Asia,30,Other,5.4,3.1,478,134,7.7,Good,5,64,26.488483803567522,Frecuentemente
+U03985,Australia,Oceania,61,Male,4.1,2.5,81,104,8.6,Average,6,69,19.081237435645843,Frecuentemente
+U03992,Japan,Asia,43,Female,5.5,2.3,150,73,7.3,Poor,3,57,23.672358012622936,Frecuentemente
+U03996,Australia,Oceania,22,Other,2.5,4.5,271,167,7.5,Poor,6,62,12.809909948508146,Siempre
+U04000,Pakistan,Asia,63,Female,7.5,4.2,458,117,7.1,Poor,3,43,35.78013468349249,Frecuentemente
+U04004,Australia,Oceania,24,Female,8.4,3.9,97,147,6.8,Average,5,33,41.976583099618566,Siempre
+U04005,China,Asia,58,Male,5.7,0.6,473,112,8.1,Poor,8,62,26.946110566660344,Frecuentemente
+U04007,Australia,Oceania,43,Female,3.2,1.1,271,120,4.8,Average,3,76,15.346529745909573,Frecuentemente
+U04009,UK,Europe,35,Female,11.8,3.9,175,65,7.8,Average,6,8,49.43792595591182,Rara vez
+U04015,Germany,Europe,19,Female,7.8,4.4,322,196,9.1,Poor,3,45,41.20898908415631,Siempre
+U04027,Germany,Europe,43,Male,6.2,3.6,376,135,7.3,Poor,3,40,30.458460291563526,Frecuentemente
+U04028,Brazil,South America,33,Male,6.5,1.8,353,181,6.8,Good,5,48,33.82604346599917,Siempre
+U04034,Japan,Asia,62,Other,8.1,3.2,500,151,6.0,Good,1,33,40.69343221885484,Siempre
+U04037,Canada,North America,30,Female,4.9,1.7,144,174,7.4,Good,4,62,25.307451272225222,Siempre
+U04041,Germany,Europe,41,Male,3.2,4.2,222,165,6.8,Good,5,86,16.35836092274094,Siempre
+U04047,Brazil,South America,44,Female,7.6,3.6,368,121,3.8,Poor,6,34,36.51055993997275,Frecuentemente
+U04049,Australia,Oceania,39,Other,6.2,1.5,323,69,8.2,Good,8,55,26.34067050070603,Rara vez
+U04054,China,Asia,61,Male,4.0,2.3,101,88,7.0,Poor,5,61,17.95454547892856,Frecuentemente
+U04080,USA,North America,34,Male,4.5,1.4,91,174,6.0,Average,3,62,23.241536882655815,Siempre
+U04083,Germany,Europe,56,Other,8.3,1.1,222,65,10.8,Good,3,38,34.77413435881933,Rara vez
+U04087,Australia,Oceania,35,Other,2.1,2.9,281,33,6.2,Poor,6,82,7.40535710169394,Rara vez
+U04100,Pakistan,Asia,60,Male,6.8,4.2,340,55,7.2,Poor,9,39,27.37239149699902,Rara vez
+U04121,China,Asia,62,Other,6.6,3.8,447,64,7.2,Poor,4,42,27.5509559813112,Rara vez
+U04122,Brazil,South America,21,Female,7.3,4.3,412,87,6.7,Average,3,38,32.68455874569091,Frecuentemente
+U04127,Japan,Asia,51,Female,5.9,3.2,272,103,2.5,Poor,1,63,27.401906304934098,Frecuentemente
+U04129,Germany,Europe,24,Female,5.8,4.1,294,82,5.6,Average,4,49,25.62927552522027,Frecuentemente
+U04147,USA,North America,64,Male,6.5,3.1,110,66,6.2,Good,2,48,27.330502026041277,Rara vez
+U04148,Australia,Oceania,37,Female,3.3,4.0,469,33,9.8,Average,3,65,11.636989731233333,Rara vez
+U04149,China,Asia,28,Other,6.2,2.7,464,149,5.7,Good,6,64,31.065938823396785,Siempre
+U04150,USA,North America,18,Other,5.6,2.6,84,180,7.1,Good,7,54,29.111583375088625,Siempre
+U04151,China,Asia,64,Female,6.9,1.0,457,164,6.4,Good,4,55,35.231023769914,Siempre
+U04164,Japan,Asia,57,Male,8.2,3.3,169,94,10.1,Good,4,28,37.34179051112443,Frecuentemente
+U04170,China,Asia,19,Female,8.3,1.5,145,143,6.8,Good,1,7,41.24945038648081,Siempre
+U04177,Japan,Asia,16,Male,6.7,2.2,417,190,7.1,Good,4,44,35.190231967912425,Siempre
+U04186,Japan,Asia,16,Male,6.5,3.9,256,116,8.7,Good,5,41,30.954130576185417,Frecuentemente
+U04187,Canada,North America,45,Female,5.7,3.4,213,164,6.1,Good,7,41,29.103889201233308,Siempre
+U04189,UK,Europe,35,Male,9.5,3.6,319,49,8.8,Good,5,11,37.16421855156739,Rara vez
+U04203,Canada,North America,55,Female,2.8,3.8,238,147,7.6,Poor,3,78,13.99219436653952,Siempre
+U04206,UK,Europe,24,Female,8.9,1.5,305,53,9.8,Good,4,37,35.501958014422044,Rara vez
+U04211,India,Asia,32,Other,6.5,2.0,100,130,7.0,Good,3,33,31.68878260080748,Frecuentemente
+U04213,China,Asia,47,Female,9.5,2.2,384,82,7.4,Average,3,21,41.97898577406768,Frecuentemente
+U04222,Japan,Asia,39,Female,3.9,3.5,179,149,4.6,Poor,4,58,19.541477646975395,Siempre
+U04233,Pakistan,Asia,43,Female,6.3,0.6,116,74,4.9,Poor,5,67,27.200175115278753,Frecuentemente
+U04237,Brazil,South America,52,Female,8.0,2.3,177,103,7.8,Average,6,40,37.15512719313098,Frecuentemente
+U04238,China,Asia,50,Male,7.7,1.2,497,176,4.5,Poor,5,32,39.85635294081848,Siempre
+U04239,UK,Europe,62,Male,5.2,3.4,242,186,7.5,Good,4,63,27.20176480764385,Siempre
+U04240,Pakistan,Asia,50,Male,4.7,3.0,245,50,7.2,Good,6,78,18.479580473804333,Rara vez
+U04246,Pakistan,Asia,37,Female,4.9,1.3,385,107,5.2,Poor,4,64,22.94244301290868,Frecuentemente
+U04247,Germany,Europe,24,Female,8.1,0.6,127,154,4.7,Poor,6,30,40.8517434470459,Siempre
+U04248,Pakistan,Asia,40,Male,5.7,4.1,369,39,9.0,Average,6,54,21.02661288844944,Rara vez
+U04251,Germany,Europe,48,Other,2.2,3.3,123,153,4.4,Average,4,76,11.081295725309985,Siempre
+U04255,Brazil,South America,51,Female,8.3,1.7,89,74,8.2,Poor,3,38,35.835151342351374,Frecuentemente
+U04260,UK,Europe,43,Male,8.8,2.5,168,70,4.3,Average,5,40,37.51158291796358,Rara vez
+U04266,Canada,North America,37,Other,5.6,4.5,401,192,6.0,Poor,3,50,29.471065057867357,Siempre
+U04284,Pakistan,Asia,21,Other,5.9,0.5,134,174,6.6,Poor,3,49,30.472237246148737,Siempre
+U04287,Canada,North America,38,Male,8.4,1.9,80,150,7.0,Average,5,48,42.145150629245364,Siempre
+U04296,Canada,North America,32,Other,8.0,0.7,412,189,6.8,Average,5,37,41.97619257728389,Siempre
+U04302,USA,North America,49,Female,3.6,2.4,440,169,5.3,Good,4,100,18.488874373380945,Siempre
+U04305,Pakistan,Asia,15,Other,5.0,0.6,149,98,9.2,Poor,7,58,22.97559925067295,Frecuentemente
+U04308,India,Asia,39,Other,5.4,0.5,250,37,6.4,Average,4,63,19.642965262522484,Rara vez
+U04310,China,Asia,59,Male,7.0,2.5,338,193,6.0,Average,7,39,36.875007113443296,Siempre
+U04314,Germany,Europe,46,Male,7.2,4.2,157,78,10.0,Average,5,53,31.460024537762557,Frecuentemente
+U04316,Pakistan,Asia,49,Male,6.8,1.8,487,133,7.9,Good,4,43,33.305310639666196,Frecuentemente
+U04324,USA,North America,50,Male,4.8,4.0,59,98,6.5,Good,6,48,22.05657528064603,Frecuentemente
+U04328,India,Asia,20,Male,3.4,2.9,217,54,7.6,Poor,8,40,13.624932829790401,Rara vez
+U04332,Brazil,South America,46,Female,6.7,3.3,463,111,5.2,Poor,5,49,31.61394243767713,Frecuentemente
+U04333,Pakistan,Asia,54,Male,5.8,4.3,474,151,7.1,Good,6,55,29.138507020908403,Siempre
+U04335,Canada,North America,48,Male,3.4,3.9,489,139,4.9,Poor,4,72,16.801584236871633,Frecuentemente
+U04338,China,Asia,19,Other,7.9,3.4,173,92,7.5,Good,4,52,35.807535995910726,Frecuentemente
+U04342,USA,North America,23,Male,2.4,1.6,111,123,8.2,Good,5,82,11.56867575745209,Frecuentemente
+U04344,Japan,Asia,62,Other,8.5,4.4,354,130,5.3,Poor,2,44,41.439177247209784,Frecuentemente
+U04347,Brazil,South America,43,Male,4.4,2.8,421,125,6.2,Poor,3,79,21.279640390586504,Frecuentemente
+U04353,USA,North America,46,Female,3.2,1.2,472,175,10.0,Average,7,71,16.545548784122087,Siempre
+U04357,USA,North America,34,Male,6.9,4.2,57,162,6.5,Good,4,36,35.146876385566664,Siempre
+U04359,Australia,Oceania,30,Other,8.4,0.7,253,45,6.5,Poor,3,35,32.1605877305084,Rara vez
+U04368,India,Asia,36,Other,5.5,1.3,206,75,6.8,Average,1,42,23.81903337157482,Frecuentemente
+U04371,China,Asia,26,Male,5.5,2.3,421,129,7.9,Poor,2,41,26.7714394775057,Frecuentemente
+U04380,Australia,Oceania,28,Female,8.5,2.3,453,56,8.0,Good,2,19,34.36593577659368,Rara vez
+U04386,Pakistan,Asia,28,Other,8.0,1.2,205,31,9.0,Good,5,45,27.725887222397812,Rara vez
+U04387,UK,Europe,55,Other,4.1,2.3,392,114,6.8,Poor,1,63,19.454221726289322,Frecuentemente
+U04388,USA,North America,52,Other,4.7,2.9,255,130,5.6,Average,4,78,22.913427419045412,Frecuentemente
+U04408,Germany,Europe,51,Female,2.4,1.3,416,150,6.5,Average,1,83,12.041471608355819,Siempre
+U04414,USA,North America,31,Female,7.2,0.7,271,88,7.8,Average,2,40,32.318181862071405,Frecuentemente
+U04417,Brazil,South America,24,Male,4.2,2.7,147,46,7.2,Poor,2,73,16.170619927182248,Rara vez
+U04421,Pakistan,Asia,59,Female,4.8,3.2,454,87,7.3,Good,7,74,21.491216709495394,Frecuentemente
+U04423,UK,Europe,65,Male,7.7,0.6,296,89,8.3,Good,3,26,34.64853446154304,Frecuentemente
+U04431,Brazil,South America,46,Female,1.1,2.2,320,141,4.6,Good,6,98,5.451409763361387,Siempre
+U04437,UK,Europe,60,Other,6.0,0.8,89,64,6.4,Poor,2,60,25.046323619373823,Rara vez
+U04444,Australia,Oceania,19,Other,2.8,0.7,467,75,5.0,Good,7,62,12.126053352801726,Frecuentemente
+U04445,China,Asia,16,Male,9.0,0.7,214,87,6.6,Poor,1,24,40.29603133030386,Frecuentemente
+U04452,USA,North America,44,Female,4.5,0.5,393,187,6.7,Good,5,65,23.563988832734772,Siempre
+U04463,Australia,Oceania,18,Other,5.7,1.3,431,119,3.0,Poor,3,50,27.28870293385766,Frecuentemente
+U04472,Australia,Oceania,18,Female,7.3,0.8,445,115,7.7,Poor,2,37,34.70120839507646,Frecuentemente
+U04475,Pakistan,Asia,23,Other,4.9,4.0,168,124,5.0,Good,1,58,23.65873731278128,Frecuentemente
+U04492,USA,North America,27,Female,7.1,2.6,191,157,6.3,Poor,5,54,35.94442473449146,Siempre
+U04503,Brazil,South America,40,Male,5.1,4.1,282,153,6.0,Poor,5,55,25.688458272309507,Siempre
+U04504,Canada,North America,21,Other,4.1,2.2,221,97,8.9,Poor,4,53,18.798366662549345,Frecuentemente
+U04508,India,Asia,45,Male,5.4,3.0,393,157,6.8,Poor,6,65,27.338013178345623,Siempre
+U04513,India,Asia,29,Female,4.8,2.7,464,86,4.4,Good,4,56,21.436358969542002,Frecuentemente
+U04525,Canada,North America,20,Female,3.3,1.7,272,158,4.2,Average,3,69,16.727383867326765,Siempre
+U04527,Canada,North America,54,Male,5.0,3.9,341,183,3.4,Poor,6,51,26.074678788044928,Siempre
+U04530,Australia,Oceania,36,Male,5.8,4.1,157,194,9.0,Average,5,52,30.58339743966973,Siempre
+U04532,UK,Europe,50,Female,4.1,2.6,208,34,8.1,Poor,5,49,14.576927052106594,Rara vez
+U04535,Brazil,South America,16,Other,5.6,3.1,105,37,7.2,Good,3,77,20.37048249446776,Rara vez
+U04536,Australia,Oceania,52,Male,6.0,3.5,404,49,5.7,Poor,5,53,23.472138032568875,Rara vez
+U04543,Japan,Asia,32,Other,2.0,3.3,494,52,8.5,Average,5,66,7.940583827104244,Rara vez
+U04552,China,Asia,22,Other,4.9,3.3,318,114,8.4,Average,5,53,23.25016742897993,Frecuentemente
+U04557,China,Asia,56,Female,6.7,3.8,431,53,7.1,Good,7,35,26.72619311198064,Rara vez
+U04562,China,Asia,35,Male,10.8,1.2,186,34,7.3,Good,7,0,38.39775906408567,Rara vez
+U04564,India,Asia,24,Other,7.4,3.0,293,58,7.3,Poor,5,47,30.173777084902326,Rara vez
+U04565,China,Asia,26,Male,3.5,3.7,492,51,10.7,Poor,1,75,13.829353015034997,Rara vez
+U04582,Canada,North America,43,Male,4.2,4.1,359,157,4.5,Good,2,71,21.262899138713262,Siempre
+U04584,USA,North America,58,Male,7.3,2.1,249,124,7.4,Good,1,45,35.2466902823068,Frecuentemente
+U04585,Pakistan,Asia,16,Male,7.4,0.7,106,50,8.6,Poor,6,19,29.09550968216001,Rara vez
+U04591,Pakistan,Asia,18,Female,5.8,4.5,491,178,3.4,Average,5,67,30.086837673876378,Siempre
+U04599,India,Asia,50,Other,9.9,2.1,53,192,9.8,Good,4,29,52.10063287015837,Siempre
+U04601,Brazil,South America,53,Other,7.2,2.5,330,41,8.7,Poor,4,33,26.911221251640253,Rara vez
+U04602,Germany,Europe,30,Other,8.4,0.9,153,84,8.2,Poor,6,25,37.31827055451866,Frecuentemente
+U04603,India,Asia,41,Male,5.0,1.7,390,136,8.2,Poor,3,51,24.599904629140624,Frecuentemente
+U04611,China,Asia,48,Female,4.1,0.7,170,198,7.8,Good,2,78,21.702549781370415,Siempre
+U04614,Canada,North America,39,Female,7.4,1.3,122,58,6.2,Poor,9,36,30.173777084902326,Rara vez
+U04630,Germany,Europe,25,Other,4.3,3.3,195,175,8.7,Good,4,70,22.23308117866405,Siempre
+U04634,Canada,North America,15,Other,3.8,3.6,102,36,10.3,Average,4,47,13.721488068048052,Rara vez
+U04635,India,Asia,46,Other,5.9,4.5,301,156,3.9,Good,4,32,29.831850251555018,Siempre
+U04643,India,Asia,51,Female,5.0,1.7,161,79,6.3,Average,4,51,21.910133173369406,Frecuentemente
+U04644,USA,North America,43,Other,6.9,2.5,456,123,6.8,Average,5,46,33.25994280267476,Frecuentemente
+U04649,Australia,Oceania,64,Other,8.1,0.5,174,57,6.6,Poor,4,21,32.889588385425995,Rara vez
+U04651,India,Asia,42,Male,7.4,3.3,499,57,6.9,Good,7,33,30.047278278043503,Rara vez
+U04653,Australia,Oceania,29,Female,7.6,3.7,328,39,8.8,Average,4,51,28.035483851265916,Rara vez
+U04661,UK,Europe,40,Other,3.8,2.9,482,91,7.4,Poor,6,75,17.182796592786353,Frecuentemente
+U04668,Japan,Asia,61,Male,8.5,1.8,126,85,5.8,Good,4,26,37.86195201815481,Frecuentemente
+U04669,Pakistan,Asia,28,Other,5.1,1.6,459,185,5.5,Average,3,63,26.651308035937326,Siempre
+U04673,India,Asia,29,Other,3.4,4.2,180,194,7.7,Average,2,67,17.92819849911674,Siempre
+U04674,India,Asia,15,Other,7.8,4.1,333,144,6.7,Good,7,21,38.81852319088048,Siempre
+U04677,Australia,Oceania,60,Other,6.5,0.7,201,38,8.7,Poor,5,67,23.8131506998427,Rara vez
+U04685,UK,Europe,16,Female,5.6,2.0,377,85,5.2,Average,6,58,24.94434485901964,Frecuentemente
+U04686,India,Asia,18,Female,7.5,4.1,330,150,4.7,Poor,3,38,37.62959877611193,Siempre
+U04687,India,Asia,29,Male,3.8,3.4,343,63,4.5,Poor,5,78,15.803755716766752,Rara vez
+U04692,Canada,North America,26,Other,7.2,4.2,495,80,7.9,Good,7,25,31.640033913641563,Frecuentemente
+U04697,Japan,Asia,37,Other,6.3,0.6,94,51,8.7,Good,4,56,24.89283542706299,Rara vez
+U04704,Brazil,South America,53,Other,7.6,3.2,108,156,6.0,Good,5,43,38.427468120647134,Siempre
+U04716,Pakistan,Asia,39,Male,7.5,2.9,180,166,7.5,Poor,6,41,38.384953593125665,Siempre
+U04717,India,Asia,32,Male,8.3,3.5,382,50,4.8,Good,6,47,32.63415275161191,Rara vez
+U04721,Brazil,South America,34,Male,3.4,2.7,276,129,4.0,Average,7,85,16.549617131548978,Frecuentemente
+U04731,Pakistan,Asia,23,Other,5.5,3.7,172,165,6.2,Average,2,65,28.11593283596099,Siempre
+U04733,Pakistan,Asia,48,Female,10.5,3.6,229,100,9.3,Poor,5,22,48.458765426833224,Frecuentemente
+U04734,Canada,North America,49,Female,4.9,4.0,196,139,5.4,Poor,4,49,24.214047870785592,Frecuentemente
+U04737,India,Asia,57,Female,5.5,0.7,54,193,7.6,Good,6,57,28.973219874848304,Siempre
+U04739,China,Asia,44,Male,5.3,1.2,249,160,6.6,Poor,5,40,26.931443134417652,Siempre
+U04741,UK,Europe,22,Female,7.5,3.8,373,91,8.4,Average,6,45,33.913414327867805,Frecuentemente
+U04746,Brazil,South America,50,Female,7.8,1.5,321,56,6.7,Poor,2,33,31.53579988910949,Rara vez
+U04751,India,Asia,25,Female,7.2,0.9,443,73,8.4,Average,2,42,30.989268671070025,Frecuentemente
+U04753,Canada,North America,34,Male,5.8,2.8,424,37,6.1,Average,3,43,21.097999726413036,Rara vez
+U04759,Australia,Oceania,50,Female,3.3,0.6,369,52,8.4,Poor,4,80,13.101963314722001,Rara vez
+U04760,Japan,Asia,35,Female,7.6,4.1,235,81,7.2,Average,2,25,33.491066279208326,Frecuentemente
+U04764,Pakistan,Asia,26,Male,9.2,0.6,55,194,5.8,Average,5,24,48.51159593878646,Siempre
+U04765,China,Asia,63,Other,4.9,0.5,417,106,9.4,Average,5,52,22.89686128886334,Frecuentemente
+U04769,India,Asia,38,Other,4.0,3.0,446,163,7.7,Average,6,66,20.399465711296795,Siempre
+U04771,Germany,Europe,34,Other,7.9,2.4,332,132,8.2,Average,4,27,38.63375811295185,Frecuentemente
+U04772,Brazil,South America,49,Female,5.7,2.5,183,122,9.1,Poor,7,54,27.429450825622776,Frecuentemente
+U04781,India,Asia,64,Other,6.1,3.9,261,200,6.0,Good,4,44,32.35015993916036,Siempre
+U04784,Australia,Oceania,32,Female,7.5,0.6,401,139,5.9,Average,3,37,37.06231816956978,Frecuentemente
+U04797,China,Asia,61,Other,4.5,4.2,110,197,5.5,Poor,1,59,23.797201638125408,Siempre
+U04800,Pakistan,Asia,29,Female,1.1,1.4,305,116,7.2,Good,5,81,5.238391328277532,Frecuentemente
+U04816,Germany,Europe,60,Female,3.5,2.4,176,55,5.5,Poor,2,77,14.088730917573024,Rara vez
+U04818,Canada,North America,64,Female,6.1,2.7,455,52,7.9,Average,1,59,24.218780672667943,Rara vez
+U04819,Germany,Europe,28,Male,5.4,4.2,474,86,7.0,Poor,4,55,24.115903840734752,Frecuentemente
+U04825,UK,Europe,26,Other,5.7,3.7,406,124,9.1,Poor,4,59,27.52138830262312,Frecuentemente
+U04829,Canada,North America,53,Female,4.8,4.3,102,200,7.1,Average,6,59,25.455863558683564,Siempre
+U04830,Pakistan,Asia,16,Other,6.0,4.1,50,119,5.8,Poor,8,63,28.724950456692277,Frecuentemente
+U04832,Australia,Oceania,60,Other,4.4,3.9,85,110,7.8,Good,3,62,20.721932885774272,Frecuentemente
+U04834,USA,North America,45,Male,3.8,0.8,383,172,8.1,Poor,2,63,19.58250805909156,Siempre
+U04837,India,Asia,40,Female,3.7,0.9,98,101,5.8,Average,4,70,17.112399409151802,Frecuentemente
+U04851,Pakistan,Asia,31,Female,3.7,3.0,361,178,6.0,Good,6,77,19.193327481610794,Siempre
+U04858,India,Asia,43,Other,6.3,3.9,125,154,8.7,Poor,4,57,31.773578236591252,Siempre
+U04859,India,Asia,32,Male,2.7,2.5,300,104,6.3,Average,7,87,12.565692945425313,Frecuentemente
+U04866,India,Asia,51,Other,2.2,1.6,382,43,5.8,Average,6,80,8.325217194620175,Rara vez
+U04873,Pakistan,Asia,32,Other,5.3,1.1,251,199,6.5,Good,4,55,28.08108204270459,Siempre
+U04876,Pakistan,Asia,22,Other,5.1,2.0,376,179,8.9,Good,6,69,26.48407993954007,Siempre
+U04877,USA,North America,44,Other,7.1,3.0,129,113,7.2,Average,7,42,33.627008983600916,Frecuentemente
+U04879,USA,North America,33,Female,8.7,3.3,165,71,10.9,Poor,6,36,37.20699523543968,Frecuentemente
+U04880,Pakistan,Asia,31,Male,4.1,0.9,392,138,5.7,Poor,4,72,20.231343125835835,Frecuentemente
+U04882,Brazil,South America,23,Male,5.6,2.6,354,181,9.1,Good,7,59,29.14243744763005,Siempre
+U04888,Pakistan,Asia,26,Other,1.6,1.3,189,188,7.0,Poor,5,92,8.386795224095428,Siempre
+U04892,Canada,North America,59,Female,4.5,2.3,188,124,8.9,Average,7,49,21.727411817860357,Frecuentemente
+U04905,India,Asia,15,Male,2.9,1.1,361,69,6.7,Good,7,76,12.320636201943142,Rara vez
+U04912,USA,North America,52,Male,3.8,4.0,481,174,8.2,Good,4,87,19.626186700909354,Siempre
+U04922,Australia,Oceania,56,Other,6.9,2.7,275,45,10.3,Good,6,38,26.41762563577476,Rara vez
+U04925,Canada,North America,39,Male,7.3,2.1,397,80,9.8,Poor,3,39,32.07947882910881,Frecuentemente
+U04926,India,Asia,53,Female,5.9,4.3,61,172,5.4,Average,2,33,30.4044204075369,Siempre
+U04932,Australia,Oceania,64,Male,7.1,1.3,232,152,8.8,Good,5,31,35.716109241886286,Siempre
+U04935,USA,North America,18,Male,7.8,1.1,216,105,9.0,Poor,4,33,36.37482493407412,Frecuentemente
+U04939,China,Asia,25,Male,8.3,1.8,161,144,6.7,Poor,5,25,41.30689006209077,Siempre
+U04942,Brazil,South America,25,Other,5.8,1.0,425,143,5.0,Poor,4,45,28.824917137540805,Siempre
+U04943,Japan,Asia,22,Male,5.5,1.4,50,187,5.9,Good,5,58,28.800430795564722,Siempre
+U04945,Pakistan,Asia,50,Other,6.2,3.1,101,52,5.4,Poor,2,44,24.615809864023156,Rara vez
+U04951,China,Asia,58,Male,6.2,3.8,465,133,4.9,Good,4,55,30.36660675969565,Frecuentemente
+U04962,India,Asia,40,Other,6.3,2.4,450,65,7.4,Good,6,43,26.394824874766478,Rara vez
+U04965,China,Asia,28,Male,4.7,1.8,205,73,5.0,Good,6,69,20.2291059380596,Frecuentemente
+U04974,USA,North America,34,Female,5.4,1.3,311,31,8.2,Average,6,74,18.714973875118524,Rara vez
+U04984,China,Asia,47,Other,5.9,1.6,80,91,4.5,Poor,6,47,26.678552604589342,Frecuentemente
+U04989,Australia,Oceania,15,Female,7.4,4.4,341,92,3.5,Poor,3,58,33.5412362493341,Frecuentemente
+U04991,Brazil,South America,47,Male,4.0,1.7,180,174,8.8,Poor,6,82,20.659143895694058,Siempre
+U04996,Canada,North America,32,Other,8.1,2.3,199,86,9.0,Average,4,24,36.173855761102125,Frecuentemente
+U05003,Japan,Asia,55,Female,3.8,4.0,234,110,6.9,Poor,2,61,17.89621476498687,Frecuentemente
+U05005,Brazil,South America,35,Male,7.3,3.0,96,86,8.0,Good,6,43,32.60112926617846,Frecuentemente
+U05012,Japan,Asia,60,Other,7.3,3.3,311,97,7.1,Average,5,32,33.47026259429518,Frecuentemente
+U05023,Canada,North America,38,Female,8.3,2.7,356,121,6.0,Poor,4,23,39.87337467128604,Frecuentemente
+U05026,Germany,Europe,57,Male,6.2,4.4,281,124,3.7,Good,3,36,29.93554517127427,Frecuentemente
+U05029,Japan,Asia,19,Male,6.0,1.3,341,195,6.3,Poor,4,51,31.6686879553831,Siempre
+U05030,Brazil,South America,24,Female,8.8,2.8,449,43,6.7,Poor,4,22,33.3008687784807,Rara vez
+U05036,Brazil,South America,64,Male,5.7,1.6,264,110,9.2,Poor,4,60,26.844322147480305,Frecuentemente
+U05066,Australia,Oceania,51,Other,2.1,2.4,219,187,3.3,Poor,4,95,10.996528121942895,Siempre
+U05071,UK,Europe,32,Female,4.5,2.7,361,153,8.7,Good,7,45,22.666286710861332,Siempre
+U05075,USA,North America,45,Other,5.8,3.1,467,75,6.1,Good,3,62,25.118253373660718,Frecuentemente
+U05077,China,Asia,43,Other,6.2,3.1,416,56,7.2,Good,6,54,25.06691786057421,Rara vez
+U05078,Pakistan,Asia,52,Male,5.5,2.2,453,118,5.4,Poor,4,79,26.285179212113412,Frecuentemente
+U05082,China,Asia,42,Female,8.8,3.4,259,107,9.3,Good,6,32,41.202754798693135,Frecuentemente
+U05087,China,Asia,47,Other,4.9,2.1,448,198,8.5,Poor,1,72,25.937193641150014,Siempre
+U05088,USA,North America,31,Other,6.1,3.1,352,138,5.9,Good,3,62,30.100290992097218,Frecuentemente
+U05099,Australia,Oceania,15,Female,3.6,2.4,351,40,4.1,Poor,1,56,13.368859440135509,Rara vez
+U05101,Australia,Oceania,55,Other,11.6,3.6,268,113,8.6,Poor,3,7,54.93990200137615,Frecuentemente
+U05103,Canada,North America,15,Female,6.3,4.4,90,100,9.9,Poor,5,51,29.075259256099937,Frecuentemente
+U05112,Germany,Europe,24,Male,6.4,4.2,497,188,7.6,Average,5,54,33.54718089638171,Siempre
+U05116,Brazil,South America,50,Other,1.8,0.8,306,48,8.5,Good,2,88,7.005276536599128,Rara vez
+U05131,India,Asia,18,Male,5.1,1.7,233,48,5.4,Good,2,58,19.848283520364195,Rara vez
+U05135,China,Asia,57,Other,2.5,0.7,237,100,3.9,Good,4,91,11.537801292103149,Frecuentemente
+U05147,Canada,North America,45,Other,4.8,1.2,225,129,5.7,Good,9,74,23.364165362186792,Frecuentemente
+U05149,Germany,Europe,56,Male,3.8,2.0,251,195,4.8,Good,5,74,20.05683570507596,Siempre
+U05153,Canada,North America,20,Female,6.4,2.9,113,144,9.5,Average,5,28,31.851095951491676,Siempre
+U05157,Brazil,South America,45,Male,6.3,2.0,76,200,7.1,Average,5,45,33.410820920772174,Siempre
+U05160,Germany,Europe,21,Other,3.7,1.4,269,176,5.3,Good,6,63,19.151754010523167,Siempre
+U05162,China,Asia,26,Other,6.3,0.5,72,114,5.1,Average,2,70,29.893072408688475,Frecuentemente
+U05171,India,Asia,17,Male,9.0,1.2,394,33,7.8,Average,5,28,31.737244721545455,Rara vez
+U05172,Japan,Asia,35,Female,7.1,2.7,60,100,8.4,Good,7,29,32.76735566957294,Frecuentemente
+U05174,Australia,Oceania,22,Female,7.2,0.6,196,45,5.7,Average,8,58,27.566218054721485,Rara vez
+U05180,UK,Europe,45,Female,8.9,2.3,244,161,6.9,Poor,5,27,45.27960738356822,Siempre
+U05181,USA,North America,22,Female,7.0,0.6,469,144,8.4,Good,1,46,34.837136196944016,Siempre
+U05190,China,Asia,59,Male,6.3,3.6,105,131,8.1,Poor,8,49,30.761652112294133,Frecuentemente
+U05192,Brazil,South America,33,Other,5.1,1.3,355,120,7.6,Poor,6,56,24.45853178254338,Frecuentemente
+U05195,Brazil,South America,31,Female,3.5,1.6,281,33,6.2,Good,3,100,12.342261836156565,Rara vez
+U05208,Germany,Europe,33,Male,5.1,4.3,422,58,6.7,Poor,3,75,20.79544096391917,Rara vez
+U05210,Germany,Europe,36,Other,3.7,3.8,299,96,6.1,Poor,4,83,16.92643062046252,Frecuentemente
+U05213,India,Asia,50,Other,7.4,3.6,481,30,9.6,Good,4,47,25.411505313190084,Rara vez
+U05216,USA,North America,20,Other,6.3,1.7,303,61,9.2,Average,6,51,26.000946625784078,Rara vez
+U05218,Australia,Oceania,39,Male,5.6,2.8,298,42,7.7,Good,1,59,21.06272064788395,Rara vez
+U05229,India,Asia,43,Male,6.5,1.2,329,143,8.6,Average,3,58,32.30378644724401,Siempre
+U05241,India,Asia,44,Male,6.0,2.1,385,45,7.9,Poor,6,69,22.97184837893457,Rara vez
+U05243,Germany,Europe,16,Male,5.1,0.6,57,105,7.6,Good,1,57,23.78353937997154,Frecuentemente
+U05244,China,Asia,51,Female,3.9,3.1,408,165,8.2,Average,5,58,19.93675237459052,Siempre
+U05249,China,Asia,37,Male,7.1,2.9,183,56,7.0,Average,5,56,28.705664001625305,Rara vez
+U05253,Germany,Europe,30,Other,5.8,4.3,408,178,8.7,Poor,4,54,30.086837673876378,Siempre
+U05257,Brazil,South America,50,Female,5.8,2.2,190,143,9.1,Good,1,56,28.824917137540805,Siempre
+U05261,India,Asia,50,Other,6.7,1.0,52,147,7.2,Good,5,40,33.48132223421957,Siempre
+U05263,China,Asia,31,Other,3.0,1.5,269,87,5.8,Poor,6,79,13.43201044343462,Frecuentemente
+U05265,Pakistan,Asia,63,Female,7.8,3.5,214,113,7.7,Good,3,48,36.94234789747706,Frecuentemente
+U05273,Brazil,South America,34,Female,8.6,2.0,210,68,7.1,Good,5,43,36.41331593953643,Rara vez
+U05278,USA,North America,51,Male,4.6,3.9,333,36,8.2,Good,3,74,16.61022239816343,Rara vez
+U05279,Germany,Europe,65,Other,6.7,0.6,78,148,6.7,Poor,2,45,33.52644024983458,Siempre
+U05284,Japan,Asia,15,Female,9.4,2.1,444,140,7.1,Average,3,27,46.51834296955479,Frecuentemente
+U05285,China,Asia,48,Female,5.8,2.5,159,101,6.9,Good,4,58,26.82484231704877,Frecuentemente
+U05290,Pakistan,Asia,22,Other,3.6,1.6,131,183,5.8,Poor,7,81,18.77376872739235,Siempre
+U05303,Pakistan,Asia,43,Other,7.0,4.1,192,176,7.4,Good,5,42,36.233048128016804,Siempre
+U05304,USA,North America,24,Male,6.4,0.7,389,183,7.1,Good,4,59,33.37558884869751,Siempre
+U05324,Japan,Asia,28,Male,6.8,2.5,495,141,3.8,Average,3,42,33.699623991688576,Siempre
+U05326,Japan,Asia,64,Other,4.6,1.3,382,47,9.2,Good,7,61,17.807524650176298,Rara vez
+U05341,Pakistan,Asia,28,Female,3.0,3.9,148,186,6.8,Poor,4,76,15.69332585056376,Siempre
+U05355,USA,North America,19,Other,5.7,4.1,461,68,5.0,Average,4,51,24.13440707620438,Rara vez
+U05356,Japan,Asia,52,Male,8.5,4.1,71,103,6.0,Good,3,52,39.477322642701665,Frecuentemente
+U05364,Japan,Asia,38,Female,6.0,3.5,157,109,9.4,Average,4,55,28.2028821947545,Frecuentemente
+U05367,India,Asia,42,Female,5.7,1.8,91,61,5.2,Average,7,63,23.524665994757022,Rara vez
+U05372,Australia,Oceania,20,Female,6.3,4.1,146,157,7.9,Poor,4,41,31.89434870806989,Siempre
+U05375,Australia,Oceania,62,Other,7.0,1.2,216,84,4.6,Average,6,56,31.09855879543222,Frecuentemente
+U05377,India,Asia,61,Male,8.2,4.4,85,62,8.6,Poor,5,22,33.97370475641056,Rara vez
+U05381,India,Asia,33,Female,5.3,4.3,195,121,7.7,Poor,5,60,25.46131153708626,Frecuentemente
+U05382,Brazil,South America,65,Other,5.7,4.4,228,94,6.6,Poor,5,61,25.957098282123084,Frecuentemente
+U05385,USA,North America,33,Female,6.1,4.0,316,47,7.6,Average,3,37,23.614326166538135,Rara vez
+U05393,India,Asia,21,Male,8.0,1.6,387,116,7.2,Average,2,37,38.09739147838205,Frecuentemente
+U05394,UK,Europe,42,Male,6.6,2.9,302,152,6.6,Average,3,58,33.20089028119007,Siempre
+U05397,China,Asia,50,Male,6.9,4.4,395,56,9.6,Poor,7,40,27.897053748058397,Rara vez
+U05400,China,Asia,56,Female,5.4,2.5,117,89,5.9,Poor,5,56,24.298972219783433,Frecuentemente
+U05407,India,Asia,31,Male,6.2,3.3,194,73,6.3,Average,6,53,26.685203577865856,Frecuentemente
+U05410,India,Asia,16,Male,8.3,3.2,306,59,5.8,Average,5,25,33.98305986644343,Rara vez
+U05420,India,Asia,29,Female,6.8,0.7,402,62,8.7,Good,8,41,28.173316139462422,Rara vez
+U05421,USA,North America,35,Other,2.3,0.6,184,198,4.5,Poor,2,79,12.174601096866331,Siempre
+U05427,Germany,Europe,31,Male,7.4,3.1,197,172,10.1,Poor,4,49,38.13435779928357,Siempre
+U05437,Japan,Asia,26,Other,2.9,1.9,274,176,7.0,Average,2,73,15.010834224464103,Siempre
+U05451,Canada,North America,26,Male,6.2,3.6,281,90,5.4,Average,4,39,27.96732894040447,Frecuentemente
+U05455,Canada,North America,27,Male,6.8,4.2,405,55,4.9,Poor,4,48,27.37239149699902,Rara vez
+U05474,Canada,North America,18,Male,2.3,2.5,495,173,4.5,Poor,7,76,11.865827188193416,Siempre
+U05479,Australia,Oceania,45,Other,4.8,3.0,425,95,6.9,Poor,8,72,21.908871319045613,Frecuentemente
+U05482,Australia,Oceania,35,Other,2.6,4.2,456,168,7.5,Average,8,82,13.337736658799992,Siempre
+U05485,Germany,Europe,63,Other,1.9,1.8,173,42,7.3,Average,5,69,7.146280219817768,Rara vez
+U05498,Pakistan,Asia,43,Other,5.5,1.6,238,181,6.3,Poor,3,49,28.62203677892237,Siempre
+U05500,Japan,Asia,26,Other,6.2,3.7,308,172,5.9,Good,6,44,31.950407885886232,Siempre
+U05506,China,Asia,65,Male,8.0,2.4,277,183,6.3,Poor,7,19,41.71948606087189,Siempre
+U05510,Pakistan,Asia,52,Male,8.6,1.3,76,70,8.9,Good,7,14,36.659046942555314,Rara vez
+U05515,Pakistan,Asia,51,Male,4.8,0.9,207,190,4.0,Poor,5,61,25.210912454623823,Siempre
+U05519,Australia,Oceania,21,Other,1.7,0.8,219,131,9.4,Poor,4,83,8.30076326839683,Frecuentemente
+U05529,UK,Europe,29,Other,5.8,2.5,175,192,6.8,Good,3,56,30.523603095648337,Siempre
+U05530,Germany,Europe,43,Other,4.3,1.9,306,56,7.2,Average,2,54,17.385120451688564,Rara vez
+U05531,Canada,North America,23,Female,4.8,4.2,113,143,8.7,Poor,4,61,23.8551038379648,Siempre
+U05532,USA,North America,36,Female,5.7,0.8,437,39,5.9,Average,4,52,21.02661288844944,Rara vez
+U05537,Australia,Oceania,48,Other,4.4,3.4,320,82,8.4,Poor,5,42,19.442898674305034,Frecuentemente
+U05541,Brazil,South America,52,Male,9.7,4.2,61,57,7.3,Average,3,4,39.38629720230026,Rara vez
+U05555,China,Asia,44,Other,6.1,3.0,127,54,6.8,Good,7,57,24.444732429918073,Rara vez
+U05557,India,Asia,43,Female,6.0,3.7,333,152,8.5,Good,9,61,30.18262752835461,Siempre
+U05562,China,Asia,52,Male,2.7,1.7,255,89,5.0,Good,4,64,12.149486109891717,Frecuentemente
+U05563,Canada,North America,55,Female,7.8,0.7,490,138,8.1,Good,3,41,38.488896678419394,Frecuentemente
+U05566,USA,North America,52,Female,3.7,3.5,69,167,7.9,Poor,9,69,18.95866672379206,Siempre
+U05568,Japan,Asia,22,Male,6.2,1.9,180,105,4.2,Good,3,59,28.913322383494815,Frecuentemente
+U05572,UK,Europe,29,Other,6.3,2.1,73,151,8.1,Poor,3,29,31.65044728133154,Siempre
+U05573,Japan,Asia,56,Male,5.5,2.1,434,41,4.6,Good,3,46,20.557182900558526,Rara vez
+U05581,Japan,Asia,19,Female,7.6,1.7,157,84,6.4,Average,6,55,33.764149549326405,Frecuentemente
+U05588,Germany,Europe,52,Female,3.0,3.3,440,39,6.9,Average,6,83,11.06663836234181,Rara vez
+U05593,India,Asia,61,Male,4.6,2.7,282,83,7.0,Good,5,63,20.38175727467924,Frecuentemente
+U05594,Brazil,South America,39,Male,6.0,3.7,180,145,5.9,Good,4,46,29.901639730250018,Siempre
+U05597,Pakistan,Asia,57,Male,5.6,3.5,256,62,8.7,Poor,4,47,23.20155446779258,Rara vez
+U05600,Canada,North America,46,Female,6.5,2.7,115,177,7.7,Good,3,27,33.68159307689855,Siempre
+U05608,Germany,Europe,44,Male,6.9,2.1,150,187,6.7,Average,7,43,36.13144954352665,Siempre
+U05609,Canada,North America,36,Other,5.5,0.6,246,104,8.5,Poor,5,80,25.596781925866377,Frecuentemente
+U05612,Japan,Asia,39,Female,6.8,3.1,264,152,6.3,Average,1,45,34.20697786546856,Siempre
+U05617,India,Asia,30,Other,5.3,1.3,141,98,6.3,Good,5,37,24.354135205713327,Frecuentemente
+U05622,Canada,North America,28,Other,9.2,0.7,233,124,8.3,Poor,5,15,44.42048638318117,Frecuentemente
+U05631,Japan,Asia,64,Female,3.8,4.3,207,43,6.1,Poor,1,57,14.37992060888939,Rara vez
+U05643,Germany,Europe,33,Male,6.9,1.6,263,158,8.8,Poor,6,30,34.9754389953196,Siempre
+U05644,Germany,Europe,65,Male,10.7,1.5,334,49,6.8,Good,6,11,41.85864615808116,Rara vez
+U05649,Australia,Oceania,52,Other,5.5,4.0,136,46,6.8,Good,3,54,21.17581180940532,Rara vez
+U05650,UK,Europe,26,Female,5.5,1.7,308,78,5.7,Poor,4,59,24.031963188568618,Frecuentemente
+U05651,Canada,North America,47,Female,5.4,3.0,272,189,7.9,Poor,4,38,28.333929989666625,Siempre
+U05664,UK,Europe,18,Other,3.6,4.4,187,87,7.7,Poor,3,70,16.118412532121546,Frecuentemente
+U05667,China,Asia,50,Male,6.5,2.1,490,157,6.7,Good,8,53,32.906867714675286,Siempre
+U05674,UK,Europe,47,Female,4.8,2.7,403,153,7.8,Average,5,57,24.17737249158542,Siempre
+U05677,USA,North America,21,Male,7.0,0.9,476,89,8.7,Average,5,39,31.498667692311855,Frecuentemente
+U05683,Japan,Asia,57,Other,5.1,4.4,317,106,6.9,Good,2,64,23.831427055755718,Frecuentemente
+U05684,India,Asia,64,Female,5.3,1.0,170,128,8.0,Average,1,66,25.75700574311686,Frecuentemente
+U05688,Australia,Oceania,20,Female,3.0,2.5,439,150,4.2,Good,3,68,15.051839510444772,Siempre
+U05691,Japan,Asia,61,Other,4.3,3.3,53,122,5.2,Good,4,63,20.692392728101392,Frecuentemente
+U05692,Brazil,South America,56,Other,5.7,3.1,165,126,9.9,Good,5,54,27.61186639281397,Frecuentemente
+U05698,Pakistan,Asia,51,Male,6.1,2.7,134,71,8.1,Good,3,23,26.087663325997937,Frecuentemente
+U05710,UK,Europe,28,Female,8.1,2.5,204,98,6.6,Good,4,41,37.220470786090175,Frecuentemente
+U05711,Canada,North America,41,Male,5.1,0.9,129,47,9.3,Average,2,67,19.743125155630242,Rara vez
+U05712,Australia,Oceania,34,Other,6.3,1.5,233,143,5.0,Good,4,45,31.309823787328803,Siempre
+U05727,Brazil,South America,45,Other,7.3,0.6,385,94,5.0,Average,3,40,33.24330130868395,Frecuentemente
+U05730,Japan,Asia,59,Male,7.7,2.9,443,96,8.1,Poor,1,55,35.22527453447605,Frecuentemente
+U05733,Germany,Europe,40,Male,8.8,2.9,190,177,6.0,Poor,8,35,45.599695242570355,Siempre
+U05738,Brazil,South America,35,Male,5.1,0.5,86,131,6.4,Good,4,49,24.902289805190488,Frecuentemente
+U05745,China,Asia,24,Female,6.2,3.0,143,60,5.9,Poor,3,34,25.48741795787453,Rara vez
+U05747,China,Asia,23,Female,8.2,2.6,333,116,7.5,Average,1,38,39.0498262653416,Frecuentemente
+U05754,USA,North America,19,Male,6.1,4.3,440,197,6.5,Poor,6,68,32.25842888723666,Siempre
+U05755,Japan,Asia,42,Male,5.1,3.8,389,58,5.9,Poor,3,54,20.79544096391917,Rara vez
+U05756,Japan,Asia,45,Male,2.0,4.1,337,40,7.2,Good,7,78,7.427144133408616,Rara vez
+U05760,China,Asia,25,Female,4.9,0.6,462,138,5.6,Good,5,52,24.17892227234039,Frecuentemente
+U05767,Australia,Oceania,36,Other,6.5,2.1,312,142,5.8,Average,4,47,32.25849009668939,Siempre
+U05772,Japan,Asia,29,Female,7.0,2.4,91,144,7.1,Good,3,42,34.837136196944016,Siempre
+U05778,Canada,North America,23,Female,5.1,2.6,73,65,9.3,Poor,4,43,21.367239184334768,Rara vez
+U05784,India,Asia,37,Female,9.7,0.7,199,156,9.2,Good,8,10,49.04558431187858,Siempre
+U05786,USA,North America,19,Male,6.2,3.7,94,150,5.9,Poor,5,61,31.107134988252533,Siempre
+U05792,Canada,North America,35,Other,4.8,3.7,464,154,5.0,Poor,3,74,24.208440561212385,Siempre
+U05796,Japan,Asia,27,Male,5.3,2.4,332,56,4.7,Good,8,50,21.428171719523117,Rara vez
+U05798,Pakistan,Asia,63,Other,6.2,2.9,385,181,5.0,Poor,6,59,32.26484145987613,Siempre
+U05801,Canada,North America,51,Male,3.8,1.1,56,48,7.2,Poor,1,58,14.78891713282038,Rara vez
+U05803,Brazil,South America,51,Other,5.3,0.7,110,145,7.3,Average,4,45,26.41311509505418,Siempre
+U05810,India,Asia,27,Male,7.0,3.6,395,141,4.4,Average,2,44,34.690789403208825,Siempre
+U05815,Pakistan,Asia,29,Other,6.9,4.3,268,185,5.5,Average,6,58,36.057652048621094,Siempre
+U05817,China,Asia,55,Female,2.2,0.9,463,44,7.4,Good,7,100,8.374657477494704,Rara vez
+U05846,Australia,Oceania,27,Other,6.6,2.9,81,101,6.0,Poor,3,45,30.524820567676183,Frecuentemente
+U05858,Pakistan,Asia,62,Male,4.8,2.4,223,121,7.3,Poor,5,51,23.059301014719633,Frecuentemente
+U05863,China,Asia,60,Female,4.7,1.3,318,77,6.0,Good,7,75,20.476531485441082,Frecuentemente
+U05864,USA,North America,29,Female,4.4,0.8,447,163,5.6,Good,4,63,22.439412282426478,Siempre
+U05865,Japan,Asia,26,Other,7.4,0.7,133,136,6.7,Poor,5,45,36.407858851128125,Frecuentemente
+U05876,India,Asia,29,Female,3.6,1.6,387,195,9.1,Good,6,63,19.00121277322986,Siempre
+U05879,China,Asia,27,Male,3.5,3.4,77,83,9.0,Good,5,76,15.507858795951597,Frecuentemente
+U05881,Pakistan,Asia,41,Other,6.6,3.9,111,99,4.1,Good,4,27,30.394123227521405,Frecuentemente
+U05885,Japan,Asia,25,Female,7.0,1.9,101,52,4.9,Poor,8,57,27.792043394864855,Rara vez
+U05886,USA,North America,41,Female,3.2,0.8,79,32,8.5,Poor,4,62,11.188824196692737,Rara vez
+U05890,Canada,North America,34,Male,8.6,1.3,472,185,9.7,Average,5,45,44.94142139393353,Siempre
+U05892,USA,North America,58,Male,4.5,2.6,164,51,6.9,Poor,6,66,17.780596733616424,Rara vez
+U05898,Japan,Asia,55,Other,6.7,2.5,369,194,7.0,Good,4,45,35.32909704237711,Siempre
+U05900,Australia,Oceania,28,Other,7.8,3.8,126,126,5.2,Average,6,32,37.78465927437701,Frecuentemente
+U05905,UK,Europe,62,Female,5.0,2.7,477,180,5.4,Poor,2,67,25.99248515632913,Siempre
+U05910,Germany,Europe,50,Male,7.2,0.9,261,115,6.4,Good,8,43,34.22584937596582,Frecuentemente
+U05911,China,Asia,22,Other,3.9,2.4,430,70,5.8,Good,2,73,16.62445152046113,Rara vez
+U05914,Canada,North America,57,Other,10.1,2.0,114,179,6.6,Poor,5,17,52.44886419399112,Siempre
+U05923,UK,Europe,43,Male,4.2,0.5,371,120,5.5,Poor,3,63,20.142320291506316,Frecuentemente
+U05925,India,Asia,55,Male,5.0,2.6,246,116,7.8,Average,4,61,23.810869673988783,Frecuentemente
+U05927,Brazil,South America,62,Male,6.6,3.9,270,44,6.3,Good,6,43,25.12397243248411,Rara vez
+U05934,Canada,North America,36,Other,4.7,2.4,207,116,8.0,Average,6,72,22.382217493549454,Frecuentemente
+U05952,India,Asia,27,Male,7.7,2.3,137,139,7.3,Good,6,33,38.05064665409164,Frecuentemente
+U05955,Pakistan,Asia,20,Female,3.1,1.0,65,46,7.4,Good,5,76,11.935457565301181,Rara vez
+U05960,UK,Europe,33,Female,6.7,0.9,88,129,7.2,Good,6,59,32.612480818052404,Frecuentemente
+U05965,Brazil,South America,58,Female,3.4,4.3,434,192,6.7,Poor,3,84,17.893146642276612,Siempre
+U05970,Japan,Asia,46,Female,5.4,0.8,185,35,7.7,Poor,3,61,19.351002267662995,Rara vez
+U05985,Brazil,South America,54,Male,6.0,3.5,238,175,6.9,Poor,4,61,31.02290397022891,Siempre
+U05986,Japan,Asia,48,Male,8.0,2.5,352,83,8.1,Good,4,30,35.44653439074651,Frecuentemente
+U05989,Brazil,South America,43,Male,5.7,2.7,382,110,8.0,Average,4,63,26.844322147480305,Frecuentemente
+U05990,Germany,Europe,57,Female,4.8,4.0,262,157,6.4,Average,8,56,24.30045615852944,Siempre
+U06001,India,Asia,34,Other,4.0,1.1,278,33,7.5,Average,4,78,14.105442098464646,Rara vez
+U06002,Brazil,South America,18,Other,7.4,1.8,352,124,6.3,Average,9,44,35.729521656037036,Frecuentemente
+U06011,USA,North America,35,Female,3.9,3.3,399,182,5.9,Average,5,59,20.31699599608154,Siempre
+U06019,Pakistan,Asia,65,Other,5.2,0.5,352,194,8.2,Good,4,44,27.419597704531483,Siempre
+U06021,Brazil,South America,17,Female,7.1,1.5,453,152,4.2,Poor,4,46,35.716109241886286,Siempre
+U06029,India,Asia,33,Other,6.5,1.9,479,115,7.5,Good,3,58,30.89833624219137,Frecuentemente
+U06035,UK,Europe,32,Male,9.1,4.3,438,74,6.3,Good,8,23,39.28914183318042,Frecuentemente
+U06037,Japan,Asia,35,Female,5.2,1.0,107,198,6.0,Average,4,46,27.525185088567362,Siempre
+U06040,UK,Europe,51,Other,9.9,2.0,369,47,6.7,Average,6,8,38.324890007988124,Rara vez
+U06041,Australia,Oceania,30,Male,5.3,3.6,81,72,8.5,Average,7,57,22.739435038086473,Frecuentemente
+U06045,China,Asia,51,Female,4.8,1.7,250,96,5.9,Good,7,73,21.958612696816235,Frecuentemente
+U06047,Pakistan,Asia,42,Other,6.5,4.0,454,73,9.0,Average,4,28,27.976423105827106,Frecuentemente
+U06050,Germany,Europe,29,Female,5.8,4.4,281,153,5.8,Average,3,53,29.21432509399905,Siempre
+U06055,Japan,Asia,53,Male,6.5,1.9,127,57,7.1,Good,4,59,26.392879568551724,Rara vez
+U06056,India,Asia,38,Male,5.2,2.2,292,39,5.2,Poor,5,67,19.18217316139247,Rara vez
+U06060,USA,North America,23,Male,8.0,0.9,426,45,5.0,Good,6,27,30.62913117191276,Rara vez
+U06069,Germany,Europe,50,Female,8.0,1.8,221,81,8.3,Good,6,38,35.25375397811403,Frecuentemente
+U06070,Australia,Oceania,15,Female,3.9,1.4,323,200,7.5,Poor,3,79,20.682889141430394,Siempre
+U06073,Brazil,South America,49,Other,9.4,0.8,345,109,8.2,Poor,1,31,44.18451543844872,Frecuentemente
+U06078,UK,Europe,37,Other,9.6,3.6,258,193,7.6,Average,6,29,50.57143832700795,Siempre
+U06079,Japan,Asia,45,Female,3.0,1.9,79,128,9.8,Good,8,86,14.579437213085015,Frecuentemente
+U06083,UK,Europe,17,Other,1.4,2.4,363,126,7.5,Average,6,84,6.781861921042028,Frecuentemente
+U06090,Canada,North America,64,Other,6.9,4.4,398,180,6.9,Average,5,41,35.8696295157342,Siempre
+U06093,Canada,North America,48,Other,5.3,2.4,272,134,10.1,Good,4,50,25.997956325723678,Frecuentemente
+U06094,Brazil,South America,34,Other,8.1,3.7,129,171,6.8,Average,8,24,41.69470526218897,Siempre
+U06097,Canada,North America,62,Other,6.5,3.8,223,176,7.8,Average,3,55,33.64497326172989,Siempre
+U06102,China,Asia,29,Female,4.6,2.5,412,149,7.6,Average,5,47,23.048922352842773,Siempre
+U06106,Japan,Asia,15,Female,5.3,2.8,248,52,6.6,Poor,6,52,21.042547141826244,Rara vez
+U06123,Australia,Oceania,17,Other,5.2,0.7,302,171,6.8,Good,3,42,26.766971279429956,Siempre
+U06131,Pakistan,Asia,28,Other,7.2,2.6,416,192,10.2,Average,3,35,37.89136936011518,Siempre
+U06132,Australia,Oceania,40,Other,6.4,1.7,278,193,6.1,Poor,3,57,33.714292218005305,Siempre
+U06133,Brazil,South America,35,Female,9.9,0.9,318,78,8.1,Average,4,29,43.257533739423515,Frecuentemente
+U06139,UK,Europe,38,Female,5.9,3.1,240,72,7.5,Good,6,43,25.31371070277551,Frecuentemente
+U06160,UK,Europe,15,Male,8.8,1.5,400,142,6.1,Average,3,28,43.673032746287184,Siempre
+U06162,India,Asia,29,Male,9.8,2.5,157,85,5.8,Poor,2,31,43.652603503284375,Frecuentemente
+U06167,USA,North America,53,Female,8.3,1.1,324,79,8.4,Average,2,49,36.370821067793216,Frecuentemente
+U06179,USA,North America,31,Female,4.5,3.8,261,43,6.4,Good,4,62,17.028853352632176,Rara vez
+U06195,USA,North America,61,Other,4.4,1.8,242,149,7.5,Average,5,71,22.046795294023525,Siempre
+U06197,Pakistan,Asia,16,Female,6.2,3.7,181,70,8.3,Average,2,45,26.428615237656157,Rara vez
+U06213,Japan,Asia,61,Other,3.7,3.3,70,132,5.1,Good,1,78,18.09429177442049,Frecuentemente
+U06214,Canada,North America,34,Female,9.9,3.9,381,47,6.9,Good,6,22,38.324890007988124,Rara vez
+U06224,Pakistan,Asia,57,Other,8.7,1.5,121,32,8.1,Average,3,58,30.419615784758374,Rara vez
+U06225,Japan,Asia,39,Other,4.9,3.0,68,200,5.7,Good,9,58,25.986194049489473,Siempre
+U06230,Brazil,South America,56,Male,3.3,0.6,438,145,4.3,Average,2,77,16.445901851637508,Siempre
+U06233,Brazil,South America,20,Female,5.7,2.7,306,77,6.8,Poor,3,53,24.833240312130673,Frecuentemente
+U06235,Germany,Europe,22,Female,8.9,1.3,309,128,9.3,Average,3,30,43.252330398818884,Frecuentemente
+U06247,Brazil,South America,18,Other,7.5,0.6,105,143,8.1,Average,6,53,37.273599746820004,Siempre
+U06249,Pakistan,Asia,41,Female,8.0,4.0,197,139,8.0,Poor,7,45,39.53313938087443,Frecuentemente
+U06250,Pakistan,Asia,33,Female,4.2,1.5,82,31,5.8,Average,5,70,14.556090791758852,Rara vez
+U06252,USA,North America,51,Male,4.8,1.0,164,160,5.7,Average,6,63,24.390740951925423,Siempre
+U06253,USA,North America,63,Other,3.3,0.8,184,64,6.6,Poor,3,57,13.7754779906556,Rara vez
+U06261,UK,Europe,16,Male,4.8,1.7,292,31,7.6,Good,6,49,16.635532333438686,Rara vez
+U06275,China,Asia,40,Female,4.7,1.7,491,90,10.8,Average,3,44,21.201039680629194,Frecuentemente
+U06277,India,Asia,35,Female,2.8,2.4,419,192,7.5,Poor,5,81,14.735532528933678,Siempre
+U06278,USA,North America,22,Other,1.9,2.1,403,110,5.0,Good,6,83,8.948107382493435,Frecuentemente
+U06282,Japan,Asia,50,Female,9.0,2.4,325,115,8.3,Poor,7,15,42.78231171995728,Frecuentemente
+U06284,Japan,Asia,26,Male,9.3,2.6,222,144,5.8,Average,6,32,46.28362380451134,Siempre
+U06289,Canada,North America,62,Other,4.2,1.0,340,46,8.2,Good,8,62,16.170619927182248,Rara vez
+U06292,USA,North America,63,Male,7.6,2.4,57,129,7.0,Poor,7,32,36.993261823462426,Frecuentemente
+U06293,Pakistan,Asia,29,Female,6.9,4.1,306,65,5.7,Average,2,52,28.908617719982335,Rara vez
+U06295,China,Asia,34,Female,7.6,4.2,131,62,4.9,Average,5,41,31.487823920575646,Rara vez
+U06304,Japan,Asia,19,Other,7.5,1.8,399,79,8.8,Average,7,40,32.86519976005411,Frecuentemente
+U06305,India,Asia,22,Male,5.1,3.1,153,144,9.0,Poor,3,69,25.381342086344926,Siempre
+U06306,Pakistan,Asia,23,Male,6.9,1.5,81,87,6.6,Poor,2,48,30.89362401989963,Frecuentemente
+U06310,India,Asia,37,Other,3.3,3.3,336,62,4.9,Good,7,83,13.672344597092057,Rara vez
+U06313,India,Asia,20,Female,8.4,1.0,396,185,7.6,Average,6,31,43.8962720591909,Siempre
+U06315,India,Asia,58,Other,3.6,3.5,149,191,8.1,Average,9,71,18.926983339300016,Siempre
+U06318,Germany,Europe,31,Other,7.7,1.0,123,144,7.8,Average,3,49,38.32084981663842,Siempre
+U06323,Japan,Asia,63,Female,6.7,1.9,222,62,4.5,Poor,5,53,27.759002666823267,Rara vez
+U06329,Canada,North America,64,Male,6.5,3.0,287,161,7.9,Poor,7,51,33.06937617901049,Siempre
+U06331,USA,North America,18,Other,6.9,2.3,410,175,8.7,Poor,6,46,35.67633956576324,Siempre
+U06335,China,Asia,46,Other,3.7,4.3,487,49,6.1,Good,3,82,14.474485120084141,Rara vez
+U06337,Australia,Oceania,46,Male,7.9,3.9,286,118,4.9,Poor,2,23,37.75507559558108,Frecuentemente
+U06340,India,Asia,37,Male,5.5,1.6,226,79,8.9,Good,5,43,24.10114649070635,Frecuentemente
+U06341,Pakistan,Asia,25,Other,6.2,1.4,273,179,8.2,Good,2,54,32.196332475519306,Siempre
+U06343,UK,Europe,29,Female,6.4,1.9,156,72,5.6,Average,5,43,27.458940423349702,Frecuentemente
+U06347,Australia,Oceania,42,Female,6.8,4.2,308,110,7.2,Good,9,56,32.02480536892387,Frecuentemente
+U06349,Japan,Asia,44,Other,8.4,1.9,446,155,8.2,Poor,7,39,42.41879046089611,Siempre
+U06358,UK,Europe,21,Male,4.5,1.0,452,46,9.5,Poor,3,41,17.32566420769526,Rara vez
+U06367,Canada,North America,61,Female,11.2,3.7,211,86,5.5,Good,3,17,50.01817092893133,Frecuentemente
+U06374,India,Asia,24,Male,6.1,2.2,80,85,6.5,Poor,5,56,27.171518507146395,Frecuentemente
+U06391,Canada,North America,21,Other,6.2,1.9,438,100,6.6,Poor,6,56,28.613747204415812,Frecuentemente
+U06396,Canada,North America,34,Other,7.7,2.3,152,142,3.3,Good,5,27,38.21390365300128,Siempre
+U06397,Japan,Asia,41,Female,2.6,2.4,206,134,4.9,Average,5,84,12.753714423939918,Frecuentemente
+U06399,India,Asia,43,Male,4.9,3.7,381,144,8.7,Poor,4,63,24.385995337860816,Siempre
+U06411,Pakistan,Asia,45,Male,6.1,0.8,454,81,9.1,Good,1,47,26.880987408311945,Frecuentemente
+U06422,Japan,Asia,21,Male,6.9,3.4,352,83,5.9,Average,4,36,30.572635912018864,Frecuentemente
+U06425,Brazil,South America,38,Other,7.8,1.9,328,141,9.1,Average,5,46,38.65545104928984,Siempre
+U06428,Canada,North America,35,Female,4.8,1.7,363,55,8.2,Average,2,58,19.32168811552872,Rara vez
+U06437,Brazil,South America,18,Other,9.5,4.0,172,76,7.3,Poor,3,31,41.26615150761,Frecuentemente
+U06439,Pakistan,Asia,39,Female,5.3,0.8,476,60,7.7,Poor,2,61,21.78763148011855,Rara vez
+U06440,Canada,North America,49,Female,5.0,2.7,457,133,6.5,Good,1,60,24.489198999754556,Frecuentemente
+U06441,Australia,Oceania,56,Other,4.7,4.3,416,53,6.6,Poor,5,67,18.74822501885209,Rara vez
+U06444,USA,North America,57,Other,6.5,4.1,352,199,7.1,Good,3,60,34.43906288256223,Siempre
+U06445,India,Asia,21,Male,7.7,2.7,77,152,6.1,Average,1,47,38.734371994721755,Siempre
+U06452,China,Asia,34,Male,4.9,2.4,65,80,7.2,Average,8,67,21.532800857894955,Frecuentemente
+U06453,Canada,North America,33,Female,6.9,1.3,109,180,7.7,Good,1,30,35.8696295157342,Siempre
+U06455,Canada,North America,55,Female,4.4,4.3,393,179,11.6,Good,6,59,22.849010143916928,Siempre
+U06469,UK,Europe,34,Male,6.7,4.2,344,122,7.0,Average,8,60,32.241635180995196,Frecuentemente
+U06471,India,Asia,56,Female,4.2,1.1,142,40,6.6,Good,4,70,15.597002680158093,Rara vez
+U06476,USA,North America,31,Other,6.9,3.4,332,77,6.6,Poor,8,55,30.061290904158184,Frecuentemente
+U06478,Germany,Europe,30,Other,6.2,0.7,498,94,5.2,Good,9,40,28.234036727923353,Frecuentemente
+U06481,Japan,Asia,32,Male,2.2,2.3,284,198,7.2,Average,4,85,11.645270614393883,Siempre
+U06485,India,Asia,15,Female,4.9,1.4,94,98,4.5,Poor,2,58,22.516087265659493,Frecuentemente
+U06487,USA,North America,17,Male,2.5,2.1,179,166,9.3,Good,3,73,12.794984531041889,Siempre
+U06488,Japan,Asia,19,Female,7.4,0.5,465,45,7.6,Average,5,50,28.331946334019303,Rara vez
+U06489,UK,Europe,64,Male,2.0,2.9,179,182,4.8,Poor,3,82,10.418972305682843,Siempre
+U06491,USA,North America,48,Male,4.0,3.9,345,146,10.2,Average,3,80,19.961730347114944,Siempre
+U06492,Australia,Oceania,51,Male,8.2,2.6,244,80,7.1,Average,3,43,36.034483068313996,Frecuentemente
+U06497,Germany,Europe,56,Male,6.3,3.9,371,126,7.7,Average,3,66,30.518378644689125,Frecuentemente
+U06507,India,Asia,49,Female,8.3,1.3,109,102,7.4,Average,5,30,38.46825060230598,Frecuentemente
+U06515,USA,North America,49,Other,7.6,4.3,212,68,4.4,Poor,8,61,32.179209434939175,Rara vez
+U06518,China,Asia,46,Male,6.4,3.5,110,168,7.8,Poor,5,34,32.83135177550767,Siempre
+U06522,Canada,North America,62,Female,3.1,1.2,415,108,7.8,Poor,6,84,14.543178434910345,Frecuentemente
+U06524,India,Asia,21,Male,2.8,2.0,328,159,7.7,Poor,5,99,14.210486682654713,Siempre
+U06534,Pakistan,Asia,30,Male,2.7,4.0,353,200,8.7,Good,1,86,14.318923251759506,Siempre
+U06544,India,Asia,48,Other,0.8,4.3,346,171,8.7,Average,1,73,4.117995581450763,Siempre
+U06550,Pakistan,Asia,57,Other,6.4,1.5,224,193,6.8,Poor,5,44,33.714292218005305,Siempre
+U06551,Germany,Europe,36,Male,4.4,1.6,477,186,5.0,Good,7,55,23.016877914160183,Siempre
+U06553,China,Asia,34,Male,9.4,1.2,276,163,9.0,Average,4,21,47.93874442154747,Siempre
+U06554,UK,Europe,56,Other,5.9,4.4,98,163,5.3,Average,3,55,30.089211924162775,Siempre
+U06569,USA,North America,56,Male,3.1,1.6,412,172,6.2,Poor,9,77,15.975203942943116,Siempre
+U06579,Pakistan,Asia,55,Other,4.3,1.5,262,199,8.4,Good,2,71,22.782764676156557,Siempre
+U06582,India,Asia,41,Male,3.8,1.4,498,56,3.8,Average,6,69,15.36359481777129,Rara vez
+U06587,China,Asia,55,Female,5.0,2.8,370,147,9.1,Poor,5,64,24.98606136882057,Siempre
+U06590,Australia,Oceania,30,Female,8.5,2.4,474,151,9.3,Average,4,26,42.70298442719335,Siempre
+U06595,Pakistan,Asia,65,Female,3.4,3.5,492,191,7.1,Good,2,63,17.875484264894457,Siempre
+U06604,Japan,Asia,17,Female,6.8,4.1,140,118,7.0,Poor,3,60,32.4980397531584,Frecuentemente
+U06610,China,Asia,60,Female,7.1,4.2,496,165,8.6,Average,8,44,36.29511329733146,Siempre
+U06614,Pakistan,Asia,25,Male,7.0,1.8,467,194,7.6,Good,3,45,36.91099690994623,Siempre
+U06624,USA,North America,21,Male,6.6,4.2,461,57,6.2,Poor,9,55,26.798923869606366,Rara vez
+U06630,Canada,North America,23,Male,8.9,2.1,244,96,11.2,Average,4,29,40.71492770868011,Frecuentemente
+U06631,Germany,Europe,20,Other,5.1,0.7,303,85,8.1,Poor,3,38,22.717171210892886,Frecuentemente
+U06643,Australia,Oceania,60,Other,2.8,3.6,108,46,7.6,Poor,3,69,10.780413284788162,Rara vez
+U06645,Canada,North America,23,Male,9.0,3.3,60,193,10.3,Average,3,23,47.410723431569956,Siempre
+U06646,Germany,Europe,64,Male,9.0,2.0,294,144,5.4,Good,3,33,44.79060368178517,Siempre
+U06651,Pakistan,Asia,64,Female,9.2,4.3,257,50,5.3,Average,3,24,36.172795821063794,Rara vez
+U06654,UK,Europe,27,Other,8.1,1.5,247,109,6.5,Average,7,24,38.073890962918576,Frecuentemente
+U06660,Japan,Asia,48,Female,7.8,1.7,478,131,5.8,Average,7,40,38.08585499617369,Frecuentemente
+U06661,Brazil,South America,27,Other,9.6,1.3,195,54,8.3,Good,5,32,38.47039857823172,Rara vez
+U06667,UK,Europe,35,Female,2.6,2.1,279,73,7.3,Good,8,76,11.190569242330843,Frecuentemente
+U06671,Canada,North America,44,Female,8.4,2.7,118,165,7.9,Good,6,30,42.940697422194965,Siempre
+U06672,Pakistan,Asia,34,Male,4.1,2.3,162,170,7.8,Poor,6,48,21.080820581660905,Siempre
+U06681,Japan,Asia,45,Female,5.2,4.3,370,182,4.3,Poor,4,52,27.08932799477539,Siempre
+U06691,UK,Europe,22,Female,5.0,1.0,371,172,4.6,Poor,5,66,25.766457972488897,Siempre
+U06696,UK,Europe,31,Female,4.2,2.3,377,195,7.4,Poor,6,63,22.168081568768173,Siempre
+U06708,UK,Europe,51,Female,7.0,0.6,294,93,8.0,Good,3,58,31.803063475890028,Frecuentemente
+U06709,Australia,Oceania,37,Male,9.5,2.1,433,83,6.7,Good,5,32,42.09275958901148,Frecuentemente
+U06713,Japan,Asia,45,Female,4.8,1.8,426,184,7.8,Poor,3,53,25.057707960375957,Siempre
+U06714,China,Asia,24,Female,6.8,2.4,127,92,4.8,Good,5,41,30.821676553442142,Frecuentemente
+U06717,UK,Europe,35,Male,2.8,1.4,479,42,7.8,Good,6,86,10.531360323941975,Rara vez
+U06718,Canada,North America,46,Male,4.1,3.8,497,128,6.9,Average,3,52,19.925230857882852,Frecuentemente
+U06725,Japan,Asia,32,Male,9.2,1.7,359,94,6.6,Poor,6,29,41.895667402724975,Frecuentemente
+U06734,Germany,Europe,43,Other,6.2,3.3,158,111,7.4,Average,4,47,29.254693002029583,Frecuentemente
+U06735,Brazil,South America,23,Male,6.3,2.0,144,174,5.2,Average,5,63,32.53815163571814,Siempre
+U06749,Canada,North America,21,Other,4.4,0.6,256,127,5.6,Average,3,82,21.348933161246315,Frecuentemente
+U06750,China,Asia,50,Male,4.2,1.4,295,188,7.8,Poor,4,77,22.0153374632505,Siempre
+U06759,Canada,North America,32,Other,5.6,0.7,396,85,7.5,Average,1,67,24.94434485901964,Frecuentemente
+U06761,Japan,Asia,44,Male,5.3,1.1,182,56,6.6,Average,2,56,21.428171719523117,Rara vez
+U06763,Canada,North America,16,Female,4.8,4.1,117,128,6.1,Average,4,57,23.327099540936025,Frecuentemente
+U06766,Canada,North America,23,Other,5.5,1.2,166,55,6.0,Average,2,56,22.139434299043323,Rara vez
+U06780,China,Asia,31,Male,7.8,1.8,335,79,8.5,Average,5,41,34.17980775045627,Frecuentemente
+U06782,Brazil,South America,22,Female,4.9,3.6,192,40,5.3,Good,3,71,18.19650312685111,Rara vez
+U06789,Canada,North America,50,Male,1.6,1.3,411,143,5.7,Average,5,74,7.951701279321601,Siempre
+U06796,Japan,Asia,34,Other,9.4,1.3,266,34,7.2,Average,4,20,33.42027177800049,Rara vez
+U06800,Australia,Oceania,51,Male,11.6,3.2,271,132,5.2,Average,3,5,56.72804988737234,Frecuentemente
+U06808,India,Asia,17,Female,7.9,2.8,343,42,8.6,Average,4,31,29.713480913979144,Rara vez
+U06819,Brazil,South America,63,Other,3.0,2.6,169,158,8.6,Good,1,77,15.206712606660695,Siempre
+U06820,Australia,Oceania,59,Male,2.7,1.8,123,188,6.9,Poor,4,91,14.152716940661035,Siempre
+U06834,China,Asia,15,Other,5.0,0.9,228,36,5.9,Poor,7,56,18.05458956322112,Rara vez
+U06843,Brazil,South America,64,Female,6.9,1.1,356,198,6.9,Good,7,44,36.523803290599,Siempre
+U06848,India,Asia,43,Female,6.3,0.6,143,154,7.2,Average,7,60,31.773578236591252,Siempre
+U06849,Canada,North America,45,Male,4.8,0.7,84,135,5.0,Good,2,74,23.58074345153305,Frecuentemente
+U06859,Australia,Oceania,63,Female,4.8,3.1,116,82,5.5,Poor,7,48,21.210434917423672,Frecuentemente
+U06868,China,Asia,53,Female,5.1,2.8,325,190,8.2,Good,4,62,26.78659448303781,Siempre
+U06873,Australia,Oceania,17,Other,6.8,2.2,217,75,5.9,Average,4,28,29.44898671394705,Frecuentemente
+U06874,Canada,North America,44,Male,8.1,0.5,166,95,5.0,Poor,6,29,36.97122035088947,Frecuentemente
+U06876,Germany,Europe,21,Male,5.4,3.8,307,90,7.0,Average,4,70,24.358641335190992,Frecuentemente
+U06880,India,Asia,42,Female,9.4,0.8,78,111,4.6,Good,7,24,44.35388939017389,Frecuentemente
+U06894,Pakistan,Asia,62,Female,6.2,2.5,247,118,4.9,Poor,4,58,29.630565657291484,Frecuentemente
+U06895,Brazil,South America,50,Male,7.3,3.5,268,176,5.5,Good,5,27,37.78589304778895,Siempre
+U06896,Canada,North America,38,Female,5.5,0.6,337,31,8.9,Poor,3,37,19.061547465398498,Rara vez
+U06904,China,Asia,33,Other,5.7,2.3,188,142,9.3,Good,2,51,28.28821439248147,Siempre
+U06905,USA,North America,34,Male,10.1,1.5,462,156,7.6,Average,3,35,51.068082634017905,Siempre
+U06908,Japan,Asia,36,Other,7.3,1.4,417,181,6.5,Poor,4,48,37.9892488156606,Siempre
+U06916,UK,Europe,34,Other,2.9,3.9,90,149,8.4,Poor,2,91,14.53084235287914,Siempre
+U06924,Germany,Europe,25,Female,9.7,3.4,479,173,6.1,Average,6,13,50.04283640238093,Siempre
+U06938,Japan,Asia,61,Other,7.7,2.8,145,133,7.4,Poor,5,54,37.713366459622016,Frecuentemente
+U06941,Germany,Europe,53,Male,5.7,0.7,359,66,7.4,Good,5,56,23.966747930528506,Rara vez
+U06956,UK,Europe,15,Female,4.0,2.9,418,85,6.8,Good,7,66,17.81738918501403,Frecuentemente
+U06957,Canada,North America,58,Other,6.4,3.0,289,191,8.0,Average,7,48,33.6479703809778,Siempre
+U06958,Japan,Asia,45,Male,5.4,2.4,86,89,6.5,Poor,4,43,24.298972219783433,Frecuentemente
+U06960,India,Asia,18,Male,6.2,0.8,480,122,7.5,Good,7,68,29.835543003308988,Frecuentemente
+U06974,Germany,Europe,40,Female,6.5,4.5,353,61,6.7,Poor,3,43,26.826373502793096,Rara vez
+U06982,India,Asia,48,Other,3.1,3.5,273,191,3.1,Good,5,71,16.298235653286124,Siempre
+U06984,Japan,Asia,17,Female,6.2,4.2,167,192,5.9,Good,3,49,32.628679171210294,Siempre
+U06991,Australia,Oceania,52,Female,6.5,3.9,308,51,6.6,Good,6,44,25.683084170779278,Rara vez
+U06992,Japan,Asia,55,Male,3.9,2.9,72,118,5.6,Average,3,60,18.638581623134964,Frecuentemente
+U06994,China,Asia,52,Male,6.1,2.7,265,161,6.6,Poor,1,52,31.03433764491754,Siempre
+U07004,UK,Europe,16,Other,3.4,2.1,171,146,8.0,Poor,3,74,16.967470795047703,Siempre
+U07005,UK,Europe,52,Male,6.9,1.6,105,106,6.3,Good,6,39,32.242518957787155,Frecuentemente
+U07023,Japan,Asia,25,Female,3.3,0.7,189,124,10.5,Average,2,74,15.933435333097593,Frecuentemente
+U07025,UK,Europe,31,Male,4.3,0.9,422,90,6.6,Good,6,69,19.396695878022452,Frecuentemente
+U07027,China,Asia,60,Other,0.8,0.5,281,131,5.7,Good,3,100,3.9062415380690965,Frecuentemente
+U07029,Germany,Europe,54,Female,5.2,2.7,98,63,5.6,Poor,3,47,21.626192033470293,Rara vez
+U07030,Australia,Oceania,64,Male,6.6,1.8,180,185,5.1,Poor,4,38,34.48992804650713,Siempre
+U07033,Germany,Europe,44,Male,4.9,1.2,430,47,7.2,Good,3,58,18.96888495344867,Rara vez
+U07037,India,Asia,50,Male,9.9,2.3,108,66,7.3,Poor,5,0,41.62645693197056,Rara vez
+U07038,Australia,Oceania,44,Other,8.1,1.6,68,174,5.9,Good,4,26,41.834766388780466,Siempre
+U07042,China,Asia,64,Other,2.3,1.5,86,74,7.5,Average,7,79,9.930222661133513,Frecuentemente
+U07043,Australia,Oceania,64,Female,7.0,4.1,457,50,7.6,Good,5,39,27.52277942907028,Rara vez
+U07044,China,Asia,27,Male,7.1,3.7,157,141,6.2,Average,5,41,35.18637210896895,Siempre
+U07049,Australia,Oceania,18,Female,7.2,3.6,479,130,5.5,Poor,7,41,35.10142072704829,Frecuentemente
+U07058,Pakistan,Asia,17,Male,5.6,1.3,499,50,9.2,Average,5,33,22.018223543256223,Rara vez
+U07061,India,Asia,42,Male,7.0,4.3,433,177,9.4,Poor,7,17,36.2724848520446,Siempre
+U07063,Canada,North America,43,Male,4.3,2.8,220,123,7.3,Average,3,74,20.727210732101657,Frecuentemente
+U07071,Australia,Oceania,21,Female,6.9,0.9,341,64,7.6,Average,6,40,28.803272162279896,Rara vez
+U07075,Germany,Europe,43,Other,2.8,1.5,330,81,5.2,Average,3,94,12.338813892339909,Frecuentemente
+U07077,USA,North America,47,Male,6.4,4.0,323,132,5.7,Average,5,50,31.298234420619224,Frecuentemente
+U07078,UK,Europe,53,Male,5.3,1.1,194,181,8.1,Poor,4,59,27.581235441507012,Siempre
+U07081,UK,Europe,24,Male,7.3,4.4,446,64,6.2,Average,1,50,30.47302707023815,Rara vez
+U07084,Pakistan,Asia,55,Male,5.8,2.4,358,36,7.1,Average,3,44,20.9433238933365,Rara vez
+U07090,UK,Europe,45,Female,4.9,4.2,165,169,7.7,Poor,6,54,25.165412341546286,Siempre
+U07094,Canada,North America,61,Male,5.5,3.0,476,82,8.6,Poor,4,68,24.30362334288129,Frecuentemente
+U07100,China,Asia,40,Male,4.7,3.7,356,112,6.4,Good,6,71,22.218722747948004,Frecuentemente
+U07103,UK,Europe,25,Female,7.3,1.8,364,156,7.5,Poor,3,27,36.91059437904264,Siempre
+U07104,Pakistan,Asia,52,Other,4.8,1.3,460,108,6.8,Average,5,65,22.51846983469989,Frecuentemente
+U07114,Australia,Oceania,37,Other,4.0,3.9,344,64,6.5,Average,6,72,16.697549079582547,Rara vez
+U07123,Germany,Europe,37,Other,6.4,4.1,412,71,9.2,Average,4,51,27.370663161702755,Frecuentemente
+U07124,Pakistan,Asia,22,Female,7.4,3.3,357,42,9.9,Good,5,38,27.832880856132363,Rara vez
+U07127,India,Asia,30,Other,3.6,3.9,197,167,7.5,Poor,4,77,18.44627032585173,Siempre
+U07133,Canada,North America,22,Other,5.4,0.6,308,37,6.5,Good,4,76,19.642965262522484,Rara vez
+U07136,Australia,Oceania,57,Other,4.5,2.7,214,81,9.1,Good,7,67,19.83023661268914,Frecuentemente
+U07141,Japan,Asia,49,Other,7.2,1.2,355,173,5.8,Good,4,44,37.14519815434461,Siempre
+U07148,Germany,Europe,55,Female,5.3,2.4,261,196,6.6,Average,5,55,28.00097976231134,Siempre
+U07149,Brazil,South America,41,Female,10.0,3.4,369,143,6.8,Average,5,16,49.698132995760005,Siempre
+U07150,Brazil,South America,33,Female,9.8,4.1,435,54,5.7,Average,5,8,39.27186521527822,Rara vez
+U07160,Japan,Asia,33,Other,6.1,4.2,425,154,5.6,Poor,4,55,30.764893213207404,Siempre
+U07162,USA,North America,47,Male,1.8,1.9,209,40,5.5,Average,8,89,6.6844297200677545,Rara vez
+U07166,USA,North America,15,Male,4.2,4.4,233,133,6.3,Poor,2,66,20.57092715979383,Frecuentemente
+U07185,Canada,North America,48,Male,3.9,3.4,323,107,4.3,Good,3,79,18.260311785784456,Frecuentemente
+U07187,Germany,Europe,40,Other,4.2,0.5,201,141,6.5,Good,4,66,20.814473641925296,Siempre
+U07188,Pakistan,Asia,26,Other,5.2,1.2,86,31,5.6,Poor,5,49,18.02182669455858,Rara vez
+U07191,Canada,North America,26,Other,4.2,1.5,277,57,8.9,Good,7,72,17.05386064429496,Rara vez
+U07196,Germany,Europe,27,Other,5.9,1.1,131,51,7.9,Good,3,56,23.312337939630424,Rara vez
+U07197,UK,Europe,35,Female,7.4,0.6,121,54,5.6,Poor,4,26,29.654265570720288,Rara vez
+U07206,UK,Europe,55,Male,6.9,2.7,484,154,7.2,Poor,2,41,34.799633306742805,Siempre
+U07218,India,Asia,53,Other,5.3,3.5,338,159,8.6,Good,3,64,26.89842122073928,Siempre
+U07223,India,Asia,29,Female,5.9,3.3,441,176,6.3,Average,5,32,30.53928342218559,Siempre
+U07224,Australia,Oceania,51,Female,4.6,1.9,158,163,7.1,Good,8,72,23.459385567991312,Siempre
+U07226,Japan,Asia,41,Other,5.4,2.8,243,106,5.7,Poor,5,73,25.233275706094293,Frecuentemente
+U07232,Pakistan,Asia,62,Male,9.3,2.3,363,89,7.8,Good,1,16,41.84822993407147,Frecuentemente
+U07236,China,Asia,48,Other,9.3,1.4,241,199,6.4,Poor,3,40,49.27435150889674,Siempre
+U07242,Australia,Oceania,42,Male,9.1,1.8,167,121,8.1,Poor,5,21,43.716591507072636,Frecuentemente
+U07246,Brazil,South America,47,Other,6.6,3.4,426,144,5.0,Average,1,45,32.84644269997579,Siempre
+U07249,China,Asia,18,Other,5.7,4.1,468,39,6.8,Good,4,74,21.02661288844944,Rara vez
+U07258,USA,North America,50,Other,9.0,1.1,305,105,6.0,Poor,2,31,41.9709518470086,Frecuentemente
+U07265,Japan,Asia,42,Male,2.3,2.5,237,73,5.9,Average,7,74,9.89934971436959,Frecuentemente
+U07267,Pakistan,Asia,54,Other,5.7,0.6,204,109,8.6,Poor,6,42,26.792738085016776,Frecuentemente
+U07271,USA,North America,50,Other,4.7,4.4,78,183,6.4,Poor,4,58,24.510198060762235,Siempre
+U07273,Brazil,South America,40,Male,6.3,2.6,286,66,7.7,Good,4,59,26.489563502163083,Rara vez
+U07290,Canada,North America,63,Other,7.9,2.9,446,180,8.2,Poor,8,33,41.06812654700003,Siempre
+U07291,Brazil,South America,22,Other,8.6,2.9,248,56,6.6,Average,5,28,34.77024090337713,Rara vez
+U07294,Japan,Asia,45,Male,3.9,2.4,133,71,6.7,Poor,2,63,16.678997864162614,Frecuentemente
+U07309,Pakistan,Asia,23,Female,4.2,1.7,325,56,5.0,Poor,2,77,16.980815324905112,Rara vez
+U07312,Japan,Asia,24,Male,9.3,1.2,477,144,9.4,Poor,5,17,46.28362380451134,Siempre
+U07317,Pakistan,Asia,37,Female,3.8,1.8,130,61,8.2,Average,6,64,15.683110663171348,Rara vez
+U07318,Germany,Europe,42,Other,5.9,3.8,183,111,3.4,Poor,6,42,27.83914334064106,Frecuentemente
+U07319,China,Asia,53,Female,4.0,0.6,477,46,8.4,Average,1,47,15.400590406840234,Rara vez
+U07321,Brazil,South America,19,Other,7.1,0.6,244,112,8.2,Good,6,35,33.56445351285762,Frecuentemente
+U07325,UK,Europe,45,Female,4.1,2.3,493,116,7.0,Poor,3,68,19.5249131326708,Frecuentemente
+U07328,Japan,Asia,27,Female,4.3,2.2,228,173,7.8,Poor,2,68,22.183937786622476,Siempre
+U07329,Germany,Europe,59,Male,3.5,4.4,396,197,7.1,Good,5,71,18.508934607430874,Siempre
+U07336,USA,North America,41,Female,5.2,2.8,54,59,7.7,Average,3,53,21.290591723554922,Rara vez
+U07337,Canada,North America,17,Male,5.8,4.2,262,193,5.6,Poor,9,69,30.553577322567303,Siempre
+U07339,Canada,North America,59,Female,6.9,1.3,398,177,6.1,Poor,5,58,35.75430649701539,Siempre
+U07342,Australia,Oceania,54,Other,2.7,1.1,139,167,4.6,Good,4,80,13.8347027443888,Siempre
+U07343,Germany,Europe,62,Other,6.0,2.7,86,65,5.9,Poor,6,50,25.13792845215855,Rara vez
+U07346,Japan,Asia,29,Male,6.9,3.2,289,181,7.9,Average,7,57,35.90764614082989,Siempre
+U07350,China,Asia,56,Other,3.4,2.9,320,37,4.3,Poor,4,78,12.36779294306971,Rara vez
+U07352,Brazil,South America,52,Other,7.1,3.6,403,197,9.7,Average,6,39,37.546695917931196,Siempre
+U07355,UK,Europe,63,Male,9.1,1.8,402,167,6.5,Good,4,31,46.628072212569656,Siempre
+U07357,Brazil,South America,24,Male,5.9,1.8,166,157,9.0,Good,4,52,29.869310694859106,Siempre
+U07359,Germany,Europe,53,Male,8.7,2.0,184,90,6.7,Average,3,40,39.24447770669659,Frecuentemente
+U07360,Germany,Europe,45,Male,1.3,2.3,80,122,8.0,Good,6,74,6.255839661984142,Frecuentemente
+U07364,Australia,Oceania,26,Other,5.3,2.9,465,44,5.7,Average,4,52,20.175311195782694,Rara vez
+U07368,USA,North America,34,Other,2.1,1.6,215,137,4.6,Good,5,92,10.347232738830131,Frecuentemente
+U07370,UK,Europe,65,Female,4.5,2.1,460,151,9.7,Poor,6,59,22.607462343808244,Siempre
+U07371,Australia,Oceania,32,Male,6.0,1.1,235,84,8.4,Good,6,45,26.6559075389419,Frecuentemente
+U07372,India,Asia,50,Male,3.0,2.2,192,48,7.6,Good,6,68,11.675460894331879,Rara vez
+U07374,USA,North America,26,Male,5.9,1.1,88,122,4.8,Good,3,52,28.391887696697264,Frecuentemente
+U07381,UK,Europe,20,Male,9.0,2.8,321,101,6.8,Average,5,27,41.62475531955844,Frecuentemente
+U07383,China,Asia,39,Male,6.7,1.6,276,168,4.4,Good,5,44,34.370321389984596,Siempre
+U07385,Canada,North America,43,Other,9.8,3.2,405,66,7.1,Poor,6,39,41.20598767003147,Rara vez
+U07388,China,Asia,54,Male,1.6,3.7,76,132,6.1,Average,6,88,7.824558605154806,Frecuentemente
+U07398,Pakistan,Asia,51,Other,6.9,1.3,199,130,7.6,Good,2,43,33.638861530087944,Frecuentemente
+U07403,Brazil,South America,57,Male,7.6,0.8,386,145,4.3,Average,2,34,37.875410324983356,Siempre
+U07411,Australia,Oceania,33,Other,7.3,3.9,399,92,8.3,Good,5,57,33.08797630001877,Frecuentemente
+U07413,USA,North America,26,Male,9.1,2.4,73,73,10.7,Poor,5,30,39.16699234815795,Frecuentemente
+U07417,USA,North America,42,Other,7.4,3.1,366,60,4.3,Poor,5,48,30.420466594882505,Rara vez
+U07418,UK,Europe,38,Female,10.1,4.0,424,155,8.8,Poor,3,6,51.00354567322032,Siempre
+U07435,Brazil,South America,47,Other,3.6,1.5,130,160,6.7,Good,8,59,18.293055713944067,Siempre
+U07436,Brazil,South America,63,Other,3.4,1.7,63,66,6.8,Poor,5,63,14.295954905929284,Rara vez
+U07438,Australia,Oceania,65,Male,6.5,4.1,383,133,6.2,Average,4,28,31.835958699680923,Frecuentemente
+U07444,Canada,North America,15,Female,5.9,1.2,82,109,8.4,Poor,2,53,27.732834158175258,Frecuentemente
+U07450,Germany,Europe,55,Other,7.1,3.0,334,116,6.5,Average,7,30,33.81143493706407,Frecuentemente
+U07456,Brazil,South America,45,Female,4.9,1.6,492,37,8.7,Average,5,59,17.82417218265929,Rara vez
+U07462,Japan,Asia,40,Male,6.8,0.5,443,152,7.6,Poor,1,54,34.20697786546856,Siempre
+U07463,Germany,Europe,28,Female,6.6,4.2,77,150,9.0,Good,6,51,33.114046922978496,Siempre
+U07468,Brazil,South America,15,Female,5.8,1.1,81,122,2.8,Average,6,64,27.910669261160017,Frecuentemente
+U07471,UK,Europe,17,Male,0.9,0.8,212,48,8.4,Good,3,87,3.502638268299564,Rara vez
+U07477,India,Asia,46,Other,6.7,0.8,490,49,6.8,Poor,4,47,26.21055413636858,Rara vez
+U07480,Japan,Asia,40,Male,6.9,1.2,482,83,6.6,Good,5,49,30.572635912018864,Frecuentemente
+U07488,Germany,Europe,60,Female,8.9,2.2,82,160,8.4,Good,5,33,45.224498848361726,Siempre
+U07490,Germany,Europe,26,Other,5.7,1.9,51,172,8.0,Good,6,62,29.373762088637342,Siempre
+U07492,Australia,Oceania,42,Female,7.7,1.6,282,41,11.5,Good,4,27,28.780056060781938,Rara vez
+U07496,UK,Europe,64,Male,3.9,1.6,438,87,7.2,Good,2,64,17.461613576465005,Frecuentemente
+U07504,USA,North America,17,Female,4.3,0.7,300,173,6.0,Average,5,52,22.183937786622476,Siempre
+U07514,Australia,Oceania,40,Female,6.8,1.5,78,162,6.9,Good,3,38,34.63750136548598,Siempre
+U07522,Japan,Asia,58,Other,2.1,3.8,480,150,8.7,Poor,2,78,10.536287657311341,Siempre
+U07526,India,Asia,60,Other,8.0,1.6,334,169,5.2,Good,2,41,41.0863874964021,Siempre
+U07528,Australia,Oceania,30,Other,6.5,3.3,255,107,8.7,Good,8,41,30.433852976307428,Frecuentemente
+U07536,China,Asia,24,Other,4.2,2.3,489,118,7.8,Good,5,52,20.072318671068427,Frecuentemente
+U07540,Australia,Oceania,59,Male,2.7,1.8,111,48,6.6,Poor,8,68,10.507914804898693,Rara vez
+U07549,Brazil,South America,32,Female,8.7,2.5,56,78,7.3,Good,4,40,38.014196316463085,Frecuentemente
+U07550,UK,Europe,47,Male,5.0,2.4,494,141,5.5,Average,4,57,24.779135288006305,Siempre
+U07555,USA,North America,43,Female,5.3,2.0,79,85,7.2,Poor,7,52,23.608040670143588,Frecuentemente
+U07561,Canada,North America,58,Male,6.4,2.2,146,64,8.8,Average,9,57,26.716078527332076,Rara vez
+U07563,Canada,North America,56,Male,6.5,1.4,150,60,8.0,Average,3,44,26.720680117126523,Rara vez
+U07576,UK,Europe,53,Other,5.2,0.7,448,83,6.5,Average,5,57,23.04024735398523,Frecuentemente
+U07580,Pakistan,Asia,54,Other,6.3,2.0,82,30,9.0,Average,4,39,21.634119388256423,Rara vez
+U07583,Australia,Oceania,57,Female,4.2,2.1,279,128,2.5,Average,7,87,20.411212098319023,Frecuentemente
+U07584,China,Asia,54,Other,5.7,0.6,107,162,6.6,Poor,5,45,29.034376144598546,Siempre
+U07585,Australia,Oceania,46,Female,10.8,2.4,254,34,5.0,Poor,3,13,38.39775906408567,Rara vez
+U07587,UK,Europe,55,Other,5.6,2.8,89,180,7.7,Average,2,62,29.111583375088625,Siempre
+U07590,USA,North America,52,Female,3.5,3.4,78,190,6.6,Average,6,63,18.382956998163205,Siempre
+U07606,Germany,Europe,27,Other,3.7,1.8,183,155,6.5,Poor,5,71,18.684467226823287,Siempre
+U07609,Germany,Europe,25,Male,8.1,4.2,146,115,8.1,Average,3,35,38.50408054796155,Frecuentemente
+U07619,Brazil,South America,55,Male,2.5,3.3,180,47,8.4,Poor,5,78,9.678002527269728,Rara vez
+U07623,UK,Europe,64,Male,4.3,2.8,172,45,7.8,Average,4,73,16.463158004903107,Rara vez
+U07625,Germany,Europe,39,Male,7.0,1.7,94,169,7.5,Good,6,48,35.950589059351834,Siempre
+U07626,Germany,Europe,37,Female,0.8,1.6,336,119,5.2,Good,8,100,3.829993394225637,Frecuentemente
+U07631,Brazil,South America,54,Female,5.1,3.1,346,146,6.8,Average,4,42,25.45120619257155,Siempre
+U07647,India,Asia,30,Female,4.9,2.9,372,175,7.3,Average,2,67,25.335371575686942,Siempre
+U07650,USA,North America,64,Female,4.6,1.6,336,101,8.1,Poor,3,63,21.274874941107644,Frecuentemente
+U07668,UK,Europe,35,Female,6.9,3.5,420,109,8.3,Good,7,48,32.433314523967674,Frecuentemente
+U07669,Australia,Oceania,42,Other,0.9,2.6,495,94,5.8,Poor,4,97,4.098489202440486,Frecuentemente
+U07680,Brazil,South America,39,Male,4.1,1.3,277,56,7.5,Average,3,57,16.576510198121653,Rara vez
+U07683,Canada,North America,50,Female,5.9,3.0,391,48,6.4,Poor,5,42,22.961739758852698,Rara vez
+U07692,Germany,Europe,45,Other,3.5,2.4,434,101,6.1,Average,5,60,16.187404846494946,Frecuentemente
+U07698,Germany,Europe,61,Female,6.3,1.8,108,118,5.9,Average,3,76,30.108478006602635,Frecuentemente
+U07699,Canada,North America,15,Other,8.0,2.9,375,129,8.2,Average,7,34,38.94027560364466,Frecuentemente
+U07701,India,Asia,41,Female,8.8,2.8,341,48,4.3,Poor,4,20,34.24801862337352,Rara vez
+U07703,USA,North America,59,Female,7.0,3.5,461,44,5.7,Good,7,40,26.64663742839224,Rara vez
+U07704,Germany,Europe,38,Other,5.6,2.6,179,66,4.2,Poor,5,76,23.546278668589405,Rara vez
+U07731,Pakistan,Asia,54,Other,5.8,1.3,452,142,7.5,Poor,6,53,28.784498855507458,Siempre
+U07734,UK,Europe,23,Female,6.3,0.6,158,149,7.1,Average,6,36,31.56700235280641,Siempre
+U07736,Germany,Europe,51,Female,2.8,2.0,493,156,3.6,Good,1,75,14.157488254975261,Siempre
+U07738,India,Asia,62,Other,2.6,3.2,203,50,5.8,Good,6,66,10.222746645083248,Rara vez
+U07745,Japan,Asia,20,Female,12.2,1.5,423,145,8.0,Poor,5,0,60.8000007848417,Siempre
+U07748,Canada,North America,43,Male,8.2,1.2,318,135,7.8,Poor,7,31,40.283770063035625,Frecuentemente
+U07758,Pakistan,Asia,35,Other,6.3,3.5,139,67,7.3,Good,4,40,26.582898542609474,Rara vez
+U07761,Pakistan,Asia,61,Other,5.1,2.7,309,145,6.2,Good,7,68,25.416393770712514,Siempre
+U07766,Australia,Oceania,65,Other,4.9,3.7,359,57,4.4,Poor,5,39,19.896170751677456,Rara vez
+U07773,UK,Europe,27,Female,4.8,1.3,240,88,10.6,Good,5,59,21.54545457471427,Frecuentemente
+U07779,Pakistan,Asia,49,Male,5.1,4.3,371,128,6.4,Poor,4,59,24.785043262244525,Frecuentemente
+U07781,China,Asia,32,Male,6.2,3.2,448,200,5.6,Poor,2,46,32.88049042996627,Siempre
+U07796,Pakistan,Asia,39,Other,4.1,1.5,233,60,9.0,Poor,4,53,16.854582843110574,Rara vez
+U07801,Brazil,South America,31,Male,6.2,3.0,375,162,4.8,Average,4,54,31.581251245001926,Siempre
+U07808,USA,North America,62,Other,3.5,2.7,107,123,9.1,Average,4,79,16.87098547961763,Frecuentemente
+U07810,China,Asia,15,Female,7.4,2.1,430,125,8.4,Poor,3,53,35.78848611144094,Frecuentemente
+U07812,Japan,Asia,32,Male,5.8,3.9,316,192,6.8,Average,7,49,30.523603095648337,Siempre
+U07814,Australia,Oceania,58,Male,5.5,2.0,270,184,5.7,Average,6,76,28.711957037930784,Siempre
+U07826,China,Asia,25,Other,5.1,2.5,289,139,6.5,Average,6,69,25.202376355307447,Frecuentemente
+U07829,India,Asia,27,Female,4.7,1.5,225,158,6.6,Good,5,71,23.823849750435087,Siempre
+U07832,Germany,Europe,52,Other,7.7,0.5,195,163,6.7,Good,5,44,39.26897149424633,Siempre
+U07835,Canada,North America,61,Female,7.1,4.3,276,139,7.9,Good,6,40,35.085661200526054,Frecuentemente
+U07837,Pakistan,Asia,28,Male,4.2,2.0,272,93,6.6,Average,4,82,19.081838085534017,Frecuentemente
+U07842,UK,Europe,41,Male,4.8,3.3,384,147,5.0,Poor,6,48,23.98661891406775,Siempre
+U07854,Germany,Europe,20,Other,5.9,2.2,276,174,6.1,Good,4,45,30.472237246148737,Siempre
+U07857,Germany,Europe,19,Other,8.5,1.0,322,97,7.7,Average,3,22,38.97222356869987,Frecuentemente
+U07862,Germany,Europe,47,Female,5.1,2.8,474,133,6.5,Poor,6,57,24.978982979749645,Frecuentemente
+U07879,USA,North America,54,Male,8.0,1.2,448,163,7.0,Average,6,53,40.79893142259359,Siempre
+U07889,USA,North America,23,Female,5.6,0.8,311,188,8.6,Average,5,43,29.353783284333996,Siempre
+U07890,Pakistan,Asia,38,Male,5.1,1.7,340,76,6.4,Good,2,62,22.153407651453787,Frecuentemente
+U07893,China,Asia,65,Male,4.1,4.4,262,49,6.2,Poor,4,66,16.039294322255397,Rara vez
+U07896,India,Asia,62,Female,4.3,2.0,315,59,4.3,Average,6,51,17.60568161755503,Rara vez
+U07897,UK,Europe,56,Other,4.4,1.5,80,139,7.2,Poor,3,69,21.74322665948094,Frecuentemente
+U07904,USA,North America,59,Female,2.6,1.8,204,42,6.7,Average,3,92,9.779120300803262,Rara vez
+U07911,India,Asia,42,Female,1.5,1.6,269,59,9.0,Poor,1,98,6.14151684333315,Rara vez
+U07914,India,Asia,57,Male,4.6,0.9,89,113,8.4,Average,1,71,21.78651286261468,Frecuentemente
+U07920,Japan,Asia,63,Male,2.6,3.3,304,125,6.4,Poor,3,87,12.574332958073843,Frecuentemente
+U07929,Australia,Oceania,30,Other,4.3,2.8,54,124,7.6,Average,8,78,20.761749070399894,Frecuentemente
+U07933,UK,Europe,45,Female,5.7,3.2,268,170,7.1,Good,2,54,29.307482272065165,Siempre
+U07935,China,Asia,42,Other,6.5,3.1,311,66,6.5,Poor,3,45,27.330502026041277,Rara vez
+U07937,Brazil,South America,26,Other,6.4,3.0,270,185,6.8,Poor,4,45,33.44477871176449,Siempre
+U07959,India,Asia,20,Other,8.3,1.6,200,147,5.6,Average,10,24,41.476861872242154,Siempre
+U07966,India,Asia,65,Female,5.9,2.2,414,138,9.0,Average,3,41,29.11339620547108,Frecuentemente
+U07967,Brazil,South America,62,Male,9.7,2.1,192,169,8.2,Average,3,11,49.81724483938754,Siempre
+U07969,USA,North America,56,Male,4.6,1.4,312,132,4.8,Average,7,73,22.495605989820067,Frecuentemente
+U07970,Canada,North America,32,Female,5.7,2.9,84,149,6.8,Poor,4,52,28.560621176348658,Siempre
+U07981,USA,North America,42,Other,4.3,1.2,243,71,3.5,Good,5,66,18.38966431176904,Frecuentemente
+U07995,Japan,Asia,16,Male,3.9,4.2,273,41,7.5,Poor,3,66,14.576911511305136,Rara vez
+U07997,Pakistan,Asia,50,Other,7.6,3.3,385,184,6.5,Average,7,34,39.674704270595264,Siempre
+U08001,Japan,Asia,15,Female,1.7,2.0,263,96,7.0,Good,8,79,7.77700866345575,Frecuentemente
+U08011,Canada,North America,25,Male,8.3,2.2,478,168,7.4,Average,1,47,42.578159333861514,Siempre
+U08024,Pakistan,Asia,50,Female,4.1,2.9,167,107,5.6,Good,5,68,19.1967380312093,Frecuentemente
+U08033,USA,North America,60,Male,5.1,3.3,275,180,6.5,Average,7,55,26.512334859455713,Siempre
+U08036,UK,Europe,58,Other,7.7,4.2,403,57,9.7,Good,5,42,31.265411181207426,Rara vez
+U08037,UK,Europe,62,Male,6.4,2.5,465,122,7.9,Poor,3,57,30.797979874383472,Frecuentemente
+U08041,Japan,Asia,41,Other,3.0,2.0,155,56,5.0,Poor,4,72,12.129153803503652,Rara vez
+U08042,Pakistan,Asia,18,Other,7.6,1.9,421,70,7.1,Average,8,43,32.396367065514,Rara vez
+U08043,Australia,Oceania,18,Other,7.9,1.4,320,42,7.1,Good,2,31,29.713480913979144,Rara vez
+U08045,China,Asia,20,Female,5.1,3.0,168,153,7.6,Average,6,52,25.688458272309507,Siempre
+U08052,UK,Europe,63,Female,6.3,1.2,269,54,4.8,Good,8,31,25.246199066964568,Rara vez
+U08053,Brazil,South America,28,Female,6.9,3.9,383,53,6.4,Good,3,47,27.523989921293495,Rara vez
+U08057,Japan,Asia,44,Other,4.3,2.2,456,45,8.2,Poor,1,61,16.463158004903107,Rara vez
+U08061,Germany,Europe,63,Female,6.4,1.7,110,93,5.8,Average,3,28,29.077086606528027,Frecuentemente
+U08062,China,Asia,60,Male,8.8,3.7,438,118,5.6,Average,2,31,42.05628673938146,Frecuentemente
+U08076,USA,North America,42,Female,8.9,3.0,302,161,7.2,Average,4,7,45.27960738356822,Siempre
+U08082,Australia,Oceania,47,Female,7.2,3.7,431,45,8.1,Good,3,36,27.566218054721485,Rara vez
+U08090,USA,North America,34,Female,5.8,1.7,400,110,6.0,Average,8,54,27.315275167611535,Frecuentemente
+U08092,Brazil,South America,59,Male,6.0,3.1,53,179,7.7,Average,4,57,31.157741105341263,Siempre
+U08100,India,Asia,28,Male,6.1,3.7,315,133,4.3,Poor,1,45,29.876822779700557,Frecuentemente
+U08103,China,Asia,51,Other,5.7,3.2,426,33,6.6,Average,4,50,20.10025499031212,Rara vez
+U08104,USA,North America,39,Male,9.1,0.7,368,88,6.5,Good,6,32,40.846590964562466,Frecuentemente
+U08106,Pakistan,Asia,39,Other,4.4,1.6,242,47,7.7,Good,3,48,17.033284447994724,Rara vez
+U08107,Japan,Asia,49,Other,6.6,1.8,118,150,5.7,Good,1,46,33.114046922978496,Siempre
+U08127,Pakistan,Asia,20,Other,4.9,2.7,212,97,5.5,Average,5,69,22.466340645485808,Frecuentemente
+U08132,USA,North America,21,Other,2.4,3.4,457,74,6.7,Good,6,69,10.361971472487143,Frecuentemente
+U08136,India,Asia,49,Other,8.3,1.6,94,128,8.8,Poor,2,37,40.33644295620188,Frecuentemente
+U08137,Brazil,South America,47,Female,6.4,3.0,437,129,3.0,Average,5,51,31.152220482915727,Frecuentemente
+U08140,China,Asia,57,Female,4.3,2.1,155,194,6.2,Good,6,71,22.67389810182411,Siempre
+U08141,Brazil,South America,48,Other,3.9,4.0,344,146,6.3,Poor,6,62,19.46268708843707,Siempre
+U08153,Pakistan,Asia,15,Female,5.7,0.6,63,72,5.6,Good,6,39,24.45561881454583,Frecuentemente
+U08158,UK,Europe,42,Other,5.9,4.2,432,44,7.7,Poor,5,64,22.45930868964489,Rara vez
+U08164,Pakistan,Asia,62,Other,6.0,0.7,335,101,5.3,Average,3,66,27.749836879705626,Frecuentemente
+U08168,USA,North America,45,Female,6.5,0.9,480,131,4.8,Poor,4,53,31.738212496811407,Frecuentemente
+U08179,USA,North America,24,Male,4.4,2.1,394,80,8.5,Good,5,63,19.335576280558733,Frecuentemente
+U08180,Pakistan,Asia,48,Male,4.6,1.2,272,116,5.0,Good,2,56,21.906000100069676,Frecuentemente
+U08182,China,Asia,58,Female,4.1,0.8,495,149,9.9,Poor,2,75,20.543604705794646,Siempre
+U08185,Australia,Oceania,24,Other,3.7,3.2,101,199,7.2,Good,6,76,19.603774256227734,Siempre
+U08189,USA,North America,62,Female,3.8,4.3,207,190,6.2,Poor,7,64,19.958639026577192,Siempre
+U08193,USA,North America,23,Male,4.3,1.7,246,177,8.4,Poor,9,77,22.281669266255964,Siempre
+U08194,India,Asia,51,Female,4.6,0.8,255,70,10.4,Average,6,62,19.60832743439005,Rara vez
+U08198,Germany,Europe,55,Male,7.7,1.2,108,149,6.2,Average,7,53,38.58189176454117,Siempre
+U08201,India,Asia,57,Other,5.4,1.4,500,172,7.0,Good,1,54,27.82777461028801,Siempre
+U08206,Pakistan,Asia,19,Other,5.6,2.6,175,91,6.8,Average,4,50,25.322016031474625,Frecuentemente
+U08208,India,Asia,58,Female,6.0,3.5,301,104,7.4,Good,6,42,27.92376210094514,Frecuentemente
+U08212,Brazil,South America,65,Other,5.5,3.7,350,165,4.8,Good,6,36,28.11593283596099,Siempre
+U08213,India,Asia,19,Other,4.5,2.5,157,171,6.6,Average,5,55,23.163725145660536,Siempre
+U08216,Japan,Asia,39,Female,5.8,2.2,194,136,7.0,Poor,3,54,28.535889369803126,Frecuentemente
+U08221,India,Asia,19,Female,2.4,2.5,89,154,6.5,Poor,5,100,12.104220280606192,Siempre
+U08226,USA,North America,27,Other,8.5,0.8,201,52,8.6,Good,5,44,33.74748126519304,Rara vez
+U08229,India,Asia,21,Female,5.7,3.7,239,57,5.0,Poor,8,39,23.14452516011459,Rara vez
+U08230,USA,North America,59,Male,5.1,4.1,349,71,9.1,Good,4,64,21.81099720698188,Frecuentemente
+U08236,Canada,North America,57,Male,8.0,2.7,327,56,7.3,Poor,3,45,32.3444101426764,Rara vez
+U08247,Germany,Europe,29,Male,9.9,3.6,69,41,9.1,Average,6,17,37.002929221005346,Rara vez
+U08249,Brazil,South America,59,Other,5.2,0.8,379,36,7.9,Average,7,56,18.776773145749967,Rara vez
+U08257,Japan,Asia,32,Female,8.6,3.9,249,87,3.7,Average,5,39,38.50509660451258,Frecuentemente
+U08259,Australia,Oceania,50,Other,6.5,3.2,157,92,6.8,Good,1,41,29.461896705496166,Frecuentemente
+U08266,Canada,North America,15,Male,7.2,0.7,336,189,6.7,Poor,8,28,37.7785733195555,Siempre
+U08268,Pakistan,Asia,33,Female,7.1,2.1,230,118,6.5,Average,4,46,33.93177680109186,Frecuentemente
+U08269,Canada,North America,31,Other,5.6,1.7,385,164,5.6,Good,8,63,28.593294653843248,Siempre
+U08270,Brazil,South America,55,Male,2.7,2.1,395,32,7.5,Poor,4,89,9.440570415959497,Rara vez
+U08271,China,Asia,52,Other,8.1,1.6,207,78,4.0,Poor,5,34,35.392527604982874,Frecuentemente
+U08274,Pakistan,Asia,31,Female,3.3,1.5,491,31,8.6,Poor,6,98,11.436928479239096,Rara vez
+U08275,Germany,Europe,30,Other,5.0,0.9,409,32,5.9,Average,7,65,17.482537807332402,Rara vez
+U08278,Canada,North America,34,Other,8.6,2.7,162,200,7.3,Average,3,30,45.60842220930805,Siempre
+U08281,Brazil,South America,39,Other,5.8,4.5,80,43,7.9,Average,7,39,21.948299876725912,Rara vez
+U08286,India,Asia,42,Other,5.2,2.0,121,180,7.1,Poor,4,53,27.032184562582298,Siempre
+U08292,Pakistan,Asia,53,Female,5.3,3.9,235,64,8.7,Good,5,59,22.124252530446874,Rara vez
+U08315,India,Asia,65,Male,5.9,3.0,244,196,6.7,Good,4,43,31.170901999554133,Siempre
+U08316,China,Asia,62,Other,7.4,3.8,481,103,6.4,Poor,5,52,34.36849265364616,Frecuentemente
+U08320,USA,North America,34,Female,6.9,0.6,212,117,6.4,Average,4,30,32.91772390881309,Frecuentemente
+U08323,USA,North America,34,Male,6.7,3.4,338,136,7.5,Average,5,37,32.96387220304844,Frecuentemente
+U08344,Japan,Asia,43,Male,4.7,1.9,266,171,3.9,Good,1,58,24.193224041023228,Siempre
+U08352,UK,Europe,40,Female,1.0,2.3,423,106,7.2,Average,8,100,4.672828834461906,Frecuentemente
+U08357,USA,North America,37,Male,9.9,3.8,116,193,11.0,Average,2,23,52.15179577472695,Siempre
+U08369,Brazil,South America,38,Male,4.7,1.7,145,52,7.6,Poor,7,45,18.660371993694973,Rara vez
+U08373,Japan,Asia,59,Female,6.2,0.9,282,32,7.3,Average,3,50,21.678346881092178,Rara vez
+U08378,Australia,Oceania,27,Male,5.8,3.2,230,86,4.7,Poor,4,47,25.902267088196584,Frecuentemente
+U08380,Canada,North America,52,Male,5.6,3.1,419,100,7.3,Poor,7,55,25.84467489431105,Frecuentemente
+U08381,Brazil,South America,63,Other,5.9,1.3,435,121,7.7,Average,2,40,28.34372416392622,Frecuentemente
+U08385,UK,Europe,36,Female,8.5,0.8,450,147,8.6,Poor,5,25,42.47630432699498,Siempre
+U08386,UK,Europe,32,Female,4.8,3.7,62,77,6.9,Average,4,80,20.91220236811004,Frecuentemente
+U08389,Australia,Oceania,46,Male,4.5,2.7,266,188,8.0,Good,4,70,23.587861567768392,Siempre
+U08391,China,Asia,53,Male,6.2,3.9,199,174,4.0,Average,5,56,32.021673038325794,Siempre
+U08393,China,Asia,19,Other,6.8,2.3,424,103,12.3,Average,4,55,31.58185811416133,Frecuentemente
+U08394,India,Asia,34,Female,5.3,0.5,117,113,7.8,Poor,6,42,25.101851776490825,Frecuentemente
+U08396,USA,North America,17,Other,4.5,3.2,174,160,6.8,Good,2,52,22.866319642430085,Siempre
+U08398,Germany,Europe,25,Other,5.8,3.8,426,155,7.6,Poor,4,60,29.289164842047313,Siempre
+U08410,UK,Europe,44,Other,7.0,2.3,160,75,7.4,Average,1,51,30.31513338200432,Frecuentemente
+U08424,UK,Europe,47,Other,6.7,2.2,203,173,5.3,Poor,3,37,34.56567050473735,Siempre
+U08431,China,Asia,45,Female,6.6,4.2,196,66,7.5,Average,7,51,27.750971287980374,Rara vez
+U08435,Germany,Europe,57,Male,2.5,3.6,303,38,5.7,Poor,3,88,9.158904115324116,Rara vez
+U08438,Australia,Oceania,21,Other,6.4,1.3,77,124,6.0,Good,1,42,30.90120791873473,Frecuentemente
+U08439,Australia,Oceania,16,Male,7.1,1.3,301,118,7.6,Poor,4,35,33.93177680109186,Frecuentemente
+U08443,UK,Europe,25,Other,6.4,4.4,71,89,4.3,Good,2,46,28.7987818901137,Frecuentemente
+U08446,Pakistan,Asia,15,Other,6.4,4.2,201,72,5.8,Good,8,57,27.458940423349702,Frecuentemente
+U08448,Pakistan,Asia,32,Male,1.1,2.4,233,171,5.7,Poor,4,100,5.662243924494798,Siempre
+U08449,China,Asia,16,Female,7.0,3.2,150,46,6.3,Poor,3,37,26.951033211970408,Rara vez
+U08453,Japan,Asia,25,Other,7.7,2.4,258,124,7.4,Poor,1,45,37.17801577722772,Frecuentemente
+U08458,Australia,Oceania,29,Other,7.1,3.4,177,42,8.0,Poor,4,41,26.704520821424293,Rara vez
+U08466,Japan,Asia,29,Other,8.6,4.4,65,188,10.4,Good,6,13,45.079024329512926,Siempre
+U08470,China,Asia,21,Female,2.9,2.1,460,69,6.6,Poor,4,93,12.320636201943142,Rara vez
+U08472,Japan,Asia,30,Male,6.6,0.8,406,41,7.4,Good,3,52,24.66861948067023,Rara vez
+U08476,Australia,Oceania,26,Female,4.6,4.4,96,66,6.7,Poor,8,57,19.34158604919844,Rara vez
+U08480,Canada,North America,57,Other,4.3,1.9,300,136,7.2,Poor,5,72,21.155917981060938,Frecuentemente
+U08487,Australia,Oceania,57,Other,5.7,3.1,306,177,8.4,Average,7,58,29.536166236664886,Siempre
+U08497,Japan,Asia,19,Female,5.1,1.8,499,158,7.5,Poor,2,51,25.85141143132318,Siempre
+U08502,Brazil,South America,30,Other,4.4,3.5,149,157,5.4,Average,4,51,22.275418145318657,Siempre
+U08503,Pakistan,Asia,15,Male,6.2,1.8,489,106,7.2,Average,7,51,28.971538773663816,Frecuentemente
+U08510,Australia,Oceania,53,Female,7.2,1.8,317,105,5.7,Average,5,45,33.57676147760688,Frecuentemente
+U08520,Canada,North America,41,Male,4.0,0.9,190,160,7.5,Poor,8,64,20.325617459937853,Siempre
+U08524,Japan,Asia,17,Other,8.1,1.7,282,145,5.7,Good,2,14,40.36721363583752,Siempre
+U08526,China,Asia,55,Female,2.1,0.7,214,183,7.5,Good,5,100,10.951365090978872,Siempre
+U08532,Pakistan,Asia,54,Other,6.2,2.7,357,174,8.5,Good,3,51,32.021673038325794,Siempre
+U08536,Pakistan,Asia,47,Female,7.5,0.5,443,145,6.8,Poor,8,53,37.377049662812524,Siempre
+U08540,Australia,Oceania,25,Other,8.4,1.9,282,64,6.2,Poor,5,21,35.06485306712335,Rara vez
+U08545,Canada,North America,48,Male,7.2,3.7,487,57,8.0,Poor,3,42,29.23518967593422,Rara vez
+U08555,Brazil,South America,57,Male,7.2,3.3,258,114,4.9,Average,2,20,34.1635113242154,Frecuentemente
+U08560,China,Asia,55,Male,6.7,1.0,68,149,8.0,Good,4,44,33.571256470444915,Siempre
+U08562,Canada,North America,28,Other,6.0,0.8,403,127,5.4,Good,4,53,29.112181583517703,Frecuentemente
+U08569,Germany,Europe,32,Female,3.1,1.6,331,69,6.8,Average,3,56,13.170335250353014,Rara vez
+U08573,India,Asia,48,Male,7.7,2.3,292,165,6.5,Poor,4,42,39.36230597034539,Siempre
+U08583,Pakistan,Asia,49,Male,4.4,0.9,452,139,4.6,Average,6,68,21.74322665948094,Frecuentemente
+U08589,China,Asia,25,Female,5.6,4.2,372,142,7.0,Average,6,54,27.791929929455478,Siempre
+U08595,Pakistan,Asia,59,Female,9.0,4.4,253,180,7.2,Poor,5,25,46.78647328139243,Siempre
+U08596,Brazil,South America,24,Other,4.1,2.0,265,101,5.1,Poor,6,57,18.962388534465507,Frecuentemente
+U08597,Germany,Europe,29,Female,5.9,4.3,282,70,7.4,Good,4,49,25.14981127454376,Rara vez
+U08599,Canada,North America,35,Other,6.5,4.4,349,178,6.2,Good,7,50,33.71800773796491,Siempre
+U08606,UK,Europe,32,Male,4.8,1.0,452,119,7.0,Average,8,58,22.97996036535382,Frecuentemente
+U08616,Germany,Europe,23,Female,10.2,1.8,312,31,7.7,Poor,4,23,35.350506208557206,Rara vez
+U08619,Brazil,South America,19,Female,7.1,3.6,75,58,7.3,Poor,4,46,28.950515851730607,Rara vez
+U08621,USA,North America,57,Male,6.4,3.1,451,122,8.2,Good,5,31,30.797979874383472,Frecuentemente
+U08622,Canada,North America,63,Female,7.0,1.7,79,104,7.5,Poor,6,45,32.57772245110266,Frecuentemente
+U08624,Germany,Europe,38,Female,8.6,1.3,152,190,7.2,Average,5,32,45.16955148120101,Siempre
+U08631,Canada,North America,51,Female,4.8,2.4,66,34,7.2,Average,5,51,17.065670695149183,Rara vez
+U08639,Australia,Oceania,24,Male,3.0,2.0,361,101,8.3,Good,3,54,13.874918439852813,Frecuentemente
+U08643,UK,Europe,53,Other,5.5,4.1,267,134,5.7,Good,5,61,26.979011281411363,Frecuentemente
+U08644,UK,Europe,40,Male,7.6,0.7,442,121,8.1,Poor,6,24,36.51055993997275,Frecuentemente
+U08652,Japan,Asia,46,Female,7.2,3.0,393,102,7.6,Poor,3,40,33.37004871525338,Frecuentemente
+U08655,USA,North America,58,Other,6.6,2.2,313,198,7.7,Good,4,39,34.93581184318165,Siempre
+U08657,USA,North America,24,Other,5.3,1.3,426,87,6.6,Average,6,51,23.729885116734497,Frecuentemente
+U08667,USA,North America,17,Male,5.6,0.6,130,122,7.7,Poor,3,57,26.948232390085533,Frecuentemente
+U08668,USA,North America,40,Male,7.8,1.3,143,56,7.6,Poor,4,46,31.53579988910949,Rara vez
+U08671,Germany,Europe,31,Female,4.1,3.6,278,123,7.1,Good,4,58,19.76315441898065,Frecuentemente
+U08674,China,Asia,15,Male,6.7,2.3,311,43,6.7,Good,4,51,25.35407054725235,Rara vez
+U08677,UK,Europe,29,Male,5.4,3.2,392,78,3.7,Good,1,69,23.595018403321916,Frecuentemente
+U08685,China,Asia,29,Female,7.6,1.8,436,66,9.0,Average,1,43,31.95566390737134,Rara vez
+U08686,Canada,North America,24,Male,10.0,2.3,252,193,9.9,Poor,6,20,52.678581590633286,Siempre
+U08690,USA,North America,44,Female,3.8,0.7,141,148,6.6,Good,4,66,19.014995962592742,Siempre
+U08699,Australia,Oceania,39,Other,9.5,3.5,245,159,7.5,Average,6,24,48.21415124472135,Siempre
+U08709,China,Asia,38,Other,4.9,1.3,265,109,10.7,Average,7,67,23.032353792382843,Frecuentemente
+U08711,Germany,Europe,23,Other,6.1,2.4,261,30,9.6,Poor,8,47,20.94732194735939,Rara vez
+U08719,China,Asia,44,Other,3.0,1.7,63,107,6.8,Average,6,75,14.04639368137266,Frecuentemente
+U08726,UK,Europe,64,Male,8.9,1.3,356,151,8.5,Poor,7,39,44.71253663553186,Siempre
+U08733,Australia,Oceania,28,Male,8.1,3.0,394,166,4.5,Average,4,34,41.455749880575716,Siempre
+U08738,USA,North America,53,Male,5.7,3.0,496,165,7.2,Average,7,39,29.138330393632298,Siempre
+U08739,Japan,Asia,33,Other,6.7,1.4,452,135,5.0,Average,1,52,32.91478773443155,Frecuentemente
+U08740,Japan,Asia,29,Male,5.9,3.3,194,37,5.9,Poor,4,38,21.461758342385675,Rara vez
+U08741,Japan,Asia,51,Female,11.0,0.7,136,30,6.7,Average,2,4,37.77385924933661,Rara vez
+U08745,China,Asia,23,Male,5.7,1.5,168,124,6.9,Poor,4,56,27.52138830262312,Frecuentemente
+U08747,UK,Europe,25,Female,7.8,3.5,389,64,6.5,Good,6,19,32.56022070518597,Rara vez
+U08749,India,Asia,47,Female,6.0,1.8,175,169,7.4,Average,1,54,30.814790622301572,Siempre
+U08758,UK,Europe,28,Male,7.3,4.3,430,64,5.3,Poor,2,45,30.47302707023815,Rara vez
+U08765,Canada,North America,55,Other,3.8,4.0,349,119,6.5,Average,6,58,18.192468622571774,Frecuentemente
+U08772,India,Asia,30,Other,3.8,4.3,58,49,6.8,Good,4,82,14.865687420626953,Rara vez
+U08775,Australia,Oceania,32,Other,9.4,0.8,125,154,4.9,Good,8,11,47.40819609904092,Siempre
+U08779,USA,North America,24,Other,8.6,4.4,69,47,7.3,Good,5,40,33.29232869380786,Rara vez
+U08781,India,Asia,26,Other,7.8,3.6,413,110,5.2,Average,5,48,36.734335570236205,Frecuentemente
+U08784,China,Asia,55,Male,6.3,1.6,171,108,8.1,Good,4,60,29.555491658043604,Frecuentemente
+U08785,Brazil,South America,31,Other,5.5,1.3,170,187,5.4,Good,3,78,28.800430795564722,Siempre
+U08787,USA,North America,35,Other,4.9,0.8,484,80,4.3,Poor,6,68,21.532800857894955,Frecuentemente
+U08788,USA,North America,27,Male,4.4,1.6,72,86,9.5,Poor,5,53,19.64999572208017,Frecuentemente
+U08792,Japan,Asia,19,Male,7.9,3.4,494,178,8.1,Good,1,47,40.98034786614197,Siempre
+U08793,UK,Europe,45,Male,5.9,4.0,128,103,4.6,Average,6,45,27.401906304934098,Frecuentemente
+U08796,Pakistan,Asia,23,Female,5.1,1.2,457,93,5.2,Good,5,79,23.170803389577017,Frecuentemente
+U08810,Brazil,South America,29,Other,3.2,1.9,322,74,8.7,Poor,2,83,13.815961963316193,Frecuentemente
+U08817,China,Asia,33,Female,4.0,3.6,182,78,7.9,Average,5,72,17.477791409868086,Frecuentemente
+U08840,Canada,North America,55,Male,4.4,1.1,196,75,4.9,Poor,5,63,19.055226697259858,Frecuentemente
+U08842,Pakistan,Asia,52,Other,7.5,3.7,59,120,7.8,Average,3,26,35.96842909197556,Frecuentemente
+U08846,India,Asia,33,Male,7.6,0.6,247,141,9.2,Poor,3,30,37.66428563776958,Siempre
+U08852,Pakistan,Asia,31,Male,5.2,3.2,455,87,7.9,Good,7,47,23.282151435286675,Frecuentemente
+U08855,Brazil,South America,33,Female,4.6,1.3,484,154,6.4,Poor,3,68,23.199755537828533,Siempre
+U08858,Canada,North America,26,Female,5.6,3.5,461,170,6.3,Poor,4,42,28.793315916414894,Siempre
+U08864,Canada,North America,47,Male,6.9,2.6,86,50,7.0,Poor,5,54,27.12959686579785,Rara vez
+U08866,China,Asia,26,Female,8.3,3.3,127,30,7.1,Good,3,39,28.502093797226717,Rara vez
+U08870,Canada,North America,16,Female,6.1,3.6,293,48,6.2,Good,3,46,23.74010381847482,Rara vez
+U08872,India,Asia,51,Female,6.7,3.1,285,148,4.8,Poor,4,49,33.52644024983458,Siempre
+U08876,USA,North America,16,Male,6.9,0.6,208,59,6.3,Average,5,52,28.250977479332494,Rara vez
+U08877,Japan,Asia,51,Other,5.9,1.1,208,117,8.2,Average,6,41,28.147039284347425,Frecuentemente
+U08878,India,Asia,52,Other,4.9,3.4,331,36,6.9,Average,4,71,17.6934977719567,Rara vez
+U08881,UK,Europe,36,Other,4.6,2.6,411,124,6.7,Poor,6,72,22.210243191590585,Frecuentemente
+U08883,USA,North America,25,Male,5.9,3.7,425,118,7.4,Average,4,45,28.196828609358025,Frecuentemente
+U08884,Brazil,South America,60,Male,6.3,1.3,174,81,6.6,Average,6,61,27.762331257764796,Frecuentemente
+U08889,Canada,North America,50,Other,0.0,1.0,206,124,4.7,Average,6,91,0.0,Frecuentemente
+U08890,Japan,Asia,54,Male,5.7,3.2,172,135,7.7,Good,6,59,28.0021328486955,Frecuentemente
+U08898,Germany,Europe,57,Female,6.0,2.3,457,59,6.7,Poor,5,49,24.5660673733326,Rara vez
+U08903,Canada,North America,28,Male,5.6,2.5,89,64,8.8,Poor,8,45,23.376568711415565,Rara vez
+U08904,Canada,North America,52,Male,8.0,1.3,101,140,4.8,Average,6,63,39.59007912302535,Frecuentemente
+U08907,Brazil,South America,53,Other,6.5,3.4,233,98,8.8,Average,5,51,29.868279025874834,Frecuentemente
+U08914,Canada,North America,41,Other,6.1,3.1,128,100,7.4,Average,5,37,28.15223515273168,Frecuentemente
+U08918,Germany,Europe,33,Female,5.7,3.5,358,200,6.7,Average,2,61,30.22883797593673,Siempre
+U08923,Australia,Oceania,65,Female,5.6,2.8,145,130,7.9,Good,5,74,27.301105009926445,Frecuentemente
+U08925,China,Asia,17,Other,8.8,4.3,133,54,4.3,Poor,6,27,35.26453203004575,Rara vez
+U08926,Japan,Asia,63,Male,4.2,1.1,279,177,8.1,Good,7,50,21.763490911226757,Siempre
+U08939,Canada,North America,39,Female,9.2,1.1,362,39,6.7,Average,4,24,33.93769097784821,Rara vez
+U08940,UK,Europe,51,Female,5.4,1.8,92,97,8.8,Good,7,45,24.758824384821093,Frecuentemente
+U08943,USA,North America,51,Male,4.3,0.7,388,184,6.6,Average,5,75,22.447530047836793,Siempre
+U08951,USA,North America,20,Other,2.5,0.6,175,178,6.4,Good,6,82,12.968464514601887,Siempre
+U08952,Canada,North America,51,Female,8.4,0.8,263,38,6.4,Good,4,36,30.77391782748903,Rara vez
+U08955,China,Asia,42,Female,9.6,1.1,89,167,7.7,Poor,5,16,49.190054202271284,Siempre
+U08957,USA,North America,55,Male,5.7,4.4,312,105,9.2,Poor,2,42,26.581602836438783,Frecuentemente
+U08966,Brazil,South America,17,Male,3.8,2.2,288,198,7.2,Good,6,67,20.11455833395307,Siempre
+U08967,Canada,North America,57,Male,6.7,1.5,480,136,6.3,Good,8,58,32.96387220304844,Frecuentemente
+U08972,India,Asia,30,Female,5.9,1.1,197,108,5.6,Poor,5,57,27.678952505151948,Frecuentemente
+U08976,Germany,Europe,33,Male,5.9,1.7,465,86,6.5,Poor,5,46,26.348857900062047,Frecuentemente
+U08977,USA,North America,43,Female,3.3,1.4,90,162,6.9,Poor,4,84,16.809375662662315,Siempre
+U08994,USA,North America,57,Male,9.2,0.6,238,60,10.5,Average,4,29,37.82003955039446,Rara vez
+U09014,Brazil,South America,58,Female,6.0,4.5,158,176,8.9,Average,6,46,31.05689839544297,Siempre
+U09017,Brazil,South America,32,Male,6.9,1.5,151,183,3.9,Good,4,48,35.983056727502,Siempre
+U09019,India,Asia,23,Other,5.0,2.8,390,164,5.4,Poor,7,57,25.5297273695029,Siempre
+U09024,Canada,North America,57,Other,5.7,4.4,473,126,8.3,Average,4,39,27.61186639281397,Frecuentemente
+U09026,Canada,North America,18,Female,4.6,3.4,302,185,3.6,Average,4,48,24.038434699080724,Siempre
+U09030,Japan,Asia,28,Female,3.4,2.8,165,143,8.0,Average,3,71,16.897365218558402,Siempre
+U09033,Brazil,South America,32,Other,5.5,2.0,230,31,6.1,Good,1,48,19.061547465398498,Rara vez
+U09038,Australia,Oceania,38,Female,3.8,2.3,192,97,9.0,Good,4,70,17.422876418948174,Frecuentemente
+U09039,India,Asia,45,Female,1.3,3.4,159,49,4.4,Good,5,97,5.08562990705659,Rara vez
+U09046,Japan,Asia,55,Male,4.3,4.2,242,182,6.8,Poor,5,51,22.40079045721811,Siempre
+U09064,Pakistan,Asia,18,Other,8.5,2.8,132,174,10.6,Good,2,27,43.90068077834987,Siempre
+U09070,Brazil,South America,22,Other,7.5,1.6,371,47,8.9,Good,3,27,29.034007581809185,Rara vez
+U09082,Pakistan,Asia,57,Male,9.2,3.9,146,161,6.1,Poor,8,45,46.80588628413793,Siempre
+U09084,Japan,Asia,19,Male,6.6,3.1,277,182,9.7,Good,3,49,34.38260860875338,Siempre
+U09088,Australia,Oceania,27,Male,7.3,2.4,244,106,5.5,Average,6,39,34.111650491571915,Frecuentemente
+U09093,Germany,Europe,23,Male,7.3,0.5,191,71,7.4,Average,5,38,31.219662668817204,Frecuentemente
+U09095,Australia,Oceania,65,Female,5.6,3.6,188,98,6.2,Poor,3,47,25.7326711607537,Frecuentemente
+U09102,Japan,Asia,19,Female,5.1,0.6,488,93,8.1,Good,2,78,23.170803389577017,Frecuentemente
+U09108,Australia,Oceania,33,Male,5.7,1.7,55,148,6.1,Average,6,49,28.522493943889117,Siempre
+U09120,China,Asia,61,Female,5.4,2.7,431,70,8.3,Poor,2,65,23.018471336023104,Rara vez
+U09137,Canada,North America,27,Other,7.4,2.0,253,143,9.2,Poor,5,47,36.776618416862405,Siempre
+U09157,Canada,North America,32,Male,4.6,2.7,249,54,7.6,Poor,6,53,18.433732652069367,Rara vez
+U09166,USA,North America,63,Male,4.9,4.0,50,109,7.3,Poor,5,60,23.032353792382843,Frecuentemente
+U09176,China,Asia,49,Female,6.8,2.1,59,48,8.8,Good,5,42,26.46437802715226,Rara vez
+U09177,Australia,Oceania,16,Male,2.4,1.8,58,159,6.6,Average,1,84,12.180417156561184,Siempre
+U09181,Germany,Europe,19,Female,7.1,0.8,331,133,6.2,Poor,3,42,34.77466257965147,Frecuentemente
+U09182,China,Asia,52,Female,4.3,0.8,282,144,7.1,Poor,4,64,21.39995509240847,Siempre
+U09189,Australia,Oceania,28,Other,4.7,2.1,97,180,6.5,Average,8,44,24.432936046949383,Siempre
+U09190,Pakistan,Asia,43,Other,3.0,4.2,371,63,6.0,Average,3,81,12.476649250079014,Rara vez
+U09198,USA,North America,17,Male,9.1,2.9,432,127,6.8,Good,4,21,44.15347540166851,Frecuentemente
+U09201,Japan,Asia,30,Male,5.5,3.0,212,161,9.0,Poor,2,52,27.98177984377811,Siempre
+U09214,Germany,Europe,53,Male,7.0,4.2,390,82,6.3,Good,10,54,30.93188425457619,Frecuentemente
+U09218,Canada,North America,27,Other,6.9,3.5,416,192,6.5,Average,4,56,36.31256230344371,Siempre
+U09220,Brazil,South America,44,Female,8.0,2.3,62,33,8.7,Poor,1,50,28.210884196929293,Rara vez
+U09221,UK,Europe,32,Female,5.4,1.9,465,178,7.7,Poor,2,54,28.011883351540078,Siempre
+U09223,Australia,Oceania,44,Other,5.7,3.2,274,37,5.9,Average,1,48,20.734241110440397,Rara vez
+U09225,Australia,Oceania,50,Male,6.5,3.2,440,48,7.6,Good,6,35,25.296831937719073,Rara vez
+U09228,Japan,Asia,38,Female,4.8,3.4,409,96,9.5,Average,5,73,21.958612696816235,Frecuentemente
+U09229,China,Asia,38,Male,5.5,4.2,496,58,5.2,Poor,4,54,22.426455941481457,Rara vez
+U09231,Australia,Oceania,19,Male,7.3,1.3,233,111,6.4,Good,3,25,34.44504176045419,Frecuentemente
+U09237,USA,North America,40,Female,4.7,2.2,366,63,6.6,Poor,4,72,19.54675049179046,Rara vez
+U09240,Japan,Asia,62,Other,9.2,1.1,340,96,6.1,Good,9,2,42.08734100223112,Frecuentemente
+U09246,China,Asia,64,Female,5.3,2.0,52,74,8.2,Good,5,46,22.882687001742443,Frecuentemente
+U09247,USA,North America,20,Male,3.2,3.8,81,86,7.1,Poor,8,67,14.290905979694669,Frecuentemente
+U09254,Australia,Oceania,44,Male,6.4,3.6,251,148,8.1,Poor,10,62,32.02525635805094,Siempre
+U09256,Brazil,South America,16,Male,5.6,3.2,123,190,5.9,Good,3,28,29.412731197061124,Siempre
+U09258,Brazil,South America,50,Other,3.2,0.8,265,37,8.0,Average,3,81,11.640275711124435,Rara vez
+U09264,Brazil,South America,36,Other,7.7,3.3,313,158,7.0,Good,3,38,39.03056235709578,Siempre
+U09273,China,Asia,15,Female,6.4,3.8,357,67,5.0,Poor,6,53,27.004849313127085,Rara vez
+U09276,USA,North America,55,Female,9.2,2.0,452,183,8.1,Good,6,22,47.977408970002664,Siempre
+U09290,Australia,Oceania,36,Female,5.9,2.5,194,74,6.0,Average,3,60,25.473179869864232,Frecuentemente
+U09295,Brazil,South America,60,Female,8.9,4.4,377,129,8.0,Poor,5,16,43.321056609054686,Frecuentemente
+U09296,Canada,North America,58,Male,5.0,2.7,130,102,7.9,Poor,3,50,23.17364494114818,Frecuentemente
+U09304,USA,North America,26,Female,3.6,3.9,173,113,5.5,Average,4,92,17.050314414220185,Frecuentemente
+U09305,USA,North America,35,Other,9.9,2.9,371,44,7.1,Good,4,6,37.685958648726164,Rara vez
+U09306,India,Asia,61,Male,6.5,1.4,448,148,1.8,Average,5,53,32.52565098864549,Siempre
+U09308,UK,Europe,65,Male,6.1,2.7,121,58,5.2,Poor,4,40,24.87297840782489,Rara vez
+U09309,Pakistan,Asia,44,Male,6.4,4.2,82,128,8.0,Good,5,51,31.1027993879147,Frecuentemente
+U09311,Pakistan,Asia,42,Male,6.9,2.6,261,111,2.2,Poor,7,43,32.55764221193615,Frecuentemente
+U09312,Germany,Europe,41,Female,6.8,1.8,104,121,7.5,Good,4,51,32.667343104186145,Frecuentemente
+U09314,Canada,North America,56,Other,5.5,0.6,473,172,5.5,Poor,4,74,28.343103769737787,Siempre
+U09316,China,Asia,42,Female,2.8,3.9,140,138,5.8,Good,5,72,13.816527012765935,Frecuentemente
+U09317,USA,North America,45,Other,9.6,2.9,63,144,7.3,Good,6,10,47.77664392723751,Siempre
+U09321,Australia,Oceania,21,Female,7.9,3.2,231,157,7.8,Average,5,43,39.99450076091304,Siempre
+U09322,Germany,Europe,19,Male,4.7,1.1,393,66,4.7,Poor,6,66,19.76205531113754,Rara vez
+U09323,Pakistan,Asia,16,Male,2.7,0.6,89,170,7.5,Poor,4,68,13.882491602557185,Siempre
+U09335,Australia,Oceania,28,Female,6.3,0.6,339,43,6.7,Good,5,59,23.840394693685045,Rara vez
+U09336,Germany,Europe,46,Other,4.2,1.9,486,37,9.2,Poor,1,57,15.27786187085082,Rara vez
+U09340,Japan,Asia,21,Male,5.5,2.0,328,62,5.5,Good,2,59,22.78724099515343,Rara vez
+U09341,Germany,Europe,58,Other,6.1,4.3,134,127,8.2,Average,7,52,29.59738460990966,Frecuentemente
+U09346,India,Asia,37,Male,4.6,1.7,96,90,7.6,Average,3,63,20.749953729977506,Frecuentemente
+U09349,Brazil,South America,24,Male,9.8,2.0,130,93,4.4,Good,7,30,44.52428886624604,Frecuentemente
+U09352,Pakistan,Asia,28,Other,9.6,1.2,74,83,10.2,Good,4,18,42.53584126889581,Frecuentemente
+U09353,Canada,North America,28,Female,3.9,1.2,498,171,6.1,Poor,6,72,20.075228459572465,Siempre
+U09356,Brazil,South America,51,Male,4.0,0.7,323,133,6.8,Poor,1,78,19.591359199803644,Frecuentemente
+U09360,UK,Europe,39,Female,4.8,0.7,58,186,7.7,Poor,7,41,25.109321360902015,Siempre
+U09366,Australia,Oceania,32,Male,4.5,3.6,397,107,6.1,Poor,1,72,21.069590522058988,Frecuentemente
+U09367,UK,Europe,55,Male,7.2,1.8,304,180,7.0,Good,3,49,37.42917862511395,Siempre
+U09386,China,Asia,31,Other,5.7,2.0,376,77,9.1,Poor,4,52,24.833240312130673,Frecuentemente
+U09390,Canada,North America,40,Other,7.8,0.8,74,134,7.6,Poor,4,58,38.26114327181975,Frecuentemente
+U09393,UK,Europe,16,Male,7.6,4.5,324,61,8.1,Poor,3,35,31.366221326342696,Rara vez
+U09401,UK,Europe,45,Other,8.1,3.3,339,160,7.7,Good,6,40,41.15937535637415,Siempre
+U09403,UK,Europe,35,Female,7.0,3.6,478,173,5.4,Average,7,57,36.113387094501704,Siempre
+U09404,Australia,Oceania,55,Male,5.4,3.9,325,57,5.0,Poor,3,65,21.926392256950663,Rara vez
+U09407,Japan,Asia,23,Female,7.8,2.2,70,176,9.6,Average,5,26,40.37396791407586,Siempre
+U09413,USA,North America,48,Female,8.2,3.9,369,35,7.2,Good,5,43,29.3848552953401,Rara vez
+U09418,India,Asia,61,Female,8.0,1.0,349,163,5.5,Average,5,20,40.79893142259359,Siempre
+U09421,USA,North America,52,Other,8.6,2.3,111,39,7.8,Average,6,27,31.72436330537985,Rara vez
+U09422,China,Asia,15,Other,11.1,2.3,174,180,7.5,Poor,5,15,57.70331704705067,Siempre
+U09424,Brazil,South America,52,Male,8.2,2.8,193,169,5.4,Poor,6,32,42.113547183812145,Siempre
+U09426,USA,North America,53,Other,7.3,1.4,225,123,8.1,Poor,3,39,35.18805542891677,Frecuentemente
+U09430,Germany,Europe,31,Male,4.7,1.0,296,195,5.1,Average,6,69,24.80713889838343,Siempre
+U09431,Brazil,South America,23,Male,6.1,1.1,116,147,6.9,Average,1,49,30.482994869961097,Siempre
+U09434,USA,North America,27,Male,4.9,3.7,57,122,6.7,Good,5,53,23.579703341324844,Frecuentemente
+U09442,Germany,Europe,50,Female,7.1,0.5,125,193,8.5,Average,5,42,37.401792929349625,Siempre
+U09445,UK,Europe,60,Male,4.2,3.7,267,38,5.8,Good,3,64,15.386958913744515,Rara vez
+U09453,USA,North America,56,Male,6.7,2.7,477,105,7.2,Poor,3,53,31.245041930550848,Frecuentemente
+U09454,USA,North America,46,Female,8.9,0.9,476,114,6.7,Poor,3,30,42.229895942432925,Frecuentemente
+U09456,Australia,Oceania,64,Female,2.7,3.8,242,71,6.7,Average,3,82,11.54699852134335,Frecuentemente
+U09458,Pakistan,Asia,22,Female,7.6,3.9,96,93,6.0,Good,2,36,34.52904034525203,Frecuentemente
+U09464,Brazil,South America,43,Female,6.5,1.8,479,134,4.0,Good,6,35,31.884286059849792,Frecuentemente
+U09473,Japan,Asia,60,Male,4.6,2.1,374,118,6.5,Poor,5,55,21.983968068313036,Frecuentemente
+U09476,Germany,Europe,31,Other,8.0,2.7,376,141,8.7,Good,4,35,39.64661646081009,Siempre
+U09490,Australia,Oceania,48,Other,6.0,2.3,441,196,8.7,Poor,3,64,31.699222372427933,Siempre
+U09494,India,Asia,58,Other,3.9,4.4,275,53,6.6,Average,6,58,15.55703778160067,Rara vez
+U09501,Japan,Asia,62,Other,8.7,2.0,254,107,6.1,Average,3,15,40.73454167598071,Frecuentemente
+U09502,Canada,North America,54,Male,4.8,2.4,230,67,8.8,Good,2,84,20.25363698484531,Rara vez
+U09504,India,Asia,55,Other,5.6,3.4,163,41,7.8,Poor,4,62,20.93094986238686,Rara vez
+U09508,Japan,Asia,41,Male,6.4,1.7,491,32,5.8,Poor,6,29,22.377648393385474,Rara vez
+U09514,Japan,Asia,53,Female,6.3,1.1,261,78,7.2,Good,3,53,27.527521470542236,Frecuentemente
+U09515,UK,Europe,58,Male,8.3,4.1,232,31,5.9,Good,4,42,28.765607993237733,Rara vez
+U09521,USA,North America,22,Other,6.1,1.4,112,180,9.2,Poor,3,47,31.710831890721536,Siempre
+U09532,Germany,Europe,40,Male,7.3,4.1,257,47,3.6,Good,4,40,28.259767379627604,Rara vez
+U09535,USA,North America,62,Female,2.9,1.5,206,143,5.1,Poor,6,63,14.412458568770402,Siempre
+U09539,UK,Europe,52,Female,7.7,3.8,326,145,7.1,Average,1,45,38.37377098715419,Siempre
+U09544,Pakistan,Asia,50,Female,6.4,1.0,303,101,9.7,Good,1,56,29.599826005019334,Frecuentemente
+U09551,India,Asia,24,Other,6.8,2.2,228,74,8.7,Good,7,38,29.358919172046907,Frecuentemente
+U09557,USA,North America,20,Female,5.0,4.3,456,153,5.4,Average,6,62,25.184763012068146,Siempre
+U09560,Brazil,South America,63,Male,1.4,3.2,238,92,6.5,Good,2,88,6.345639290414558,Frecuentemente
+U09569,Brazil,South America,60,Male,7.6,3.8,163,151,5.3,Good,1,47,38.1814919584317,Siempre
+U09572,UK,Europe,37,Female,4.6,2.9,213,129,6.6,Poor,6,67,22.390658472095677,Frecuentemente
+U09577,India,Asia,53,Male,7.4,1.9,118,167,8.0,Good,7,39,37.91733344758412,Siempre
+U09586,Germany,Europe,57,Other,5.2,1.8,489,79,7.8,Good,7,65,22.786538500304182,Frecuentemente
+U09589,Japan,Asia,15,Female,5.9,1.4,192,102,6.6,Poor,6,61,27.344901030554855,Frecuentemente
+U09590,Germany,Europe,29,Female,9.2,1.6,429,121,9.5,Good,5,36,44.196993611545956,Frecuentemente
+U09595,Japan,Asia,52,Male,7.6,4.5,72,184,4.4,Good,6,33,39.674704270595264,Siempre
+U09604,Japan,Asia,23,Male,2.5,3.8,156,138,5.5,Good,7,77,12.336184832826728,Frecuentemente
+U09610,India,Asia,59,Female,7.3,3.9,268,52,7.0,Poor,3,63,28.98313096893049,Rara vez
+U09612,UK,Europe,17,Male,6.4,3.8,357,119,7.8,Poor,4,44,30.639947153805096,Frecuentemente
+U09614,Pakistan,Asia,46,Female,5.3,2.3,405,133,5.0,Poor,6,70,25.95855093973983,Frecuentemente
+U09619,Canada,North America,16,Female,7.0,0.7,484,188,6.8,Average,4,30,36.692229105417496,Siempre
+U09625,UK,Europe,24,Female,3.3,4.0,343,118,6.3,Good,1,70,15.771107527268047,Frecuentemente
+U09632,Pakistan,Asia,54,Other,7.0,0.8,90,116,5.9,Good,5,47,33.33521754358429,Frecuentemente
+U09633,Canada,North America,16,Other,7.1,2.1,154,112,6.7,Good,3,50,33.56445351285762,Frecuentemente
+U09639,India,Asia,20,Male,6.0,0.7,381,190,5.5,Average,3,45,31.51364056827978,Siempre
+U09644,Germany,Europe,65,Other,8.4,4.4,255,48,6.7,Good,2,37,32.69129050412926,Rara vez
+U09645,UK,Europe,26,Male,6.2,1.0,99,38,6.6,Average,6,52,22.71408220600381,Rara vez
+U09646,Pakistan,Asia,44,Female,7.0,2.9,69,165,7.0,Average,6,44,35.783914518495806,Siempre
+U09648,Australia,Oceania,33,Female,6.5,1.6,211,130,9.8,Poor,3,53,31.68878260080748,Frecuentemente
+U09650,Germany,Europe,32,Male,6.2,3.3,353,112,6.6,Good,3,44,29.309804476016513,Frecuentemente
+U09659,Canada,North America,29,Female,6.0,1.6,123,57,7.1,Good,6,39,24.362658063278516,Rara vez
+U09660,USA,North America,43,Male,4.9,1.0,284,36,3.6,Good,6,50,17.6934977719567,Rara vez
+U09661,UK,Europe,58,Female,4.2,0.6,395,114,8.4,Average,2,80,19.92871493912565,Frecuentemente
+U09668,Pakistan,Asia,55,Male,6.5,2.0,331,89,10.2,Average,5,63,29.248762857146723,Frecuentemente
+U09670,China,Asia,24,Male,6.6,2.6,51,85,6.6,Poor,3,38,29.398692155273146,Frecuentemente
+U09684,USA,North America,63,Female,6.9,4.5,294,72,7.2,Poor,5,33,29.6041701439239,Frecuentemente
+U09689,Canada,North America,18,Male,7.4,2.9,76,89,4.9,Good,2,47,33.29859156044396,Frecuentemente
+U09694,Australia,Oceania,18,Female,3.8,4.2,111,146,6.3,Good,5,68,18.963643829759196,Siempre
+U09699,India,Asia,59,Female,5.2,0.9,477,103,7.0,Average,3,60,24.15083267553514,Frecuentemente
+U09705,Japan,Asia,27,Other,7.5,3.6,168,118,5.7,Poor,2,31,35.84342619833647,Frecuentemente
+U09717,Canada,North America,33,Other,4.2,4.1,148,146,5.9,Good,1,71,20.959816864470692,Siempre
+U09720,Brazil,South America,55,Male,7.3,1.0,320,68,7.4,Good,6,33,30.908977483559994,Rara vez
+U09723,Germany,Europe,63,Female,5.6,3.2,221,170,10.9,Average,6,58,28.793315916414894,Siempre
+U09730,China,Asia,16,Male,2.5,2.8,267,175,8.8,Average,4,82,12.926209987595378,Siempre
+U09732,Japan,Asia,38,Male,2.7,3.5,271,121,8.1,Poor,7,100,12.970856820779794,Frecuentemente
+U09738,India,Asia,22,Male,5.7,1.4,248,61,8.1,Good,5,30,23.524665994757022,Rara vez
+U09740,USA,North America,46,Other,4.8,1.0,356,106,8.9,Good,1,58,22.429578405417146,Frecuentemente
+U09745,Japan,Asia,28,Other,5.1,1.1,185,100,6.3,Poor,6,65,23.537114635890422,Frecuentemente
+U09748,Pakistan,Asia,65,Male,6.1,1.1,238,37,6.3,Average,5,63,22.189275574330953,Rara vez
+U09750,India,Asia,47,Other,8.6,1.1,387,54,5.8,Average,5,29,34.46306539299925,Rara vez
+U09752,Germany,Europe,35,Other,6.1,3.4,370,70,6.1,Poor,1,70,26.002347249952024,Rara vez
+U09754,Brazil,South America,36,Male,3.7,2.6,52,158,8.8,Good,1,77,18.754945548214856,Siempre
+U09757,Canada,North America,36,Female,4.7,4.1,458,179,8.1,Poor,6,59,24.40689719918399,Siempre
+U09760,USA,North America,34,Other,6.6,2.1,436,92,7.8,Poor,6,48,29.91515665481149,Frecuentemente
+U09774,Japan,Asia,15,Other,4.3,1.8,90,37,6.4,Good,6,60,15.641620486823458,Rara vez
+U09779,Brazil,South America,16,Male,5.0,4.3,248,182,8.1,Good,3,69,26.047430764207107,Siempre
+U09783,USA,North America,31,Other,2.0,3.2,161,132,8.6,Average,5,95,9.780698256443507,Frecuentemente
+U09793,Germany,Europe,18,Female,1.4,2.4,295,107,7.9,Good,4,78,6.554983717973908,Frecuentemente
+U09797,China,Asia,38,Male,5.2,1.3,127,110,8.5,Good,6,73,24.48955704682414,Frecuentemente
+U09801,Japan,Asia,47,Male,4.2,4.3,162,140,3.9,Good,5,63,20.78479153958831,Frecuentemente
+U09807,Canada,North America,40,Female,7.3,1.5,251,150,6.2,Poor,6,52,36.626142808748945,Siempre
+U09815,UK,Europe,15,Other,8.0,2.3,284,53,5.6,Good,5,29,31.911872372514196,Rara vez
+U09817,Pakistan,Asia,63,Male,3.3,4.4,328,34,7.6,Average,9,75,11.732648602915065,Rara vez
+U09823,Australia,Oceania,20,Male,8.0,4.2,439,166,5.3,Good,5,27,40.94395049933404,Siempre
+U09829,Canada,North America,38,Other,6.7,3.4,369,80,5.5,Good,5,47,29.44280933630534,Frecuentemente
+U09833,Canada,North America,25,Male,4.1,3.9,206,157,6.4,Average,6,86,20.75663963541056,Siempre
+U09838,Germany,Europe,47,Male,6.6,3.9,341,34,7.2,Average,5,52,23.46529720583013,Rara vez
+U09839,Australia,Oceania,53,Female,6.1,3.7,99,34,6.1,Good,5,54,21.68762317508542,Rara vez
+U09857,Canada,North America,16,Male,4.1,2.5,99,198,6.8,Good,6,77,21.702549781370415,Siempre
+U09866,Canada,North America,24,Male,4.4,4.1,426,30,8.2,Poor,3,56,15.109543699734644,Rara vez
+U09871,China,Asia,55,Other,1.3,2.8,335,159,7.7,Good,4,93,6.597725959803975,Siempre
+U09875,Pakistan,Asia,60,Other,3.2,4.0,144,191,7.6,Poor,7,91,16.8239851904889,Siempre
+U09881,Japan,Asia,36,Other,8.5,1.9,227,148,7.2,Poor,4,22,42.533543600536404,Siempre
+U09889,Pakistan,Asia,32,Male,8.8,4.3,164,149,10.7,Average,4,34,44.09359058804705,Siempre
+U09891,UK,Europe,40,Other,6.5,3.4,50,148,6.5,Average,3,69,32.52565098864549,Siempre
+U09897,Germany,Europe,20,Female,3.0,4.3,183,139,7.9,Average,1,74,14.824927267827912,Frecuentemente
+U09908,Pakistan,Asia,28,Other,4.8,1.3,349,194,6.4,Good,1,54,25.310397881105985,Siempre
+U09916,China,Asia,36,Male,5.2,1.3,482,136,7.3,Average,3,43,25.58390081430625,Frecuentemente
+U09918,UK,Europe,30,Female,3.9,1.5,363,73,2.6,Poor,4,68,16.785853863496264,Frecuentemente
+U09925,China,Asia,61,Female,5.2,1.8,481,200,7.0,Poor,4,56,27.577185521907193,Siempre
+U09928,Australia,Oceania,47,Male,8.3,1.8,105,111,5.6,Good,5,47,39.163540631749285,Frecuentemente
+U09936,Canada,North America,61,Female,6.7,2.8,184,118,4.7,Poor,5,40,32.02012740384725,Frecuentemente
+U09940,India,Asia,49,Female,0.5,2.7,175,87,6.4,Average,3,99,2.2386684072391034,Frecuentemente
+U09944,India,Asia,27,Female,3.7,2.1,298,155,8.8,Poor,5,73,18.684467226823287,Siempre
+U09949,Australia,Oceania,23,Male,3.2,3.9,427,49,8.3,Poor,5,72,12.518473617370068,Rara vez
+U09955,USA,North America,56,Other,5.0,4.3,302,90,4.1,Average,2,63,22.55429753258425,Frecuentemente
+U09956,Brazil,South America,52,Male,5.3,1.9,386,51,6.7,Poor,6,56,20.941591708481564,Rara vez
+U09958,Australia,Oceania,33,Female,2.0,1.2,424,191,5.9,Good,5,98,10.514990744055563,Siempre
+U09959,India,Asia,47,Female,6.8,1.4,245,106,7.7,Poor,2,42,31.77523607434096,Frecuentemente
+U09970,Brazil,South America,38,Female,9.4,4.5,393,153,6.1,Good,7,41,47.347354462688116,Siempre
+U09979,China,Asia,35,Male,6.7,1.7,373,147,5.9,Poor,6,50,33.48132223421957,Siempre
+U09997,Australia,Oceania,46,Other,5.7,2.6,196,81,6.8,Poor,3,41,25.118299709406244,Frecuentemente
