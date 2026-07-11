@@ -1,0 +1,2 @@
+# Attention-Economy-Neuro-Stochastic-Modeling-of-Cognitive-Fragmentation-in-Digital-Interfaces
+Quantitative analysis of digital attention fragmentation (N=2,023). Developed the Attention Fragmentation Index (IFA) using neuroscience principles to model cognitive load vs. productivity. Features multivariate statistical regression and data engineering pipelines built with Polars, Python, and Statsmodels.
