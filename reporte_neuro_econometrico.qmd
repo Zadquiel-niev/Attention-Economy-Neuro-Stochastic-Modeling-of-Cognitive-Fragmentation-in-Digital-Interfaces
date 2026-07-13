@@ -1,0 +1,89 @@
+---
+title: "Determinantes Tecnológicos y Fragmentación Cognitiva"
+subtitle: "Evaluación Estructural de los Sistemas Atencionales en la Población Estudiantil de la UCV"
+author: "Zadquiel Nieves"
+date: "2026-07-12"
+lang: es
+format:
+  pdf:
+    toc: true
+    toc-title: "Índice de Contenido"
+    number-sections: true
+    fontsize: 12pt
+    geometry:
+      - top=2.5cm
+      - bottom=2.5cm
+      - left=3cm
+      - right=3cm
+    pdf-engine: xelatex
+    mainfont: "Times New Roman"
+    header-includes:
+      - \usepackage{amsmath}
+      - \usepackage{amsfonts}
+      - \usepackage{booktabs}
+---
+
+# Introducción y Marco Neurocognitivo
+
+El análisis cuantitativo de la interacción hombre-interfaz exige una aproximación multidisciplinaria que vincule los modelos estadísticos de diseño experimental con la arquitectura neurobiológica del cerebro humano. En el contexto de la economía de la atención, las interfaces de usuario de los dispositivos móviles modernos están diseñadas bajo esquemas de recompensa variable que interactúan directamente con los sistemas dopaminérgicos y las redes atencionales descritas por Posner y Rothbart.
+
+El presente documento evalúa estructuralmente cómo las métricas de consumo de hardware y software operan como predictores directos del Índice de Fragmentación de la Atención (IFA). Para dotar de rigor científico los hallazgos del modelo, se realiza el mapeo de las variables empíricas sobre tres redes neurocognitivas fundamentales:
+
+## La Red de Alerta (Alerting Network)
+
+La Red de Alerta, anatómicamente vinculada al tronco encefálico, la corteza parietal y los sistemas norepinefrínicos, es la encargada de producir y mantener un estado de preparación ante estímulos externos incidentales. En el entorno digital, esta red procesa las señales exógenas de tipo *bottom-up* (abajo-arriba), tales como las alertas acústicas o visuales emitidas por el sistema operativo mediante la variable `App_Notifications_Received`.
+
+## La Red de Orientación (Orienting Network)
+
+La Red de Orientación se encarga de la selección de información específica entre múltiples estímulos sensoriales. Involucra estructuras corticales como los campos oculares frontales y la corteza parietal posterior, controlando la atención visual y espacial a través de la Red de Atención Dorsal (DAN). Dentro de este análisis, esta red se asocia de forma directa con los comportamientos de *scroll* infinito y exploración de interfaces dinámicas, operacionalizados en la variable `Social_Media_Usage_Hours`.
+
+## La Red Ejecutiva y el Sistema de Saliencia (Executive & Salience Network)
+
+La Red Ejecutiva y el Sistema de Saliencia, con núcleos críticos en la corteza cingulada anterior y la ínsula anterior, gestionan el control voluntario, el monitoreo de conflictos cognitivos y la alternancia de tareas basadas en objetivos internos (*top-down*). El acto físico de interrumpir una tarea cognitiva profunda para verificar el dispositivo móvil de manera voluntaria (`Screen_Unlocks_Per_Day`) constituye un fallo en los mecanismos de inhibición de esta red, forzando un reordenamiento constante de la memoria de trabajo y alterando la dinámica de sinapsis y neurotransmisores encargados del enfoque sostenido.
+
+---
+
+# Metodología y Modelo Econométrico Estructural
+
+Para modelar la respuesta de la arquitectura neurocognitiva ante las interacciones digitales de la muestra estudiantil de la UCV ($N = 2023$), se especificó un modelo de regresión lineal múltiple por Mínimos Cuadrados Ordinarios (OLS). Con el objetivo de eliminar sesgos por diferencias de escala e interpretar los coeficientes en términos de importancia relativa pura, todas las variables fueron sometidas a una estandarización paramétrica proporcional ($Z$-score).
+
+## Formulación Matemática del Modelo
+
+La ecuación estructural estandarizada del modelo predictivo del Índice de Fragmentación de la Atención ($IFA$) se define formalmente como:
+
+$$IFA_z = \beta_0 + \beta_1(\text{Pantalla}_z) + \beta_2(\text{RedesSociales}_z) + \beta_3(\text{Notificaciones}_z) + \beta_4(\text{Desbloqueos}_z) + \epsilon$$
+
+Donde:
+*   $IFA_z$: Vector normalizado del Índice de Fragmentación de la Atención.
+*   $\beta_0$: Intercepto del modelo.
+*   $\beta_1, \dots, \beta_4$: Coeficientes Beta parciales estandarizados.
+*   $\epsilon$: Término de error estocástico idéntica e independientemente distribuido, con $\epsilon \sim N(0, \sigma^2)$.
+
+---
+
+# Análisis Diagnóstico y Hallazgos Claves
+
+A continuación se presentan los indicadores de bondad de ajuste globales y la matriz de coeficientes estandarizados extraídos directamente del modelo OLS estimado a partir de la muestra de la UCV ($N = 2023$), habiéndose verificado previamente el cumplimiento estricto de los cinco supuestos de Gauss-Markov.
+
+```{r}
+#| label: modelo-calculos-puros
+#| echo: false
+#| warning: false
+#| message: false
+
+# 1. Ingesta de datos
+datos <- read.csv('estudiantes_clean.csv')
+
+predictores <- c('Daily_Screen_Time_Hours', 'Social_Media_Usage_Hours', 'App_Notifications_Received', 'Screen_Unlocks_Per_Day')
+target <- 'IFA'
+
+# 2. Estandarización paramétrica Z-score
+datos_z <- as.data.frame(scale(datos[, c(predictores, target)]))
+
+# 3. Ajuste del modelo lineal
+modelo_ifa <- lm(IFA ~ Daily_Screen_Time_Hours + Social_Media_Usage_Hours + 
+                 App_Notifications_Received + Screen_Unlocks_Per_Day, data = datos_z)
+resumen <- summary(modelo_ifa)
+
+# 4. Guardamos los coeficientes para extraerlos fácil
+coefs <- resumen$coefficients
