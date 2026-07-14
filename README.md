@@ -1,6 +1,6 @@
 # Attention Economy: Neuro-Stochastic Modeling of Cognitive Fragmentation in Digital Interfaces
 
-Quantitative analysis of digital attention fragmentation ($N=2,023$). Developed the Attention Fragmentation Index (IFA) using neuroscience principles to model cognitive load vs. productivity. Features multivariate statistical regression and data engineering pipelines built with Polars, Python, and Statsmodels.
+Quantitative analysis of digital attention fragmentation ($N=2,023$). Developed the Attention Fragmentation Index (IFA) using neuroscience principles to model cognitive load vs. productivity[cite: 2]. Features multivariate statistical regression and data engineering pipelines built with Polars, Python, and Statsmodels.
 
 ---
 
@@ -23,7 +23,7 @@ $$Productivity\_Score\_z = \beta_0 + \beta_1(IFA\_z) + \beta_2(Stress\_Level\_z)
 *   **The Attention Tax:** The Attention Fragmentation Index (IFA) is a critical, highly significant predictor ($\beta_1 = -0.8060$, $p < 0.001$). For every standard deviation increase in digital switching intensity, cognitive productivity decays by **0.806** standard deviations.
 *   **Nuisance Variables:** When controlling for acute attention fragmentation, biological metrics like self-reported sleep hours ($\beta_3 = -0.0147$, $p = 0.265$) and raw stress baselines ($\beta_2 = 0.0009$, $p = 0.944$) display no direct statistically significant effects on performance within this sample.
 
-###  Rigorous Validation of the 5 Regression Assumptions
+### Rigorous Validation of the 5 Regression Assumptions
 
 To guarantee architectural stability and prevent inferential bias, the OLS model was subjected to comprehensive diagnostic testing:
 
@@ -37,9 +37,25 @@ To guarantee architectural stability and prevent inferential bias, the OLS model
 
 ---
 
-##  Roadmap / Upcoming Milestones
+## 🎲 Advanced Stochastic Simulation (Monte Carlo Pipeline)
+
+To stress-test attention limits under extreme digital distributions without linear constraints, the analysis was scaled into a non-linear framework integrated directly into the `Quarto` reporting engine[cite: 2]:
+
+1. **Multicollinearity & Endogeneity Resolution:** Total screen time was decomposed into `Social_Media_Usage_Hours` and `Other_Screen_Time` to eliminate coefficient sign inversion artifacts.
+2. **Non-Parametric Bootstrapping:** Generated $10,000$ joint empirical profiles with replacement, bypassing restrictive parametric distribution assumptions and guaranteeing zero physical truncation boundary violations (e.g., negative unlocks)[cite: 2].
+3. **Log-Linear Interaction Model:** Fitted using a multiplicative error structure to capture exponential biological saturation: 
+   $$\log(IFA) \sim Other\_Screen\_Time \times Social\_Media\_Usage\_Hours + App\_Notifications + Screen\_Unlocks$$
+
+### Neuro-Cognitive High-Impact KPIs (85th Percentile)
+* **Exponential Inflexion Threshold (IFA = 30.03):** Under log-linear scaling, passing this score shifts the student into an accelerated prefrontal saturation zone[cite: 2].
+* **The Interruption Constant (128 Unlocks/Day):** High-risk profiles trigger a conscious attention switch every **7.5 minutes**[cite: 2]. This creates a state of continuous executive network re-alignment, neutralizing the 15-20 minute window required for *Deep Work* consolidation[cite: 2].
+* **The Media Paradox (2.3 Hours/Day):** The critical cohort averages only 2.3 hours of pure social media consumption[cite: 2]. This confirms that continuous micro-switching behaviors (unlock patterns) paired with baseline screen dispersion are drastically more destructive than isolated high-volume digital sessions[cite: 2].
+
+---
+
+## Roadmap / Upcoming Milestones
 
 This repository is an ongoing scientific data engineering sandbox. Future iterations will deploy:
-- [ ] **Stochastic Simulation:** Monte Carlo algorithms to stress-test attention limits under synthetic extreme notification distributions.
-- [ ] **Predictive Machine Learning:** Non-linear forecasting models to estimate cognitive burnout thresholds.
+- [x] **Stochastic Simulation:** Monte Carlo algorithms to stress-test attention limits under synthetic extreme notification distributions[cite: 2].
+- [x] **Predictive Machine Learning:** Non-linear forecasting models to estimate cognitive burnout thresholds[cite: 2].
 - [ ] **Interactive Business Intelligence:** Production-ready Power BI dashboard mapping transcultural focus decay by country and continent.
