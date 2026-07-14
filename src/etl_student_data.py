@@ -4,7 +4,7 @@ import numpy as np
 print("Procesando Megaproyecto de Neuro-Data con Polars...")
 
 # 1. Cargo los datos de Mirza
-df = pl.read_csv("mobile_phone_screen_time_dataset.csv")
+df = pl.read_csv("data/raw/mobile_phone_screen_time_dataset.csv")
 
 # 2. Filtro estricto para estudiantes (nuestra población de estudio)
 df_estudiantes = df.filter(pl.col("Occupation") == "Student")

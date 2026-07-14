@@ -80,4 +80,4 @@ def ejecutar_pipeline_neuro_econometrico(ruta_datos: str):
     return model
 
 if __name__ == "__main__":
-    ejecutar_pipeline_neuro_econometrico('estudiantes_clean.csv')
+    ejecutar_pipeline_neuro_econometrico('data/processed/estudiantes_clean.csv')

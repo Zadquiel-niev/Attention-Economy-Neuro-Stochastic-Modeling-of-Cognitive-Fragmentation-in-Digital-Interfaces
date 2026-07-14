@@ -1,0 +1,12 @@
+# Ignorar basura de metadatos de R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Ignorar basura de Python
+__pycache__/
+*.pyc
+
+# Ignorar archivos del sistema operativo
+Thumbs.db
+.DS_Store
