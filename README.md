@@ -80,8 +80,8 @@ Log-likelihood and information criteria were calculated to evaluate parameter ef
 
 Stochastic simulation via non-parametric Bootstrapping ($10,000$ iterations) evaluated the stability of cognitive response:
 * **Quartile Stability ($P_1 - P_3$):** Cognitive response remains stable across the lower $75\%$ of the empirical distribution.
-* **Inflection Point ($\text{IFA} = 30.03$):** The stochastic iteration identified a precise mathematical breaking point at $\text{IFA} = 30.03. This corresponds exactly to the 85th percentile ($P_{85}$, $+1.26\sigma$ above the mean)[cite: 4].
-* **Neuro-Cognitive Implication:** At $P_{85}$, subjects experience an average of 128 unlocks/day (a disruption every 7.5 minutes), inducing dorsolateral prefrontal cortex (dlPFC) saturation and inhibiting the activation of deep work states[cite: 4].
+* **Inflection Point ($\text{IFA} = 30.03$):** The stochastic iteration identified a precise mathematical breaking point at $\text{IFA} = 30.03. This corresponds exactly to the 85th percentile ($P_{85}$, $+1.26\sigma$ above the mean).
+* **Neuro-Cognitive Implication:** At $P_{85}$, subjects experience an average of 128 unlocks/day (a disruption every 7.5 minutes), inducing dorsolateral prefrontal cortex (dlPFC) saturation and inhibiting the activation of deep work states.
 
 ---
 
