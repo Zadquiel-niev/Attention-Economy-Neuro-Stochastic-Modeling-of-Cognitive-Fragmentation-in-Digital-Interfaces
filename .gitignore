@@ -10,3 +10,5 @@ __pycache__/
 # Ignorar archivos del sistema operativo
 Thumbs.db
 .DS_Store
+reports/~WRL0003.tmp
+reports/~$port_Neurocognitivo_All.docx
