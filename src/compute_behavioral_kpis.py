@@ -4,13 +4,16 @@ import numpy as np
 def compute_behavioral_kpis(data_path: str):
     
     # Cargamos los datos con Polars
+    
     df = pl.read_csv(data_path)
     
     # Segmentación Etaria
+    
     under_20 = df.filter(pl.col("Age") < 20)
     over_22 = df.filter(pl.col("Age") >= 22)
     
     # Tiempo medio de resistencia antes del primer microimpulso (16h activas = 960 min)
+    
     under_20_sat = under_20.filter(pl.col("IFA") >= 30.03)
     over_22_sat = over_22.filter(pl.col("IFA") >= 30.03)
     
@@ -18,15 +21,16 @@ def compute_behavioral_kpis(data_path: str):
     time_to_impulse_o22 = (960.0 / over_22_sat["Screen_Unlocks_Per_Day"]).median()
     
     # Cálculo del cambio porcentual positivo en resistencia (sostener la atención)
+    
     pct_more_resistant = ((time_to_impulse_u20 - time_to_impulse_o22) / time_to_impulse_o22) * 100
     
     # Micro-sesiones (< 5 min por ventana de atención)
+    
     df = df.with_columns([
         (960.0 / pl.col("Screen_Unlocks_Per_Day")).alias("window_min")
     ])
     
     micro_session_ratio = (df.filter(pl.col("window_min") < 5.0).height / df.height) * 100
-
 
     print(" KPIS DE COMPORTAMIENTO DIARIO Y ATENCIÓN JOVEN (< 20 AÑOS)")
     print(f"\n1. RESISTENCIA ATENCIONAL EN MENORES DE 20 AÑOS (Régimen Saturado):")

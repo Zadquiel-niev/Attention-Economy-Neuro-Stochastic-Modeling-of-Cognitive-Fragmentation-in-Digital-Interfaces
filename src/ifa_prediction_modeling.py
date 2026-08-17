@@ -73,6 +73,7 @@ def ejecutar_pipeline_neuro_econometrico(ruta_datos: str):
         print(f"    - {predictores[i-1]:<28} : VIF = {vif_val:.4f}")
 
     # Supuesto 5: Independencia de Residuos mediante Durbin-Watson
+    
     dw_stat = durbin_watson(model.resid)
     print(f"  [SUPUESTO 5] Autocorrelacion de Residuos (Durbin-Watson): DW = {dw_stat:.4f}")
     

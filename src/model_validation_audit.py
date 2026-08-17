@@ -10,7 +10,8 @@ def auditar_modelo_y_datos(ruta_datos: str):
     print("  INICIANDO BATERÍA DE AUDITORÍA Y ESTRESAMIENTO ECONOMÉTRICO")
     print("=" * 75)
 
-    # cargamos los datos desde la ruta de datos 
+    # Cargamos los datos desde la ruta de datos 
+    
     df = pl.read_csv(ruta_datos)
     
     # Selección de covariables y variable dependiente
@@ -22,6 +23,7 @@ def auditar_modelo_y_datos(ruta_datos: str):
     ]
     
     # Estandarización Z-score, o sea la formula clásica de Distribución nORMAL Z estándar
+    
     df_z = df.select([
         ((pl.col(col) - pl.col(col).mean()) / pl.col(col).std()).alias(f"{col}_z")
         for col in predictoras + ['IFA']

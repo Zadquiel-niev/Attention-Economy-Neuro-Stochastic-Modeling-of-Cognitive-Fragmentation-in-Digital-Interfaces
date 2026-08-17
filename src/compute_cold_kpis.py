@@ -32,24 +32,29 @@ def compute_cognitive_cost_kpis(data_path: str):
     ])
     
     # Segmentación por Regímenes (Subcrítico vs. Saturado P85 usando la columna real 'IFA')
+    
     subcritical = df.filter(pl.col("IFA") < 30.03)
     saturated = df.filter(pl.col("IFA") >= 30.03)
     
     # MÉTRICAS EN FRÍO
     # Regimen 1: Subcrítico (IFA < 30.03)
+    
     avg_window_sub = subcritical["uninterrupted_window_min"].mean()
     half_life_sub = subcritical["focus_half_life_min"].mean()
     latency_hours_sub = subcritical["refocus_latency_hours"].mean()
     prob_high_prod_sub = subcritical["high_productivity_flag"].mean() * 100
     
     # Regimen 2: Saturado (IFA >= 30.03)
+    
     avg_window_sat = saturated["uninterrupted_window_min"].mean()
     half_life_sat = saturated["focus_half_life_min"].mean()
     latency_hours_sat = saturated["refocus_latency_hours"].mean()
     prob_high_prod_sat = saturated["high_productivity_flag"].mean() * 100
 
     # Modelo Logístico para Probabilidad de Rendimiento
+    
     df_pd = df.to_pandas()
+    
     # Ecuación ajustada al nombre real de la columna "IFA"
     logit_model = smf.logit("high_productivity_flag ~ IFA", data=df_pd).fit(disp=0)
     
@@ -58,7 +63,8 @@ def compute_cognitive_cost_kpis(data_path: str):
     eval_pd = eval_points.to_pandas()
     eval_pd["prob_success_%"] = logit_model.predict(eval_pd) * 100
 
-    #  RESULTADOS
+    # RESULTADOS
+    
     print(" IMPACTO EN FRÍO: COSTO COGNITIVO Y POSIBILIDADES DE COLAPSO")
     
     print(f"\n1. TIEMPO DE VIDA MEDIO DE LA ATENCIÓN (HALF-LIFE):")

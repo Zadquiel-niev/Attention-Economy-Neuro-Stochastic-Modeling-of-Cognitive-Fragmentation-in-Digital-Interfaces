@@ -12,6 +12,7 @@ def compute_greenwood_table(durations: np.ndarray, events: np.ndarray) -> pl.Dat
     """Cálculo analítico explícito del estimador Kaplan-Meier S(t)
 
     y su varianza asintótica mediante la Fórmula de Greenwood:
+    
     Var{S(t)} = [S(t)]^2 * sum(d_i / (n_i * (n_i - d_i)))
     """
     unique_times = np.sort(np.unique(durations))
@@ -78,7 +79,8 @@ def run_survival_analysis(data_path: str):
     sub_df = df.filter(pl.col("is_saturated") == 0)
     sat_df = df.filter(pl.col("is_saturated") == 1)
 
-    # 3. Tablas de Greenwood por régimen
+    # Tablas de Greenwood por régimen
+    
     gw_sub = compute_greenwood_table(
         sub_df["duration_min"].to_numpy(), sub_df["event_observed"].to_numpy()
     )
@@ -116,6 +118,7 @@ def run_survival_analysis(data_path: str):
     z_ifa = cph.summary.loc["IFA", "z"]
 
     # Auditoría formal del Supuesto de Riesgos Proporcionales (Residuos de Schoenfeld)
+    
     schoenfeld_test = proportional_hazard_test(cph, cox_data, time_transform="rank")
     p_val_schoenfeld_ifa = schoenfeld_test.summary.loc["IFA", "p"]
 
@@ -186,7 +189,7 @@ def run_survival_analysis(data_path: str):
     plt.tight_layout()
     plt.savefig(plot_file)
     plt.close()
-    print(f"\n📁 [ÉXITO] Gráfico guardado en: {plot_file}")
+    print(f" [ÉXITO] Gráfico guardado en: {plot_file}")
 
 if __name__ == "__main__":
     run_survival_analysis("data/processed/estudiantes_clean.csv")

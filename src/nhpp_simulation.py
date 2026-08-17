@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 def lambda_intensity(t_hours):
+    
     """
     Función de intensidad diurna lambda(t) con 3 picos gaussianos de fricción
     t_hours en [0, 17] (equivalente a 6:00 AM a 11:00 PM)
@@ -78,12 +79,11 @@ def run_nhpp_simulation():
     plt.savefig("reports/assets/simulacion_poisson_no_homogeneo.png")
     plt.close()
     
-    print("=" * 80)
-    print("🎯 RESULTADOS DE LA SIMULACIÓN DE POISSON NO HOMOGÉNEO (NHPP)")
-    print("=" * 80)
+  
+    print(" RESULTADOS DE LA SIMULACIÓN DE POISSON NO HOMOGÉNEO (NHPP)")
     print(f"- Total Interrupciones Simuladas en Régimen Subcrítico : {len(sim_sub)} eventos/día.")
     print(f"- Total Interrupciones Simuladas en Régimen Saturado   : {len(sim_sat)} eventos/día.")
-    print("📁 Gráfico guardado en: assets/simulacion_poisson_no_homogeneo.png\n")
+    print(" Gráfico guardado en: assets/simulacion_poisson_no_homogeneo.png\n")
 
 if __name__ == "__main__":
     run_nhpp_simulation()
